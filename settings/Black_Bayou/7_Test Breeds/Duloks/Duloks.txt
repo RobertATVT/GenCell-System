@@ -1,0 +1,72 @@
+<HTML><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Garamond" LANG="0">------------------------<BR>
+^v^     Duloks    ^v^<BR>
+Duloks can be changed from:  Mortals, Psychics, Lamia, Demons, Angels<BR>
+Duloks can become: Mortal, Demon, Angel, Vampire, Werewolf<BR>
+<BR>
+Statistic Changes for this breed: +1 Body(14), -1 Mind(12), +2 Soul(15)<BR>
+<BR>
+Fighting Mastery: Focus- +3 Initiative, +2 Attack.  The Dulok is so distorted in its methods that it aims to destroy its victim as quickly as possible.  There is immense focus on the enemy, and everything else seems to no longer matter.<BR>
+<BR>
+ ((LOCKED:  May only be created after you have an approved Mortal CS for no less than 30 days.  Generation is allowed if you have been playing the game for no less than one year, with no break in playing greater than 2 months unless approved (i.e. approved Frozen CS))<BR>
+<BR>
+In the times before the Neolithic revolution, humans banded together in tribes and worked together to survive.  One of these tribes was small, and made its life wandering African rain forests.  Their leader stumbled upon a strange area in the forest though.  It was a purple liquid, looking like the juice of berries, but much clearer.  Investigating, he drank it, only to find himself overcome with fear for several days.  His tribe members, seeing<BR>
+this, kicked him out of the tribe to prevent further mishap to the group.  But a week later, the man fear had ceased, and the man found himself with strange and mysterious abilities that other men didn’t have.  He now had to live on his own, but vowed revenge against the tribe that disowned him.  After sometime, he even had the ability to make others of his kind.<BR>
+<BR>
+While the Duloks still do not know what their ancestor drank that day, they know it is the key to their existence, and also how they produce more of their kind.  Their bodily juices have become a weak acid.  Clear as water in small amounts, but when as large as puddles, its purple tone is evident.  Duloks are humans, with the instincts of what can only be described as a cross between a spider and a serpent.<BR>
+<BR>
+Duloks are vengeful and condescending, having an inner hate for the weak humans that pushed them away.  They do not fear being known, their biggest fear is that humankind will always rule over them, though they seem to be weaker.  In a Dulok’s mind, the human race is as pathetic as a worm is in a human’s mind.<BR>
+<BR>
+The Becoming:  A Dulok is created in a week long process called "Banetide".  The Master Dulok forces his purple excretions into the target’s body, usually by cutting them open and forcing it in, though drinking it will also have the same effect.  Though the Dulok must be in Serpachne Form to excrete the liquid from the glands in its two foremost arms, it does not have to implant it while in this form.  If the liquid is not used within the hour, it<BR>
+in effect goes bad, and become purple water.<BR>
+After it is implanted, the target must make a 2d6+Will v.s. TN 20 roll.  If he should fail, the liquid’s effects overwhelm him, and he will die(If a mortal breed) from flat our fear.  Members of the Angel and Demon breed who become Duloks do not have to roll.  Either way, the person starts becoming afraid of everything around them, and their worst fears have an even larger effect on them.  Simple things like crossing the street could be made an<BR>
+impossible task to the weakest, all caused by the liquid. <BR>
+After 7 days, the fear will drain away, and the person will be back to normal, except now they will be a member of the Dulok breed.<BR>
+<BR>
+Please note: only one Dulok may be created by any single Dulok per week.<BR>
+<BR>
+Mortality:  Mortal<BR>
+<BR>
+Means of Death:  The Dulok is a fierce distortion of a mortal, and so can be killed as any mortal can, by bringing its body statistic to it’s opposite in the negative (Someone with 5 body would have to be brought to -5).  Also, fire will cause 2 damage a round to the Dulok, which cannot be healed supernaturally.<BR>
+<BR>
+Please note: If you have the following level of lore, this is what your character thinks they know about Duloks.  Some are fact and some are myth.  If it is not listed in the information above or specifically stated below, it is myth.<BR>
+<BR>
+Lore Level 1:  No lore item.<BR>
+<BR>
+Lore Level 2: Warding Item<BR>
+<BR>
+Lore Level 3: Damaging Item, Sight Recognition<BR>
+<BR>
+Mandatory Role-play Requirements<BR>
+1)  Duloks try to incite fear every chance they get to.  If they see a good opportunity to do so, they will use it to their best advantage.<BR>
+<BR>
+2)  Duloks hate mortals, and are very ignorant.  If they assume someone is a member of the mortal breed, they will have a dislike for them.  While these feelings do not have to be shown outright, the littlest of confrontations could release this hate.  Some Duloks work to undermine humanity, some just observe and dislike it.  It is possible for a Dulok to change its feelings towards specific people through a storyline.<BR>
+<BR>
+3) The Dulok feels superior, and is quite condescending.  They feel second to none.  They believe they are the master breed, and all other breeds are inferior.<BR>
+<BR>
+4) The Dulok has no blood, saliva, or any other normal bodily liquid.  The purple ooze that created them flows in place of these, and performs all the functions, including reproduction and oxygen carrying.  In small amounts, it appears clear, only in larger puddles will it have its purple tint.  A Dulok cannot starve, or suffocate easily.  The ooze just slows the bodily functions down to the point of near zero, and the body survives just barely.  It<BR>
+would take at least a year to starve a Dulok, and they can go without breathing for weeks at a time.<BR>
+<BR>
+Dulok Special Abilities<BR>
+<BR>
+Serpachne - 0 Soul to use.  (##Serpachne##)<BR>
+System/Duration:  NA / Indefinite; takes 1 round to shapeshift.<BR>
+Effect/Description: The spirit of their ancestors flows in all Duloks.  It is speculated that the form they turn into is that of an extinct, vicious animal, that always looked the way the Dulok does in this form.  Four extra arms rip through the skin as bones snap into place, and disappear on the inside.  Eyes seem to clone themselves once, and turn into slits, as the face extends, turning a dark black.  Skin appears reptilian, black scales replacing<BR>
+flesh.  The teeth of the creature sharpen, and a tongue oozing with purple goop hanging from the lip-less mouth.  The creature soon appears to be what can best be described as part insect and part serpent.  In this form, the creature strengthens every aspect of itself a bit, and so, adds +1 Body, +1 Mind, and +1 Soul until they leave the form<BR>
+<BR>
+Bane of Mortality - 0 Soul to use (##BoM##)<BR>
+System/Duration:  Roll 2d6+Will+SW vs target’s 2d6+Will+SW/4 rounds or 2 minutes<BR>
+Effect/Description:  Duloks  are able to incite fear in targets from all walks of life, even though true mortals are their main enemy.  They can ward nearly any creature using this ability, as long as they have proper Lore levels and IC knowledge to do so.  The will roll replaces the faith roll, and no specific item must be held aloft, although eye contact must be met.  The target will then run away as if effected by that of the item that wards them<BR>
+as the Dulok tears into their deepest fears.  This can be attempted on anyone without the lore or knowledge, but will always fail unless the target is of the mortal breed; the only breed which requires no lore to have knowledge of.  All Duloks are immune to this power.<BR>
+<BR>
+Ancient Knowledge - 0 Soul to use.  (No room command needed)<BR>
+System/Duration:  NA/NA<BR>
+Effect/Description: When becoming a Dulok, supernatural knowledge is gained as a part of the understanding of what causes fear.  Upon becoming a member of the breed, this knowledge is imbued and layered upon the mind near the surface, able to be plucked out just as easily as it was tossed in upon a breed change.  While all breeds gain one level of lore in their own breed upon changing, the Dulok gains this, plus level 1 lore in 3 breeds of their<BR>
+choosing.  This lore works the same way as the innate lore for each breed: If the Dulok ever changes breeds, this knowledge is lost.<BR>
+<BR>
+Specialty - 0 Soul to use.  (no room command needed)<BR>
+System/Duration:  NA/NA<BR>
+Effect/Description:  Like Ancient Knowledge, the art of specializing is something that comes with being a Dulok.  This knowledge was something already lying beneath the surface already, and the enhancement brought on by the Dulok change has brought it to the fore.  Whether it be swinging a sword, or knowing when to sell, this amount of specialization is something a mortal simply cannot do.  Upon changing breeds, you may select one of the skills you<BR>
+already have at least one level of, and mark it with double *’s on your sheet.  This is your specialty skill, and you will receive +2 to all rolls involving the skill.  Unfortunately, some skills are effected less by this, usually because of their difficulty to master.  If this skill is chosen for any combat skills, theology, faith, or steel will, the bonus will only  be +1, and the skill chosen cannot be one that you already get other bonuses<BR>
+directly added on to. (For example, an LPO with Small Arms, or a Thug with small melee).<BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=CENTER></P></FONT></HTML>

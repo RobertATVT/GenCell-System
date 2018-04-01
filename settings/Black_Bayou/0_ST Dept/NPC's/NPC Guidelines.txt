@@ -1,0 +1,66 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=4 PTSIZE=12 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><U>NPC Guidelines for SL & ST Dept</FONT><FONT  SIZE=3 PTSIZE=10></B></U><BR>
+</P><P ALIGN=LEFT><BR>
+	Non Player Characters (NPC's) can be a vital part of any Storyline (SL) and bring about numerous venues of roleplaying experiences.  The use of NPC's should in no way cut out the chance for Player Character (PC) interaction however.  If you have any ideas in which you may need additional people for your storyline, feel free to check with other players first, there are plenty of varying characters already out there to make an interesting occurance and most will be happy to be given part of something well thought out and creative.<BR>
+<BR>
+	The use of NPC's is not limited except for on instance.  If an NPC has stats, they have to be approved along certain guidelines.  These will only be approved in the event that a Player Character simply will not work.  For instance:  Standard Police, Fire Fighters, Security Guards, Secretaries, Accountants, Some Lawyers, Doctors, Nurses, etc...  in these occasion a PC may not work out or be found in time and an NPC may be needed.  If your SL runs into this area we have set up a fair level system to guide you through the NPC creation process.<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=4 PTSIZE=12><B><U>Level One</FONT><FONT  SIZE=3 PTSIZE=10></B></U>	(Minor Antagonist or Mentor)<BR>
+<BR>
+Requirements for Hire:			Level 1 Income<BR>
+Other Requirements:			Level 1 in NPC's Breed Lore if NPC is a Breed<BR>
+								No level requirements (Max Skill 4 for training)		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+Statistics 						- 15 points<BR>
+Skills, Occupations, Masteries	- 40 points<BR>
+Limitations						- No lores and standard generation rules<BR>
+								- (Mortal and Breed generation allowed, no siring)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=4 PTSIZE=12><B><U>Level Two</FONT><FONT  SIZE=3 PTSIZE=10></B></U>	(Moderate Antagonist or Mentor)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10>Requirements for Hire:			Level 2 Income, Level 1 Finance<BR>
+Other Requirements:			Level 1 in NPC's Breed Lore if NPC is a Breed<BR>
+								Level 3 in Skill to be Trained (Max Skill 7)		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+Statistics 						- 18 points<BR>
+Skills, Occupations, Masteries	- 50 points<BR>
+Limitations						- No lores and standard generation rules<BR>
+								- (Mortal and Breed generation allowed, no siring)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=4 PTSIZE=12><B><U>Level Three</FONT><FONT  SIZE=3 PTSIZE=10></B></U>	(Average Antagonist or Mentor)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10>Requirements for Hire:			Level 4 Income, Level 2 Finance<BR>
+Other Requirements:			Level 2 in NPC's Breed Lore if NPC is a Breed<BR>
+								Level 7 in Skill to be trained (Max Skill 11)		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+Statistics 						- 23 points<BR>
+Skills, Occupations, Masteries	- 60 points<BR>
+Limitations						- Level One Lore and standard generation rules<BR>
+								- (Mortal and Breed generation allowed, no siring)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=4 PTSIZE=12><B><U>Level Four</FONT><FONT  SIZE=3 PTSIZE=10></B></U>	(Strong Antagonist or Mentor)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10>Requirements for Hire:			Level 8 Income, Level 4 Finance<BR>
+Other Requirements:			Level 2 in NPC's Breed Lore if NPC is a Breed<BR>
+								Level 11 In skill to be trained (Max skill 13)		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+Statistics 						- 27 points<BR>
+Skills, Occupations, Masteries	- 70 points<BR>
+Limitations						- Level Two Lore and standard generation rules<BR>
+								- (Mortal and Breed generation allowed, no siring)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=4 PTSIZE=12><B><U>Level Five</FONT><FONT  SIZE=3 PTSIZE=10></B></U>	(Powerful Antagonist or Mentor)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10>Requirements for Hire:			Level 16 Income, Level 8 Finance<BR>
+Other Requirements:			Level 3 in NPC's Breed Lore if NPC is a Breed<BR>
+								Level 13 in skill to be trained (Max Skill 15)		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+Statistics 						- 30 points<BR>
+Skills, Occupations, Masteries	- 80 points<BR>
+Limitations						- Level Three Lore and standard generation rules<BR>
+								- (Mortal and Breed generation allowed, able to sire)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><U>Level Six +</U>	(Ancient Antagonist or Mentor)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+Up to FD approval and no guidelines.<BR>
+<BR>
+<BR>
+</HTML>

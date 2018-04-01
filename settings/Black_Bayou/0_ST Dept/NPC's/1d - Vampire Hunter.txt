@@ -1,0 +1,156 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Level 5 Hunter NPC<BR>
+</FONT><FONT  SIZE=4 PTSIZE=11>Silver Future GWSL ~ Werewolf Vampire Hunter</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname:<B> MrAndreiBrezianu<BR>
+</B>Character's Real Name:<B> MrAndreiBrezianu<BR>
+</B>Date of Character Creation<B>: NA<BR>
+</B>Date of Last Update:<B> NA</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>        <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>31</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>20	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>22		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>25</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>28</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level       Damage                    Misc                     XP Cost               </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+   	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Small Arms      		9		   3						 	   	Next Level x 3</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1)</B> Sure Shot*			3										Next Level x 5<BR>
+   	<B>2)</B> <BR>
+	<B>3)</B> Reflexes          		3       									Next Level x 2<BR>
+	<B>4)</B> <BR>
+	<B>5)</B> <BR>
+	<B>6)</B> Lycanjitsu			12		   3		(+9 Attack, +6 Dodge)		Next Level x 4<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level                                   Misc                     XP Cost                	<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Faith           	    		3        									Next Level x 2<BR>
+	<B>1) </B>Tracking         		3     										Next Level x 2<BR>
+	<B>2)</B> Athletics          		2										Next Level x 2<BR>
+	<B>3)</B> Income            		1										Next Level x 4<BR>
+	<B>4)</B> Finance 			1										Next Level x 3<BR>
+	<B>5)</B> <BR>
+	<B>6)</B> <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>      Name                                                    Level                                            XP Cost            	<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></U>	Vampire Lore						3							NA</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>	Werewolf  Lore						3							NA</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Hunter</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</I>Bonus Skills       Level        Skill Cost<BR>
+</B>Faith               		3        	Next Level x 2<BR>
+Heavy Arms     	3        	Next Level x 4<BR>
+Reflexes          	3       	Next Level x 2<BR>
+Small Arms      	3 	   	Next Level x 3<BR>
+Tracking         		3     		Next Level x 2<BR>
+Athletics          	2          	Next Level x 2<BR>
+<Breed> Lore  (see below)	Next Level x 6<BR>
+Income            	1        	Next Level x 4<BR>
+Finance 			1		Next Level x 3<BR>
+<B>Advantage:</B>  A hunter may choose a single level of Lore, free of charge.  They also receive a +2 to any mastery resistance roll granted by having level 2 lore in the breed of their aggressor, and +4 to any mastery resistance roll by having level 3 lore in the breed of their aggressor.   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Healing</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use. (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> Werewolves have an incredible natural healing ability.  Any wound caused to the werewolf will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by bane water cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#000080" SIZE=2 PTSIZE=8>.)</FONT><FONT  COLOR="#800040" SIZE=2 PTSIZE=8><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Horus Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -  0 Soul to use.  (##HorusForm <target of rage>##)</B><BR>
+<B>System/Duration: </B> NA / Until target(s) is destroyed; takes 1 round to shape shift.<BR>
+<B>Effect/Description:</B>  Tall, muscular, and extremely strong, this raging beast is terror incarnate.  The massive head of a deranged wolf sits upon a massive set of shoulders.  Thick matted fur covers its body as four inch claws tip the fingers on their enormous paws.  Their eyes are slits like animals, but still retain their human color.  Their reasoning is that of a maddened beast; pure instinct.  Impervious to logic, they seek only to <I>destroy</I> the target of their fury.  It will go to whatever means necessary to <I>kill</I> the target of its rage, whether it is loved one or foe.  Once the target has been <I>killed</I>, reason begins to fight its way back.  How the Horus reacts depends on the individual it is.  Some flee while others fall to their knees sobbing.  While in Horus form, the werewolf gains +3 Body.  Due to its enraged state, the Horus is immune to the following masteries: Terror, Hypnotic Suggestion, Mind Scrye, Illusions, and Twisted Visions.  Since the Horus is unable to think rationally, it may only use the following masteries: Dulled Pain, Rending, Agile Wolf, and Terror.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -  0 Soul to use.  (>>::target of Mindspeak:: message<<)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the werewolf is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within view of the werewolf attempting to communicate in this fashion.  Mindspeak can only be used to speak to one individual at a time.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Wolf Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use.  (##WolfForm##)</B><BR>
+<B>System/Duration:  </B>NA / Unlimited; takes 1 round to shape shift.<BR>
+<B>Effect/Description:  </B>A werewolf who is attuned to its own inner nature is able to assume its sister form at will.  They appear in many different shapes and sizes, their wolf forms often taking an appearance characteristic of their personality.  They still retain their normal eye color, however.  While in wolf form, they gain +1 Body.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>   </FONT><FONT  SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Dispas</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 1 Soul to use. (##Dispas##)</B><BR>
+<B>Generation Cost: </B>10 /<B> Experience Cost:</B> 50<I><BR>
+<B></I>System/Duration: </B> roll 2d6+Will vs TN 20 / Indefinitely; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  The cunning wolf can sometimes blend in with its surroundings when danger is near.  For all intents and purposes, the Werewolf is considered to be totally invisible to the eye and all waves of the light spectrum, including infrared, etc.  However, even while not visible, the wolf -can- be heard and smelled, should those methods be available to others.  The werewolf will remain in this state until it drops the cover or attacks its prey.  Attacks made while under the cover of Dispas are granted a +5 bonus for surprise.  Werewolves under dispas cannot be targeted for attacks, as they cannot be seen.  Werewolves also cannot target others for attack as that would be too strenuous.  In this case, 'targeting' is the ability to use skills or masteries to enhance damage or hit a certain spot on someone.  No Aiming, Rending, Sure Shot, etc.  If a character has a Mastery that allows them to recognize hidden things (Heightened Awareness, Enhanced Senses, etc.) and they SAW the werewolf change into Dispas, they can roll their Mastery to 'see' where the werewolf is, provided the werewolf has not yet left the area.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Enhanced Senses ~ Smell</I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>- 1 Soul to use. (##ES:Smell##)</B><BR>
+<B>Generation Cost:</B> 5 /<B> Experience Cost:</B> 25<I><BR>
+<B></I>System/Duration: </B> roll 2d6+Body vs TN 16 / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  A werewolf's sense of smell is so strong and acute, that their sense of smell can sometimes compensate for their sense of sight.  Werewolves that utilize their sense of smell can effectively "see" in complete darkness.  It can distinguish between the many different scents around him and can pinpoint their exact location.  This allows the werewolf to ignore any penalties due to vision.  Strong winds or powerful smells can throw the werewolf off.  The nuances are up to the room host, ST or GM.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Dulled Pain</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use. (##Dulled Pain##)</B><BR>
+<B>Generation Cost: </B>10 /<B> Experience Cost:</B> 50<I><BR>
+<B></I>System/Duration: </B> NA / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description: </B> Due to the werewolf's innate healing system and mind set, its body is able to handle the stress of physical attacks better than any other creature.  They are more resilient to the damage they can take before pain begins to affect their abilities.  A werewolf with Dulled Pain ignores changes to their modifiers that would normally take effect through the loss of Body for the first 3 points of damage. <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Scent of the True Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use.  (##ScentTForm <target>##)</B><BR>
+<B>Generation Cost:</B> 5 /<B> Experience Cost:</B> 25<BR>
+<B>System/Duration: </B> roll 2d6+Will vs target's 2d6+Will / Instant; takes 1 round to activate.<BR>
+<B>Effect/Description: </B> The werewolves' olfactory senses are very sensitive, sometimes to the point where they pick up on the presence of supernatural beings.  They will instantly know what the individual's breed is if they have Lore level 3 of that breed.  The individual must IM the werewolf's player with the truth if the werewolf wins the roll.  *Demons using Soul Mask, will reflect the breed being masked and not the nature of the Demon.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Extended Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 1 Soul to use.  (as mindspeak)</B><BR>
+<B>Generation Cost:</B> 5<B> </B>/<B> Experience Cost:</B> 25<I><BR>
+<B></I>System/Duration: </B>roll 2d6+Will vs TN 20 / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description: </B>The werewolf has learned to seek others out by manipulating their natural ability: Mindspeak.  This allows the werewolf to communicate via Mindspeak to a target within one mile.  For every mile after the first, a modifier of +3 is added to the target number.  The communication is only one way, unless the target also has the mastery: Extended Mindspeak.  No roll is necessary unless the werewolf is in combat.  If combat is initiated while this mastery is in effect, the werewolf must reactivate it due to the stress of combat.<BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   <BR>
+<B>Breed:</B> Werewolf<B><BR>
+Height: </B>6' 0"<BR>
+<B>Weight:</B> 180 pounds<B><BR>
+Hair Color:</B> Black<BR>
+<B>Eye Color:</B> Brown<BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>   <B><BR>
+Tall, muscled, and dark, he is otherwise non-remarkable, which helps him not draw notice and be harder to identify. Perfect for his line of work. Tends to prefer conservative clothes that allow for range ofmovement, without loose ends that will catch on things or provide handholds. Always carries a cross in his coat pocket, and multi-purpose tool, with a knife blade as well of course, in a pouch on his belt. Demeanor always serious; he has a job, one he is good at, but does not enjoy overmuch, and thus is always cold and quiet.</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I></U>	<U>Where Spent                Skill/Attribute/Mastery                   Level                       Cost<BR>
+</P><P ALIGN=LEFT></U>       		 <I>Attributes (30) </B></I>:		Body (+2 for Wolf)					12				10<BR>
+							Mind	(-1 for Wolf)					10				11<BR>
+							Soul	(+1 for Wolf)					10			<U>         9</U><BR>
+																			<B><I>30</B></I><BR>
+<BR>
+		<B><I>Skills (80) :</B></I>			Hunter Occupation					free				free<BR>
+								Faith               					3        			free<BR>
+								Reflexes          				3				free<BR>
+								Small Arms      				6				free<BR>
+								Tracking         					3     				free<BR>
+								Athletics          				2				free<BR>
+								Werewolf Lore  				3				free<BR>
+								Income            					1				free<BR>
+								Finance 						1				free<BR>
+							Lycanjitsu						12				36<BR>
+							Sure Shot						Gift 				free<BR>
+							Small Arms						+3				9							Dispas							Mastery			10<BR>
+							Dulled Pain						Mastery			10<BR>
+							ES Smell							Mastery			5<BR>
+							Scent of True Form					Mastery			5<BR>
+							EMS								Mastery			5<BR>
+																		<U>		</U><BR>
+																			<B>80<BR>
+<BR>
+<BR>
+</B></HTML>

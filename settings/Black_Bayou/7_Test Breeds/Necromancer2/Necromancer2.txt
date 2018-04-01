@@ -1,0 +1,77 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Breed Submission: Necromancer p2</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	6/23/2000 5:05:09 AM !!!First Boot!!!<BR>
+From:	<A HREF="mailto:GodfreyODominus">GodfreyODominus</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+CC:	<A HREF="mailto:GodfreyODominus">GodfreyODominus</A><BR>
+Sent on:	AOL 5.0 for Windows sub 110<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#800000" SIZE=4 PTSIZE=12 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><B>Here's part two of my breed submission.  This is the Masteries section.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=16>(Necromancer Masteries)<BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+</P><P ALIGN=CENTER><I>^v^</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10><B>    </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16>Necromancer Masteries</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>^v^</I><BR>
+</P><P ALIGN=LEFT><BR>
+Necromancers, to appease darkness, sacrifice reagents without hesitation.  Since Necromancers have an undying devotion to the Dark, they have been given the favor of the evil under lords and, as such, have been granted the powers of dead and destruction.  Necromancers then use this power to send more sacrifices to their Gods or use them to their own advantage.  A few of their powers require touch or eye contact in order for the Necromancer to use their powers on the intended victim.  For touch masteries, the Necromancer must touch them before the mastery having an effect (standard hand to hand roll, no damage; only if the victim refuses to be touched).  After they successfully touch the target, the system for the mastery is rolled.  The Necromancer must also make eye contact for masteries requiring such.  If the victim fights the eye contact, the psychic must roll 2d6+Mind vs. victim's 2d6+Body before rolling the mastery's activation.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Sample Mastery Listing:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10></I>Mastery Name  <I> Soul Cost per use.   (room command for activation)<BR>
+Mastery point cost at Generation / Mastery cost with Experience Points</B></I><BR>
+<B>System/Duration:</B>  the roll required to activate the mastery and the target number needed for the character to succeed / how long the effects of the masteries last.  The role-played effects of certain masteries can last a lot longer than the combat effects.  Also listed here is the number of rounds it takes to activate the mastery.<BR>
+<B>Effect/Description: </B> This is a description of the mastery and its effects.<BR>
+<BR>
+Most of the time your character tries to use a mastery, you will need to do three things.  First, your character must harness the energy within required to activate the mastery.  Whether this be concentrating on a target, chanting a ritual, screaming at the top of your lungs, etc.  Then you must enter the room command.  This command is listed in parenthesis on the top line of the mastery's description.  They are used to alert the host and the other players that you are using a mastery.  The other characters may not be aware of this, but their players should be.  During the duration of the mastery, you burn the fuel in order to perform it.  Therefore, once the mastery's duration is concluded you will expend the soul listed.  You must decrease your character's soul statistic by each point listed to the right of the mastery's name.  The final thing you have to do is follow the rest of the description.  This is usually a dice roll and upon success, some sort of effect.<BR>
+<BR>
+The Masteries<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Call The Cult</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (>>::cult:: <<)</B><BR>
+<B>Generation Cost:</B> 5 / Experience Cost: 25<BR>
+<B>System/Duration:</B> NA / Instant; takes 1 round to activate.<BR>
+<B>Effect/Description:</B> Having such an incredible bond between cult members, Necromancers have learned to fine tune Mindspeak during confrontational situations.  The Necromancer can spend a turn shouting out a one sentence Mindspeak to each of its cult members as one, regardless of distance.  Each cult member must have the mastery Call the Cult to be included in the Mindspeak.  The cult must spend an evening attuning their minds together (and this log file must be posted) for the mastery to work.  This attunement only needs to take place once, unless a new member is added or removed.  At that point, the attunement must be renewed.  The cult member must be available (online) in order to receive this call.  They may not necessarily be in their cult name SN.  It is okay to IM the message normally, but if the cult member is on an unknown SN or not online, you cannot Email the message.  Cult members are considered in 'dead zones' during these circumstances and will not receive your message.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Extended Mindspeak </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (as mindspeak)</B><BR>
+<B>Generation Cost:</B> 5 / Experience Cost: 25<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. TN 20 / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:</B> The Necromancer has learned to seek others out by manipulating their natural ability: Mindspeak.  This allows the Necromancer to communicate via Mindspeak to a target within one mile.  For every mile after the first, a modifier of +3 is added to the target number.  The communication is only one-way, unless the target also has the mastery: Extended Mindspeak.  No roll is necessary unless the Necromancer is in combat.  If combat is initiated while this mastery is in effect, the Necromancer must reactivate it due to the stress of combat.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Life Tap</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 2 Soul to use.  (##LifeTap <target> ##)</B><BR>
+<B>Generation Cost:</B> 15 / Experience Cost: 75<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. target's 2d6+Will / NA; takes 0 round to activate.  <BR>
+<B>Effect/Description:</B> A fearful power of the Necromancer is that he is able to siphon strength from a victim.  By reaching out and grabbing the victim, the Necromancer can leech his body points to himself.  After a successful roll, the victim will start to feel their strength being sapped by the Necromancer.  The victim will receive -2 damage to their Body stat, while the Necromancer gains +2 to their Body stat, but may not go over their maximum.  The Necromancer may not use this on an unconscious target.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Lycanthropy</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Lycan <target>##)</B><BR>
+<B>Generation Cost:</B> 10 / Experience Cost: 50<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. victim's 2d6+Will / 4 round or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description:</B> The true lycanthropic curse is very different from the supernatural form.  The Necromancer has found and exploited this disease and, focusing his eyes on his victim, can transmit it, and speed it up temporarily.  The victim, after a successful roll, will immediately sprout hair all over their body.  Their nails will grow longer, as well as their canine teeth.  For the duration of this mastery, the victim will gain +1 to all Body rolls, while receiving -1 to all Mind rolls.  Please note that the victim will look like a Teenage Werewolf in a B-rated movie of the same name.  After the duration of the curse, all hair that was not there previously will recede back into the skin and the changed stats will return to normal.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Meditation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 0 Soul to use.  (##Meditation##)</B><BR>
+<B>Generation Cost:</B> 5 / Experience Cost: 25<BR>
+<B>System/Duration:</B> NA/NA / Instant; takes 15 minutes to activate.  <BR>
+<B>Effect/Description:</B> In order to center himself and replenish his mystical energies after spell casting, a Necromancer needs to shut himself off from the world around them and meditate.  To accomplish this, they must be in their Circle of Power, sitting alone and relaxing, concentrating on a candle flame, or some sort of talisman - perhaps chanting.  The meditation must be role-played for the full 15 minutes in the main room.  If they are interrupted (legitimately) for even a moment, the meditation must begin anew.  One Soul Point may be regained each quarter-hour, going no higher than the original level.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Root</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Root <target> ##)</B><BR>
+<B>Generation Cost:</B> 10 / Experience Cost: 50<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. target's 2d6+Will / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description:</B> Necromancers hate people who run away.  It takes time away from worship.  So to stop fleeing creatures, the Necromancer can summon roots deep in the earth to trap the victim's legs.  The victim's legs will be stuck in one place, but their upper body is free to move.  The victim will receive -4 to their Dodge roll since they can only dodge with their upper body during the duration of this mastery.  Once the duration has expired, the victim is free of any inhibitions of Root.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Skeleton Form</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Skeleton##)</B><BR>
+<B>Generation Cost:</B> 10 / Experience Cost: 50<BR>
+<B>System/Duration:</B> NA / NA; takes 1 round to shift.  <BR>
+<B>Effect/Description:</B> Some Necromancers, being masters of the dead, have the ability to lose their skin and turn into something that is faster than a Mortal, as well as a good fear effect.  With this spell, that is possible.  When a Necromancer turns into a skeleton, his skin will peel off and disintegrate on the ground, as well as any internal organs.  All that would be left is a man-sized animated skeleton, with two fire orbs as eyes.  In this form, the Necromancer gains +2 Dodge because the bones create less air resistance than layers of skin, while losing -4 to Attack due to less momentum behind his attack.  However, bones are hard, blunt objects, so when the Necromancer is attacking hand-to-hand, he gains +1 to damage.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Soul Scrye </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##SoulScrye <target> ##)</B><BR>
+<B>Generation Cost:</B> 5 / Experience Cost: 25<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. victim 2d6+Will / Instant; takes 1 round to cast.<BR>
+<B>Effect/Description:</B> This spell enables the Necromancer to flawlessly detect the true nature of a target.  The Necromancer will instantly know what the individual's breed is.  The individual must IM the Necromancer with the truth if the Necromancer wins the roll.  *Demons using Soul Mask will reflect the breed being masked and not the nature of the demon.  The Necromancer must possess Lore Level 3 for the breed they are attempting to detect, in order to recognize it for what it is.  If the lore is not possessed, the Necromancer will only know there is something odd about the target.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Spook</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Spook <target> ##)</B><BR>
+<B>Generation Cost:</B> 5 / Experience Cost: 25<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. target's 2d6+Will / 4 rounds or 2 minutes; takes 1 round to activate.  <BR>
+Effect/Description: By showing the victim one glimpse of the scene of Hell or of his true form, the Necromancer can paralyze his victim with fear.  If successful, the victim will be at -4 to Attack and Quickness for the duration of the mastery.  The victim snaps out of this stunning fear as the instinct for survival kicks in.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Unholy Strength</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##UnholyStr <target> ##)</B><BR>
+<B>Generation Cost:</B> 10 / Experience Cost: 50<BR>
+<B>System/Duration:</B> roll 2d6+Will vs. TN of 20 / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description:</B> The Necromancer may look like a weak, dead corpse, but he is anything but weak.  Using the dark energy coursing through his body, a Necromancer can grant to himself (or anyone else) the strength of Hell.  The target's muscles will grow twice their normal size, giving the target +5 to all attack rolls.  However, due to the gained mass, the target will be slower, giving him -4 to all quickness rolls.  After the duration of the spell, the target will receive -2 to all Attack rolls because of the drain on the muscles.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>(Just a quick note about shape changing (all forms).  While a Lamia is in another form, if its current Body falls to 0, the Lamia will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body.  It should also be noted that materiel objects do not shapeshift with the character.  Any and all clothes and objects the character was holding will need to be transported by some other means.)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> <BR>
+</HTML>

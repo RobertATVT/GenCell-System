@@ -1,0 +1,173 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>Subj:	<B>Quttah, part 2</B><BR>
+Date:	6/23/2000 7:34:57 AM !!!First Boot!!!<BR>
+From:	<A HREF="mailto:S Dagenar">S Dagenar</A></FONT><FONT  COLOR="#400080" SIZE=3 PTSIZE=10><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A></FONT><FONT  COLOR="#400080" SIZE=3 PTSIZE=10><BR>
+Sent on:	AOL 5.0 for Windows sub 109<BR>
+<BR>
+Subject: New Breed Idea Part 2 ~ Brigit<BR>
+Date: 7/26/99 11:42 AM Central Daylight Time<BR>
+From: <A HREF="aol://3548:BrigitBlak">BrigitBlak</A></FONT><FONT  COLOR="#400080" SIZE=3 PTSIZE=10><BR>
+Message-id: <19990726124201.13149.00001738@ng-bj1.aol.com><BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#800000" SIZE=3 PTSIZE=10>Welp, here you are; all the Masteries that we came up with.  I want to thank Drigore, Deb and Jim again. <BR>
+Brigit~Mun<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16><B><I> </FONT><FONT  SIZE=3 PTSIZE=10></B>^v^</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10><B>    </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16>Quttah Masteries</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>^v^</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10><B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>The quttah are essentially cats. Their masteries are used by tapping into the electromagnetic field that surrounds them. Much as a cat are entuned with the forces of nature so the Quttahs have also learned to harness this energy.  To obtain a new mastery the quttah must create a symbol, (i.e. tribal, brand marking, etc.), that is to be either tattooed or branded into the quttah's spine. Thus giving them the sensitivity that a cat has to the field around them.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Sample Mastery Listing:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10></I>Mastery Name  <I> Soul Cost per use.   (room command for activation)<BR>
+Mastery point cost at Generation / Mastery cost with Experience Points</B></I><BR>
+<B>System/Duration:</B>  the roll required to activate the mastery and the target number needed for the character to succeed / how long the effects of the masteries last.  The role-played effects of certain masteries can last a lot longer than the combat effects.  Also listed here is the number of rounds it takes to activate the mastery.<BR>
+<B>Range of Effect:</B> This is the range that the Mastery can be used, see below for details.<BR>
+<B>Effect/Description: </B> This is a description of the mastery and its effects.<BR>
+<BR>
+Most of the time your character tries to use a mastery, you will need to do three things.  First, your character must harness the energy within required to activate the mastery.  Whether this be concentrating on a target, chanting a ritual, screaming at the top of your lungs, etc. You must decrease your character's soul statistic by each point listed to the right of the mastery's name.  Then you must enter the room command.  This command is listed in parenthesis on the top line of the mastery's description.  They are used to alert the host and the other players that you are using a mastery.  The other characters may not be aware of this, but their players should be.  The final thing you have to do is follow the rest of the description.  This is usually a dice roll and upon success, some sort of effect.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B>Range of Effect definitions:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+Masteries include four different areas of effect.  These are: Self, Touch, Forced Eye Contact (FEC), and Line of Sight (LOS).  Below are the description of how these work.  Some masteries will not apply to these ranges such as Extended EMS.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Self ~</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> Masteries with a range of Self can only be used on the user, there are no exceptions.  Some examples of this are the various shapechanging masteries the breeds have (Minor Cat Form, Bat Form, Horus Form, etc...)<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Touch ~</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> Masteries with a range of touch require you to touch the person through RP or if resisted by using 2d6 + Body vs. the victims 2d6 + Body (Both must be witnessed by a Host or ST).  This contact must be maintained for the entire activation time of the mastery and if the contact is broken before it is successfully activated the mastery fails.  <BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><BR>
+(e.g. it takes two rounds to activate a mastery being used on someone then you must hold onto them the full two rounds)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>FEC ~</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> Forced eye Contact Masteries can only be used within conversation distance (roughly 15 feet).  In order to catch a persons eye and maintain contact the user must roll 2d6 + Will vs. the targets 2d6 + Inits (This pits the users will against the targets ability to be quick enough to not look or break contact).  This contact must be maintained for the entire activation time of the mastery and if the contact is broken before it is successfully activated the mastery fails.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>LOS ~</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> Line of Sight Masteries require just that, a line of sight.  The target of the mastery can be any distance as long as they can see the target.  This contact must be maintained for the entire activation time of the mastery and if the contact is broken before it is successfully activated the mastery fails.<BR>
+<BR>
+A few of their powers require touch or eye contact in order for the Quttah to use their powers on the intended victim.  For touch masteries, the quttah must touch them prior to the mastery having an effect (standard hand to hand roll, no damage; only if the victim refuses to be touched).  After they successfully touch the target, the system for the mastery is rolled.  The quttah must also make eye contact for masteries requiring such.  If the victim fights the eye contact, the quttah must roll 2d6+Mind vs. victim's 2d6+Body prior to rolling the mastery's activation.<BR>
+<B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14></B>The Masteries</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><I>Aloof</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use. (##Aloof##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:</B>  roll 2d6+Will vs TN 20 / Scene; takes 2 rounds to activate.<BR>
+<B>Effect/Description: </B> How many times have you seen a cat seemingly disappear in a room?  Their aloof nature enables them to merge with their surroundings and become almost invisible to all around them. By making a successful roll against the TN, the player becomes invisible to all around them, until they make a movement or speak out loud to someone. Players attempting to spot the location of the Quttah must make the following roll successfully: roll 2d6+Will vs TN 26.  A successful roll will make the Quttah visible to the player.  If the player then interacts with the Quttah, then the creature because noticeable to all players.  If the player doesn't do so, then the illusion is maintained.  Attacks made while under the cover of Aloof are granted a +5 bonus for surprise.  Quttah under the effects of this mastery cannot be targeted for attacks, as they cannot be seen.  Quttah also cannot target others for attack as that would be too strenuous.  In this case, 'targeting' is the ability to use skills or masteries to enhance damage or hit a certain spot on someone.  No Aiming, Rending, Sure Shot, etc.  If a character has a Mastery that allows them to recognize hidden things (Heightened Awareness, Enhanced Senses, etc.) and they SAW the Quttah become Aloof, they can roll their Mastery to 'see' where the Quttah is, provided the Quttah has not yet left the area.<BR>
+<B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><I>Cat Scratch Fever</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul  (##CSF (Victim) ##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/ <B>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B>roll 2d6+Will vs victim's roll 2d6+Will / 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+<B>Range of Effect:</B> FEC<BR>
+<B>Effect/Description: </B>The feline species carries within it some rather unusual diseases, most normally do not affect the human species, but this one alone can cross the barriers of the breeds with devastating effects on the victim.  The victim of this mastery will immediate experience alternating hot and cold flashes of an intensity never before known.  One moment it will be as if they were standing nude in Antarctica, the next moment as if they were in the middle of the Sahara with one hundred percent humidity.  All victims will suffer a -4 mind penalty for the duration of this mastery.<B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><I>Cheshire's Prank</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul  (##Cheshire##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/ <B>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will  vs TN 20 / indefinite; takes 2 round to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B>All of us know of the fabled cat created by Lewis Carol, how many of us believe in it though?  By drawing on this ability the Quttah are able to slip from sight. At one blink they are there, at the other they are fading, and so on until there is nothing but a smile left. Soon this smile will disappear.  Bonuses for attack, and the inability to "target" or be targetted for this mastery are the same as for Aloof.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Enhanced Senses ~ </FONT><FONT  SIZE=3 PTSIZE=10>Hearing</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 0 Soul to use. (no room command needed)<BR>
+Generation cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:</B>  NA/NA<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B> A quttah shares its acute sense of hearing with its domesticated cousins.  A quttah can overhear even the quietest conversation in the noisiest room, so long as they are paying attention.  When the quttah player mentions to the room that their character is concentrating on a spoken conversation, they are assumed to be able to hear it perfectly.  This is only true when the conversationalists are within view.  If the<BR>
+conversing people begin to whisper (i.e. <w>), the quttah then makes the roll above.  If the succeed, the conversation is heard, even if they say <wvvvvvvvvq> (whispers very, very, very, very, very (etc), quiet).  If there is a loud noise nearby (ST descretion) while this mastery is in use, the feline is rendered deaf for 4 rounds / 2 minutes and the effects of this mastery end immediatly.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Enhanced Senses ~</FONT><FONT  SIZE=3 PTSIZE=10> Smell</I> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>- 1 Soul to use. (##ES:Smell##)</B><BR>
+<B>Generation Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 5 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>25</FONT><FONT  SIZE=3 PTSIZE=10><I><BR>
+<B></I>System/Duration: </B> roll 2d6+Body vs TN 16 / Scene; takes 1 round to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description:</B>  A quttahs sense of smell is so strong and acute, that their sense of smell can sometimes compensate for their sense of sight.  Quttahs that utilize their sense of smell can effectively "see" in complete darkness.  It can distinguish between the many different scents around him and can pinpoint their exact location.  This allows the quttah to ignore any penalties due to vision.  Strong winds or powerful smells can throw the quttah off.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Extend Claw</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use. (##Claw <victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs Tn 20 / Scene; takes 1 round to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B> By using this mastery the quttah causes the pinkie nail of their writing hand to elongate.  This action is used for the creation of other Quttah.  As the skin tears the blood flows freely down the nail the Quttah must peirce the base of it's intendeds neck. Since this action is risky a roll must be made, they must successfully roll 2d6+Will vs. TN: 20.  Quttah no longer roll this after 4 months of their own breed<BR>
+generation.  If the Quttah is 4 months or older AND has a Will stat of 20 or more, they can create a Quttah without an ST or GM being present.  This creation must be posted in the STs lair and the CSs verified before the incident is considered official.  If the Quttah is NOT 4 months old and/or has a Will less than 20, this roll must be witnessed by either a GM or ST. Failure means they tear the spine and cause the mortal to become a quadriplegic.  Should the roll be successful, the nail pierces the spinal column and their blood flows into it entering the target's bloodstream.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Extended Mindspeak</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  - 1 Soul to use.  (as mindspeak)</B><BR>
+<B>Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/ <B>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll<B> </B>2d6+Will vs TN 20 / Scene; takes 1 round to activate.<BR>
+<B>Range of Effect:</B> NA<B><BR>
+Effect/Description: </B>The Quttah has learned to seek others out others of its own kind by manipulating their Mindspeak.  This allows the Quttah to communicate via Mindspeak to a target within one mile.  For every mile after the first, a modifier of +3 is added to the target number.  The communication is only one way, unless the target also has the mastery: Extended Mindspeak.  No roll is necessary unless the Quttah is in combat.  If combat is initiated while this mastery is in effect, the Quttah must reactivate it due to the stress of combat.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Haughty</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use. (##Haughty##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:</B>  roll 2d6+Will vs TN 26 / Scene; takes 2 rounds to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B> How many times have you seen a cat completely ignore all actions taking place around them.  Their haughty nature ignores all but the most direct attacks upon them. By a show of their more arrogant side they are able to combat the effects of other breeds mental attacks.(i.e. anything that is a manipulation of the quttah's mental state also such things as illusions, twisted mind, etc.) Activation of this mastery will give the Quttah a + 4 to all will rolls and forced eye contact rolls made in defense of a mental mastery attack.<B><BR>
+</B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Hiss</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 2 Soul to use.  (##Hiss <victim>##)</B><BR>
+<B>Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 50</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs victim's roll 2d6+Will / Instant.<BR>
+<B>Range of Effect:</B> FEC<BR>
+<B>Effect/Description:</B>  When a cat hisses, it gets your attention.  Is it a warning to the person, or a delaying tactic that allows them the briefest of instances to flee?  This mastery enables the Quttah to pause it's opponent for 1 round.  The victim can take no action in that round.  The Quttah must immediately flee, taking no offensive action against the victim.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Leap</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Leap##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll 2d6+Body vs TN 16/ instant; takes 1 turn to activate and jump.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B> Have you ever watched a cat jump higher than seemingly possible?  Do to the unique nature of the Quttah's spinal cord, these creatures can leap well beyond the ability of any other breed, whether the leap is a vertical one or a horizontal one.  A successful roll of this mastery will enable the Quttah to leap a span of no more than one hundred feet.  Vertical leaps will be at the discretion of the Storyteller as to what can be jumped to and how high.<BR>
+</FONT><FONT  SIZE=4 PTSIZE=12><B><I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11>Licking Wounds</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>-  1 Soul to use. (##<Licking Wounds>##)<BR>
+Generation cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 25</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description:</B> Cats have an incredible natural healing ability and the quttah are no different.  Any wound caused to the Quttah will heal at the rate of 1 Body per hour the character preens themselves. If the character is disturbed, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:ANTEmail 2">Forum Director</A></FONT><FONT  COLOR="#004000" SIZE=3 PTSIZE=10>.)<BR>
+</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><B><I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11>Luck </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##LuckRe-roll##)<BR>
+Generation cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 50</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  NA / Instant; takes 0 rounds to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description:</B>  What is it about cats that seems to always get them out of trouble at just the right moment? Do cats really have nine lives? Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, regardless of the result.  The cat can only enact this<BR>
+mastery twice per night.<BR>
+</FONT><FONT  SIZE=4 PTSIZE=12><B><I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11>Lure </FONT><FONT  SIZE=3 PTSIZE=10>(Requires Purr)</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Lure <victim>##)</B><BR>
+<B>Generation Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Points:</B> </FONT><FONT  SIZE=4 PTSIZE=12>50</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs victim's 2d6+Will / 4 rounds or 2 minutes.<BR>
+<B>Range of Effect:</B> FEC<BR>
+<B>Effect/Description:</B>  By making forced eye contact or by touching the victim, the Quttah can stoke the fires of their soul, provoking an intense passion within them, in effect seducing the victim to their will. The victim will disregard all players and direct their entire attention to the Quttah, whether that be catering to their needs or simply petting them, they will show nothing but pure adoration for the creature. If the victim takes any damage, they are instantly snapped out of this mind controlling effect.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Purr</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Purr <Victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll 2d6+Will vs Victims will/ 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+<B>Range of Effect:</B> LOS<BR>
+<B>Effect/description:  </B>We all know the effects that a cat's purr has on a person.  Even the most hard headed people will smile at the affection a cat shows by its purring.  The low vibration emitted from the throat of a quttah causes a sense of peace to wash over the victim. It is only through a great show of will that the victim can think through the purr. It the intended victim fails the will roll then they are taken with a sense of ease and<BR>
+calm causing them view the Quttah with kind eyes. A player will take no offensive action against a Quttah will under the effects of this mastery.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Silent Treading</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Silent Treading##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll 2d6+Will vs TN 18/ Scene; takes 1 turn to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description: </B> How many of us look up in surprise when we finally take notice of a cat prowling about a room?  By concentrating on the energy that surround them, the quttah  can appear to move without noise. Their movements as they walk are completely cloaked in silence.  Only players with an enhanced sense of hearing can detect them.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Steal Breath</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>- 2 Soul to use.  (##Steal <victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs victim's 2d6+Will / 2 round. Takes 1 turn to activate<BR>
+<B>Range of Effect:</B> FEC<BR>
+<B>Effect/Description: </B> The kiss of a Quttah can be a breath taking event. Vampires, with no real breath of their own, are still affected by this Mastery, they simply feel sluggish instead of having their breath being stolen. By making a successful forced eye contact roll, the Quttah by blowing a kiss to a player can steal their breath away. This action causes the opponent to become stunned for 2 rounds, a special kind of stunning which forces the victim to not attack in any way. The victim may still dodge as normal, and may even flee, but they simply can not attack in any way for the duration of the mastery. The victim of this mastery will just believe their sluggish response is nothing more than a natural reaction to the seductive nature of the Quttah.<B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><I>Sol Bath</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 2 Soul to use. (##Sol Bath##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>15</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>75</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll 2d6+Will vs TN 24 / Unlimited; takes 1 round to shape shift.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description:</B>  The most advanced of Quttah are able to harness the nature of their being by becoming in harmony with themselves and the sun which supplies them with life. After a long ceremony, in which the quttah must be bathed in sunlight, the quttah has the ability to shift into the ethereal plane. While in this plane, they are thus able to slip through walls and similar substance.   This ability must be role-played out as well as successful roll being made<BR>
+<BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10><I>"O you Sol one who shine in the moon;<BR>
+O you Sol one who shine in the sun.<BR>
+May Quttah go fourth among the multitudes of yours;<BR>
+Who are outside, may those who are in the sunshine release him.<BR>
+May the netherworld be opened to him when Quttah goes into the day.<BR>
+In order to do what he wished on earth among the living."</FONT><FONT  COLOR="#000000" BACK="#800080" SIZE=3 PTSIZE=10><B><BR>
+</FONT><FONT  BACK="#FFFFFF" SIZE=3 PTSIZE=10></B></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Whiskers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Whiskers##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs TN 26/ Scene; takes 1 turn to activate.<BR>
+<B>Range of Effect:</B> Self<BR>
+<B>Effect/Description:  </B>Much like their smaller cousins, the natural cats, Quttah can sense being close by simply by the subtle vibrations of the patterns of energy around them transmitted to their brain from their body hair.  By attuning themselves with their surrounding the quttah are able to sense the area that surrounds them. Inanimate objects as well as animate objects. Motion is sensed and easier to respond to despite light sources. This also assists the Quttah in seeing through illusions, fogs, shadow manipulations, etc.<B><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</B><BR>
+</FONT><FONT  COLOR="#800000" SIZE=4 PTSIZE=12><I><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=18></I>Brigit Allisa Blake</FONT><FONT  SIZE=4 PTSIZE=12><I><BR>
+</P><P ALIGN=LEFT>One life among many.  If your hair becomes out of place while I protect you then fire me, otherwise sit back and enjoy the view.<BR>
+</I></HTML>

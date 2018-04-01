@@ -1,0 +1,103 @@
+<HTML><BODY BGCOLOR="#c0c0c0"><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subject: Gargoyle/Guardian CS ~Nick~<BR>
+Date: 5/29/2000 10:55 PM !!!First Boot!!!<BR>
+From: <A HREF="aol://3548:Bahamut999">Bahamut999</A><BR>
+Message-id: <20000529185521.26141.00000793@ng-cu1.aol.com><BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Garamond" LANG="0">^v^     Black Bayou     ^v^<BR>
+Guardian<BR>
+  <BR>
+   Player's Screenname:          <BR>
+  Character's Real Name:      <BR>
+  Name of Guardian Adept: <BR>
+  Date of Breed Change:      <BR>
+  Date of Character Creation:<BR>
+  Date of Last Update:            <BR>
+<BR>
+  Statistics<BR>
+  <BR>
+          Body:     Mind:     Soul:   <BR>
+	     <BR>
+  <BR>
+  <BR>
+  Modifiers<BR>
+  <BR>
+  <BR>
+  Attack:                     Will:               Quickness:           Initiative:                 Dodge:  <BR>
+  (Body+Mind)           (Mind+Soul)         (Soul+Body)        (Q+Reflexes)            (Q+Evasion)<BR>
+<BR>
+<BR>
+  Skills<BR>
+  <BR>
+       Name                                                  Level        Damage<BR>
+  1)  <BR>
+  2)<BR>
+  3)<BR>
+  4)<BR>
+  5)<BR>
+  <BR>
+  Occupation<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+  <BR>
+  Special Abilities<BR>
+  <BR>
+<BR>
+Healing - 0 Soul to use.  (No room command needed)<BR>
+System/Duration:  NA / NA<BR>
+Effect/Description: Guardians have special regenerative abilities, allowing them to heal at incredible rates.  The Guardian  will heal 1 point of regular damage per hour spent resting.  A full day of rest is required to heal a point of fire damage.  Should something disturb the Guardian's rest, the process will have to start over again from the last hour.  Time spent in Stone Form during the day does not count as resting.<BR>
+<BR>
+Chevalier Form - 0 Soul to use (##Chevalier##)<BR>
+System/Duration:  NA/NA<BR>
+Effect/Description:  The truest form of the Guardian, in which an eruption of raw strength takes place.  The Guardian can enter this form from anyone of its other forms.  First, the skin will turn a chosen color (can be gray, dark green, black, dark orange, other dark colors), and have a somewhat marbleized look, though still fleshy.   Huge wings stretch out of its arms, and it's nails grow larger and pointy.  All the teeth within the Guardian's<BR>
+mouth become carnivorous looking, it's eyes remain the same color, and it's feet gain a similarity to it's hands, though of a reptilian shape, with two large toes, and one small one.  This form grants not only the ability to fly, but also an increase of +2 body while in the form.  If still on the ground, the Guardian may handle weapons of any type, but these must be dropped if it takes flight.  It can carry small objects while in flight, but cannot<BR>
+use them in anyway.  It flies at a speed of 25 mph, and it takes 2 rounds to escape by air.  <BR>
+<BR>
+Mindspeak - 0 Soul to use.  (>>::target of Mindspeak:: message<<)<BR>
+System/Duration:  NA / NA<BR>
+Effect/Description: blah blah mindspeak blah blah.<BR>
+<BR>
+Stone Form - 0 Soul to use.  (no room command needed)<BR>
+System/Duration:  NA/Takes 10 rounds or 5 minutes to shift into this form; 1 round to shift out<BR>
+Effect/Description:  This is the Guardian's Watcher form.  They observe the area while in this form, preparing in case danger should strike.  Movement is extremely limited, and all dodge and initiative rolls made in this form are at -8.  Any attacks against the Guardian while in this form are reduced to 1 damage, but as soon as any damage of any kind is taken, they are forced out of the form and into another form of their choosing.  Fire also has no<BR>
+damaging effect while they are in this form, but also forces them out of it.  It is impossible to surprise a Guardian when they are in this form as well.  No attacks may be made on the Guardian's part either.  This form is mainly used for observing, and must be stayed in for at least 8 hours each day with no breaks (unless it is to protect something).  Any form may be entered from this one.<BR>
+  <BR>
+<BR>
+ Masteries<BR>
+  <BR>
+<BR>
+    <BR>
+  Physical Description<BR>
+  <BR>
+<BR>
+  <BR>
+  Background<BR>
+  <BR>
+<BR>
+  <BR>
+  Experience Point Record<BR>
+<BR>
+  XP To Spend:<BR>
+  Remaining XP After Update:<BR>
+<BR>
+  Type of Experience Earned                                         Date Earned:<BR>
+  <BR>
+<BR>
+<BR>
+<BR>
+  Date of Update          Where Spent              Level          Total Cost:<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=4 PTSIZE=12 FAMILY="SERIF" FACE="Garamond" LANG="0">Nick Galian<BR>
+Dead girls don't say no<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=LEFT><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</HTML>

@@ -1,0 +1,80 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>Subj:	<B>EMT</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	4/7/2000 9:52:03 PM !!!First Boot!!!<BR>
+From:	<A HREF="mailto:ANT Burial">ANT Burial</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+Sent on:	AOL 5.0 for Windows sub 101<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+Subj:	<B>EMT NPC</B><BR>
+Date:	10/22/99 6:58:27 PM Pacific Daylight Time<BR>
+From:	BBST Growl<BR>
+To:	BBST Growl<BR>
+CC:	BBSTStorm, BBST Maws, BBSTDeceit, BBST Coma<BR>
+CC:	ANTForseti, BBSTLycaon, BBST Numb, BBST Isil<BR>
+CC:	BBSTMartel, BBSTSavant, BBST Cloud, BBST Jello<BR>
+CC:	BBSTKeltic, BBST Pagan, BBST WstWd, BBSTBizaro<BR>
+CC:	BBSTSavil, ANT Burial, BBSTSpirit, BBSTAzazel<BR>
+CC:	BBST Kali, BBSTMinx, BBST North, BBSTOneEye<BR>
+CC:	BBST Hela, BBSTWolfie, BBSTHappy, BBST Salem<BR>
+<BR>
+</P><P ALIGN=CENTER>   <I>^v^</I> <B>Black Bayou NPC Sheet </B><I>^v^<B></I> <BR>
+   <BR>
+</FONT><FONT  SIZE=5 PTSIZE=14>   </B><I><U>Emergeny Medical Technician<BR>
+ NPC</FONT><FONT  SIZE=2 PTSIZE=8></I></U><BR>
+   <BR>
+   <B>Player's Screen Name: Room Host, ST and GM<BR>
+   Characters  Name: (Voletta EMT)<BR>
+   <BR>
+  </B> (EMT's will arrive on the scene within 4-8 rounds of a call placed to 911 or after being called by any other emergency personel.  After picking up the victim(s) it will be 4-8 rounds for them to reach the hospital.  Use Keyword:  <A HREF="aol://1722:Dice">Dice Roller</A></FONT><FONT  COLOR="#0000a0" SIZE=2 PTSIZE=8>. </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> In 'Number of Dice to Roll' place the number 4.  Down by the die with all the question marks, place a 2 for number of sides.  Then press the die with the question marks and you will receive a number between 4 and 8 in the chat room.  That is how many rounds it will take to perform the actions described above)<B><BR>
+   </B><BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Statistics</I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+ ~Body:         ~Mind:        ~Soul:<BR>
+ 5                 7                 4<BR>
+   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Modifiers</I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B>  <BR>
+</P><P ALIGN=LEFT>         ~Attack                ~Will:                 ~Quickness:             ~Inits:                    ~Dodge:  <BR>
+   (Body+Mind)           (Mind+Soul)         (Soul+Body)        (Q+Reflexes)            (Q+Evasion)<BR>
+          12                           11                          9                          13                               9<BR>
+</P><P ALIGN=CENTER>   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Skills</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ <B>Name					    Level		Damage</B><BR>
+ 1) Basic Medical (mind)           	7                <BR>
+ 2) Income                                   	3               <BR>
+ 3) Major Medical (mind)            	3               <BR>
+ 4) Steel Will (mind)                        	3                <BR>
+ 5) Reflexes (body)                      	2               <BR>
+ 6) Non-leathal weapons (body)  	3		3 mind <BR>
+ 7) Athletics (body)				2		<BR>
+</P><P ALIGN=CENTER>   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Special Abilities</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>     <BR>
+<B>Luck</B> - 0 XP - 0 Soul  (##LuckRe-roll##)<BR>
+System/Duration:  NA / Instant<BR>
+Effect/Description:  What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, not highest.  The mortal can only enact this mastery once per scene.<BR>
+   <BR>
+<B>Adrenaline</B> - 0 XP - 0 Soul  (##Adrenaline##)<BR>
+System/Duration:  NA / Instant<BR>
+Effect/Description:  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +4 (must be stated to the ST which roll before use, may not be used to add to mental roll, such as a will roll).  This mastery may only be used once per night.<BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Masteries</FONT><FONT  COLOR="#0000a0" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>     <BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Medical</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I><BR>
+Generation Cost: </B>15<B> / Experience Cost: </B>45<BR>
+OK people, lets move this patient in!  Come on, I need an IV drip .42 mg of Demerol.  A blood bag of type A positive, and get me a suture kit.  Check his vitals and get the EKG in here.  Come on people we needed this done 5 minutes ago!  STAT!!<BR>
+<B>Bonus Skills       Level         Skill Cost</B><BR>
+Basic Medical      	4        	Next Level x 1<BR>
+Income                  	3        	Next Level x 3<BR>
+Finance			3		Next Level x 2<BR>
+Steel Will               	3       	Next Level x 2<BR>
+Major Medical         	2       	Next Level x 3<BR>
+<B>Advantage:</B>  Medics and surgeons are trained to deal with the workload under the worst pressure in most situations.  They receive +3 to any roll involving either of their medical skills.<BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER>   <B><I><U>Physical Description</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ EMT's will arrive by ambulance, white with red and gold lettering indicating that it is part of Isle Voletta's Emergency Medical Response unit. EMT's will be dressed in blue uniforms and any dispatched from an ambulance will be carrying a standard issue medical kit. The ambulance contains most equipment to sustain human life until arrival at a hospital. EMT's are also equipted with pepper spray in the event of uncontrollable circumstances. <BR>
+   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Roleplaying Notes<BR>
+ <BR>
+</P><P ALIGN=LEFT> </FONT><FONT  SIZE=2 PTSIZE=8></B></I></U>EMT's will never use force unless they are directly attacked, as they are here to help, not to cause further injury.  EMTs in Voletta not only carry pepper spray, but sometimes such things are necessary to keep violent yet injured victims from hurting themselves more.  EMT's make medical rolls as described in the rulebook.  EMT's have no levels of lore and reactions to characters of different breeds should be RPed accordingly.</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10> </HTML>

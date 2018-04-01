@@ -1,0 +1,80 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>Subj:	<B>ST Test</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	08/11/2000 3:11:32 PM Eastern Daylight Time<BR>
+From:	<A HREF="mailto:HOST ANT Happy">HOST ANT Happy</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+Sent on:	AOL 5.0 for Windows sub 119<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14>ST Trainer test</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+I know that some of you may not like the idea of having a test to take to become an ST, but this is a list of rules questions that I have had in the last few weeks alone.  This test will be expanded as time goes and eventually newer questions will be compiled and sent to the ST's as spot tests to keep the ST's up with the current game problems so they can deal with them all on a similar wavelength.  For the most part I have confidence that most of you should be on the same length here... but to be sure and avoid the old "Well this ST said it works this way...." type of scenario (which I am confident will still occur) I am going to try this out.<BR>
+<BR>
+#1) If a group of players just entered into a Pause and a PC Police Officer begins RPing their Patrol what Response time do they use?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>2d2.....unless of course, the players paused before the Officer started patroling. If they're paused, and ten minutes later the officer shows up in the MR, they can't go in. Same with anyone else. :) After all, it's ten minutes ago. Right?</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#2) Modify these Statistics and Modifiers to reflect a Vampire going into Bat Form:<BR>
+<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body </FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8>(2)</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>6</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (9) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8> (8)</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>15(</FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>11</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14>)</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>17	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14 (</FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>12</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14>)	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14(</FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>12</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14>)</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14(12)</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>#3) What Fighting Style can be used to assist in Grappling an opponent?<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>None May. :) It's 2d6+Body+Attack Vs 2d6+Body+quickness. :) So Battle skills which add to those rolls(Like Boxing, and Jiji)) could help...but not directly. :)<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+#4) What will you name your ST log if you ST'd a fight on 3/28/99 at 5:21pm?<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>If it's my first St'd fight of the night:<BR>
+32899ST1.....the second ST'd fight of the night would be 32899ST2....etc etc ad nauseum.<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+#5) What's the TN to carry a person?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Depends on the weight of the person...since there's no roll for that in the rulebook..</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>I'd say a light person would be 2d6+Body+Athletics vs TN:18...A Heavier person would be upwards, maybe as high as 23-24...depends on circumstances. :)<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+#6)  What's the TN To kick down a steel rimmed wooden door?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>TN:14</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#7) Two people are fighting in the woods, it's overcast and the ground is wet.  On top of all that it's getting to be around Dusk.  What Penalties would they have?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B><I>Slight Obscurity: </B></I>(just after dusk (no light); light rain) -2 to Attack and Dodge</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>I'd also say..since they're in the woods they both have light cover. Just in case they're shootin.<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Lastly....I'd suppose since the ground is all wet, I'd impose a light athletics TN...say TN:16, to keep from falling over and suffering -4 defensive rolls.. for a Knockdown. :)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#8) Same as above, but it's winter and the ground is heavily iced over?<BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B><I>light Obscurity: </B></I>(just after dusk (no light); light rain) -2 to Attack and Dodge</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>I'd also say..since they're in the woods they both have light cover. Just in case they're shootin.<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Lastly....I'd suppose since the ground is all wet, I'd impose a light athletics TN...say TN:25, to keep from falling over and suffering -4 defensive rolls.. for a Knockdown. :)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#9) A Vampire is standing 6 feet from another PC and wishes to use Hypnosis, the other character has their back to him/her.  What does the vampire have to do in order to use the mastery?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>I'd like to say "Roll mind vs the other person's body" But ya can't do that anymore....which SO stinks, since it totally makes lots of masteries utterly useless.<BR>
+<BR>
+However, until someone overturns that silly ruling, the Vampire has to get in front of them, Grab them(Body+Athletics vs Body+Athletics) and THEN roll Mind vs other guy's body...and THEN he get's to do the will roll.<BR>
+<BR>
+I do -not- like that, Just in case ya didn't notice.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#10) Can non Active CS's take part in an ST'd event?  If so under what circumstances?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Characters, Yes...CSs...No. If it isn't active it isn't there, a character can be in an ST'd fight without a CS, but they get an NPC sheet or they automatically fail any roll.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#11) A Werewolf is using Scent Recognition and fails the first roll.  Can they use the mastery again to get a second try?  If they can what are the penalties to that second roll.  Is there a third try?  What modifiers can be put onto the use of Scent recognition?<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8>Yes...they may, Yes they May, No Penalties, since it's 2d6+Body vs the other guys 2d6+Mind...they can continue to roll for it until they run out of soul, for no penalties. </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8>A+2 for every mile after the second mile. Every level of tracking reduces it by 1. :)<BR>
+<BR>
+No other way to possibly avod it.</HTML>

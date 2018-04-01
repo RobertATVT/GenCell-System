@@ -1,0 +1,11 @@
+<HTML><FONT  COLOR="#000080" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Verdana" LANG="0">Rule Book update Notes:<BR>
+<BR>
+#1. Scene Entry (How can one be called into an ST'd Event)<BR>
+#2. Clarify Police Back procedures<BR>
+#3. Clarify FBI Equipment Accessibility<BR>
+#4. Define an Acquisition of Technology section.  (What can you get?)<BR>
+#5. Add some form of acquisition system<BR>
+#6. All equipment is to be tracked on CS's.<BR>
+#7. Define the OOC Manip rules.<BR>
+#8. <BR>
+</HTML>

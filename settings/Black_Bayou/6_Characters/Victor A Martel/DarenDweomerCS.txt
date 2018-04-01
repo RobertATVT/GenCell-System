@@ -1,0 +1,358 @@
+Subj:you didn't get this from moi 
+Date:10/30/2001 2:51:10 PM Eastern Standard Time
+From:DalenNightwolf
+To:Victor A Martel
+Sent on:    AOL 5.0 for Windows sub 138
+
+
+
+Subj:    Daren DW~UD Approved~7/28/01 (Lamia)
+Date:    07/28/2001 11:50:44 AM Eastern Daylight Time
+
+
+^v^     Black Bayou     ^v^
+Lamia
+
+                  
+
+Player's Screenname: Daren DW
+Character's Real Name: Daren Dwoemer
+Name of Lamia Mentor: Bishop "Zion" Saint Croix
+Date of Character Creation: 12/8/96
+Date of Last Update: 03/20/01
+Date of Last Non-Update: 5/23/01
+
+Statistics
+                  
+Body: 12    Mind: 15    Soul: 14
+
+                  
+
+                  
+Modifiers
+                  
+
+        ~Attack: 30              ~Will: 44            ~Quickness: 26       ~Inits: 35                 ~Dodge: 44 
+       (Body+Mind)           (Mind+Soul)         (Soul+Body)        (Q+Reflexes)            (Q+Evasion)
+       (Tai Chi adds 3)   (Steel Will adds 15)                                                            (Tai Chi adds 6) 
+       (Small Arms: 42) 
+       (Large Arms: 32)
+       (Tai Chi: 42)
+
+
+
+Skills
+
+                  
+      Name                                                  Level        Damage
+1) Income                                                   6                ($90,000/yr) 
+2) Finances                                                  4
+3) Programming                                             5
+4) Small Arms                                              9          3
+5) Evasion                                                    12              (+12 Dodge)
+6) Trained Fighting (Tai Ch'i )                        12        2   (+6 Dodge, +3 attack)
+7) Steel Will                                                  15        (+15 Will)
+8) Reflexes                                                  9              (+9 Initiative, Quickdraw)
+9) Large Arms                                             2        4
+10) Fast talk                                                 6                           
+11) Law                                                       4
+12) Athletics                                                 2
+13) Vampire Lore                                         3
+14) Lamia Lore                                             3
+15) Werewolf Lore                                      3
+16) Angel Lore                                            2
+17) Faith                                                       8
+18) Demon Lore                                           2
+19) Basic Medical                                        3
+20) Psychic Lore                        1
+21) Special Effects                        2
+22) Hacking                            4
+23) Tracking                            3
+
+              
+  Occupation
+                  
+
+  Local Peace Officer
+  Generation Cost: 35 / Experience Cost: 105
+  The men and women in blue, justice over all, highly trained and fully equipped to handle every crisis.  Well, almost any crisis. The modern day heroes.  Anyone can be an ex-officer, but only those that get hired by the Sheriffs Department are active officers in-character.
+  Bonus Skills       Level        Skill Cost
+  Cadet Training        3             Next Level x 1
+  Law                         3             Next Level x 3
+  Small Arms              3             Next Level x 3
+  Athletics                  2             Next Level x 2
+  Evasion                    2             Next Level x 2
+  Income                     2             Next Level x 4
+  Finance            2        Next Level x 3
+  Heavy Arms             2             Next Level x 4
+  Reflexes                  2             Next Level x 2
+  Basic Medical          1             Next Level x 1
+  Advantage:   You better think more than twice about touching one of these guys, and they rarely travel alone.  When there is a Storyteller or Room Host present, police characters can call for back-up in drastic situations and have 2 - 6 non-player character officers arrive one the scene within 4 - 8 rounds (2 - 5 minutes), depending on the situation (as determined by the Storyteller or Gamemaster).  Police characters also know how to use those weapons they carry on their hip and gain a +3 to their Small Arms skill.
+
+                  
+  Special Abilities
+
+          
+Animal Mimicry  [0Soul] "Fera apographon." 
+Room Command: (## form##)
+Range: Self
+Roll System: None Required
+Duration/Activation: Indefinite; takes 2 turns to shape shift.
+Effect/Description: This spell enables the lamia to shape shift into one type of small
+animal. This would include, but is not limited to: dogs, cats, mice, etc. This form must be chosen at the time of character creation. Other animal types maybe purchased at a cost of 5 Generation Points or 25 XP later on per form. The animal form you choose must be approved by the Rules Manager or Forum Director. No form of spell casting is possible while in an animal form. Please send requests to LDRS ANT BBMail and for a listing of the authorized animal forms: Lamia Animal Forms 
+
+(Just a quick note about shape changing (all forms). While a lamia is in another form, if its current Body falls to 0, the lamia will immediately change back to mortal form minus the total damage it has already taken in its other form. It should also be noted that materiel objects do not shape shift with the character. Any and all clothes and objects the character was holding will need to be transported by some other means.) 
+        
+Raven: Medium Birds  (Body: 3, Quickness: +6)
+        
+Healing  [0 Soul] "Potestas de anima ops corporalis sanitas"
+Room Command: (##Heal##)
+Range: Self
+Roll System: roll 2d6+Will vs. TN 20
+Duration/Activation: Instant; takes fifteen minutes to cast.
+Effect/Description: When this spell is successfully cast, the lamia will heal at an incredible rate. Upon successfully casting this spell, the lamia heals 1 Body for each point over 20 they make on the activation roll, unlessthe wounds were created by fire or salt water. Wounds created by salt water cannot be healed with this spell. Fire wounds heal at the rate of 1 Body perday and only when the character sleeps. If the character is woken up before the day is over, the healing process is disrupted and they do not regain theirpoint (which means they cannot role-play more than the casting of this spelluntil the damage is healed). If fire wounds aren't healed with this spell they will take twice as long to heal than normal. The spell takes a fifteen minutesto cast and the lamia must be undisturbed for the entirety of the casting. Any distractions will force the lamia to start over a gain. The lamia must role-play the fifteen minute casting of this spell in the main room.
+        
+Meditation - [0 Soul] "Ceterus mind, ceterus anima" 
+Room Command: (##Meditation##)
+Range: Self
+Roll System: None Required
+Duration/Activation: NA / Instant; takes 15minutes to activate.
+Effect/Description: In order to center themselves and replenish their mystical energies after spell casting, a lamia needs to shut themselves off from the world around them and meditate. To accomplish this, they must be sitting alone and relaxing, concentrating on a candle flame, or some sort of talisman - perhaps chanting. The meditation must be role-played for the full 15 minutes in the main room. If they are interrupted (legitimately) for even amoment, the meditation must begin anew. 1 Soul Point may be regained each quarter-hour, going no higher than the original level.
+        
+Night Vision - "Videre noctu" 
+Room Command: (##Nightvision##)
+Range: Self
+Roll System: roll 2d6+Will vs. TN20
+Duration/Activation: Scene; takes 1 roundto cast.
+Effect/Description: The lamia can see twice as far as a normal human can. In addition, when the lighting is low, or near total darkness, the vision of the lamia takes on the effects of infravision. In total darkness, this mastery is useless. Unable to make out detail, the lamia can discern between animate and inanimate objects, sensing their red or blue glow, respectively.
+                  
+                  
+
+Masteries
+
+
+Mindspeak - "Tango-tetigi-tactum mens mentis" - 1 Soul to use.  
+Room Command: (>>::target of Mindspeak:: message<<)
+Generation Cost: 5 Points
+Experience Cost: 25 Points
+Range: Self
+Roll System: None Required
+Duration/Activation: 4 rounds; takes 0 rounds to cast.
+Effect/Description: By concentrating on a chosen target, the lamia is capable of speaking directly to the creature's mind. Mortals are unable to return the thoughts. The target must be within view of the lamia attempting to communicate in this fashion. Mindspeak can only be used to speak to one individual at a time.
+                  
+Soul Scrye - "Pervido pervidi pervisum animus" - 1 Soul to use. Room Command: (##SoulScrye <Target> ##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: FEC
+Roll System: roll 2d6+Will vs Victim's 2d6+Will
+Duration/Activation: Instant; takes 1 round to cast.
+Effect/Description: This spell enables the lamia to flawlessly detect the true nature of a target. The lamia will instantly know what the individual's breed is. The individual must IM the lamia with the truth if the lamia wins the roll. *Demons using Soul Mask, will reflect the breed being masked and not the nature of the demon. Lamia must possess Lore Level 3 for the breed they are attempting to detect, in order to recognize it for what it is.If the lore is not possessed, the lamia will only know there is something odd about the target.
+                  
+Spirit Form - "Animus instar" - 1 Soul to use.  
+Room Command: (##Spirit Form##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: Self
+Roll System: roll 2d6+Will vs TN 26
+Duration/Activation: Indefinitely; takes 2 rounds to cast.
+Effect/Description: This is the truest measure of a lamia's shape altering powers. The ability to shift their material forms in such a way that enables them to assume an ethereal spirit-like quality. They become translucent/ghostlike - being able to pass through solid objects. The lamia can solidify at will, although once they do the lamia must recast the spell to become spirit again. While in spirit form, the lamia is immune to physical attacks of any kind and can only be effected by mental masteries and only if they can be seen. Lamia in this state are incapable of affecting the physical world in any way. This means they cannot be heard, smelled or felt, only visible as a soft outline of the individual casting the spell. The lamia isstill affected by the all powerful force of gravity, so cannot float or fly.The lamia must have both hands free to cast this spell and can have no more than the clothes on their backs for it to work properly. The lamia is unable to use any masteries or skills at all while in this form. The only thing the lamiais able to do is move, see and think. Lama in spirit form may see and follow others in spirit form, transcendent states or astral projections. They may not interact with them in any way however.
+
+                  
+Stasis - "Aeris crusta" - 1 Soul to use.  
+Room Command: (##Stasis ##)
+Generation Cost: 15 Points
+Experience Cost: 75 Points
+Range: LOS
+Roll System: roll 2d6+Will vs. Victim's 2d6+Will
+Duration/Activation: 4 rounds or 2 minutes;takes 1 round to cast.
+Effect/Description: The lamia's magic is a physical manifestation of the collected force of the *mind*. Stasis is air constriction. A lamia molds it with their mind. This spell causes the air around a victim to compress itself tightly. The duration of the mastery is 4 rounds. The first round, the victim is completely immobilized, the compressed air holding them tightly. For the following three rounds, the victim can barely move. Their Attack and Quickness modifiers are -8 for the duration.
+
+                  
+Charge - "Criminatio" - 1 Soul to use.  
+Room Command: (##Charge ##)
+Generation Cost: 5 Points 
+Experience Cost: 25 Points
+Range: Touch
+Roll System: roll 2d6+Will vs TN 22
+Duration/Activation: Scene; takes 1 round to cast.
+Effect/description: Through the use of this spell, the lamia can electrically charge an item to deliver a shock upon touch. This spell causes the static electricity in the air around the item to spark when another object comes into contact with it. This spark causes -1 Body damage to anyone who touches the item. This can be cast on weapons, causing knives to do 2 damage for instance. Due to their explosive natures, bullets and shells cannot be charged. The item must be touched when the charging is cast.
+                  
+Shock (requires Charge) - "Arcesso potencia.  Offendo." - 1 Soul to use.
+Room Command: (##Shock ##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: LOS
+Roll System: roll 2d6+Will vs Victim's 2d6+Dodge
+Duration/Activation: Instant; takes 1 round to cast.
+Effect/Description: By concentrating on the electricity in the air, the lamia can cause it to sizzle and pop, actually causing physical damage to the victim. Additionally, this jolts the consciousness of the victim and this spell is used primarily to subdue. The damage caused by this spell is -1 Body -2Mind. The victim must be within line of sight to be effected.
+                
+Extended Mindspeak (Requires Mindspeak) "Tango-tetigi-tactum mens mentis" - 1 Soul to use. 
+Room Command: (as mindspeak)
+Generation Cost: 5 Points
+Experience Cost: 25 Points
+Range: -N/A-
+Roll System: roll 2d6+Will vs TN 20
+Duration/Activation: 4 rounds; takes 1 roundto activate.
+Effect/Description: The lamia has learned to seek others out by manipulating their spell: Mindspeak. This allows the lamia to communicate via Mindspeak to a target within one mile. For every mile after the first, a modifier of +3 is added to the target number. The communication is only one way, unless the target also has the mastery: Extended Mindspeak. No roll is necessary unless the lamia is in combat. If combat is initiated while this mastery is in effect, the lamia must reactivate it due to the stress of combat.
+              
+Shield - "Aer contego" - 1 Soul to use. 
+Room Command: (##Shield##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: Self
+Roll System: roll 2d6+Will vs TN25
+Duration/Activation: 4 rounds; takes 2 rounds to cast.
+Effect/Description: By concentrating, the lamia can compress the air around itself, which forms a barrier, or shield - that softens whatever physical blow or attack is made. Attacks cause -1 their normal damage. Attacks causing 1 point of damage still cause 1 since the spell merely slows the attack, not stop it completely.
+              
+Regression - "Mens mentis puerilis de liber" - 1 Soul to use.  
+Room Command: (##Regression ##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: Touch
+Roll System: roll 2d6+Will vs Victim's 2d6+Will
+Duration/Activation: 4 round or 2 minutes; takes 1 round to cast.
+Effect/Description: With a touch of their hand, the lamia can cause the target's mental state to revert back to childhood, to the age of 2. The target is able to speak, as any toddler can - but they will make little sense. Temper tantrums when they do not get their way, blatant disobedience when told to do something ... mischief making ... all the traits of the TerribleTwos; will be exhibited. Whatever memories the target had for those years will surface. The target's mind will be only 2 for the duration. 
+        
+Thaumaturge - 1 Soul to use.  
+Room Command: (##Thauma##)
+Generation Cost: 10 Points
+Experience Cost: 50 Points
+Range: Self
+Roll System: None Required
+Duration/Activation: Indefinitely; takes 1round.
+Effect/Description: Even though a lamia is essentially human, the forces of magick have given them powers beyond that of a mere mortal. By tapping into their pure flow of magick, the lamia will be able to increase all of their abilities. When the lamia taps into their internal magick source it causes changes to them physically; their eyes will shine an unnatural glow while the skin on their body will begin to wither and wrinkle from energy draining from their flesh to power their magick. While this doesn't degrade them physically,it still can appear quite shocking. Anyone with Lore Level 3 has an opportunity to recognize these changes in the lamia (as per the Lore rules). While under this mastery, the lamia gains +2 Soul and +1 Mind for the duration. If thelamia spends an additional Soul point, they can keep this mastery tapped and change scenes without dropping it. This Scene swapping can continue as long as the lamia has Soul to spend.
+    
+Flight  - "Potentia fugo de corpus" - 1 / -2 Soul to use.  
+Room Command: (##Fly##)
+Generation Cost: 15 Points
+Experience Cost: 75 Points
+Range: Self, Touch
+Roll System: roll 2d6+Will vs TN 24
+Duration/Activation: Scene; takes 1 round to cast.
+Effect/Description: One of the lamia's greatest abilities is the power over gravity itself, allowing the lamia the gift of flight. There are two separate spells intertwined in this singular one. 
+
+Solo flight: This costs 1 Soul and allows the lamia to fly unaided. The lamia can never fly faster than 25 miles an hour and cannot carry anything over ten pounds. 
+
+Enchanted Flight: This costs 2 Soul and allows the lamia to transfer the power of flight into an inanimate object - some of the most common being brooms and carpets. The lamia cannot empower any object weighing more than ten pounds. The empowered object will fly where the lamia wishes, though the lamia doesn't have to be in direct contact with the object, they must remain concentrating on it.Conversation is possible, but not even walking will be allowed. This empowered object is capable of carrying passengers, depending on the size of the object -as passenger weight doesn't effect the magic, space does. Common sense prevails here, but if you aren't sure ask the Room Host or ST on how many passengers can fit. The object also doesn't need to be in sight, as the lamia can 'see' from the object itself. If the lamia loses concentration the object will lose the gift of flight and will gently fall to the ground, much like a feather. This has been built into the spell due to past lamia's dying horrible deaths as their objects crashed to the earth. The object will retain some aspects of magic if dropped into water (it will float) or even fire (has protection aslong as the passengers don't leave the object) as there is a small 'bubble' of protection around the passengers. However, passengers can still be effected by blows, shot, stabbed and even hit with arrows. In both versions of the mastery,the protective sphere prohibits items from exiting the bubble (These include but are not limited to physical objects and the effects of masteries) Think -things can go in, but things can't go out.
+
+                  
+  Physical Description
+
+                  
+  Name: Daren Dwoemer
+  Breed: Lamia
+  Age and/or birth date: 22 / October 15, 1975
+  Eye Color: Turquoise
+  Hair: Blonde - dyed black and worn shoulder length
+  Height/weight: 5' 11" / 178 lb.
+  Occupation: Sheriff's Deputy
+  Equipment/weapons: Department issue Baretta 92 F and Personal .45 Magnum Semi-auto pistol carried at almost all times.  When on duty he would normally have the standard deputy equipment issue on hand (listed below).
+                   
+
+  ~Equipment List for all Deputies hired by the Sheriffs Department~
+
+                    
+  Uniform ~ Khaki pants and shirt, or Khaki pants and black tee shirt with emblem.
+  Service Issue Pistol ~ Baretta Model 92F (9 mm, 15 round magazine + 1 in chamber).
+  2 extra magazines for the 92F
+  "Riot" Shotgun [One per cruiser (Police Issue shotgun, 9 shells in the magazine)]
+  2 pairs handcuffs
+  Mag-Lite Flashlight
+  Walkie Talkie w/lapel mic
+  Tear Gas (2D6+Will Vs. TN 24, Werewolves are -4 to the resistance roll because of their enhanced senses.  If successful, victim is -4 to Attack and Quickness for 4 rounds or 2 minutes) ~This affects ALL breeds~
+  Taser (Non-lethal Weapons)
+  Baton (Does Large Melee Damage/Attack)
+  Kevlar Vest (-2 damage against Small Arms. -1 damage against Large Arms.  Wearer receives a -1 to their Dodge modifier when wearing Kevlar.  For use only for a deputy *on* duty.)
+  ((Not to be used if the deputy gets into a bar room brawl with no prior plans of arresting the offender.))
+       
+  Appearance (clothes, etc..): A casual man who dislikes getting dressed up for any occasion, even if it be for work, he is more often seen in a nondescript t shirt and black jeans outfit with a weather and battle worn black leather jacket.  Occasionally, or if he needs/wants to make a better impression, he'll wear a dark blue silk button down shirt with a lighter blue shirt underneath, black slacks, and a black trench coat over it.  A tanned complexion indicating he's still a daytime dweller is only ruined in a few places.  His most notable scar is on the back of his right hand where a bullet skimmed the top of the hand shattering a couple of bones when he was eighteen.  At close inspection a couple sets of small light pink lines can be seen on the side of his neck, a gift from the night crawlers of Voletta.  Criss crossing his left shoulder is a series of marks easily explained as a large wolf rampaging in town that he got to close to.
+                  
+
+               
+  Background
+
+               
+  PreVoletta Background-
+      A story, a story, the isle of veils seems a place to be full of many stories eh?  How about a story that starts farther to the North?  North west to be exact, in Oregon country.
+      There was once a politician running for office promoting good solid Christian values, and to rally the voters will to elect him he had taken a strong stand against his county's rising teenage pregnancy rate.  A good cause that any candidate would seek to use in their campaign, especially one promoting the ever popular Christian morals right?
+      But as is often the fact with politics and politicians he too had a secret he was keeping from the public, his fifteen year old daughter had become part of that rising statistic.  Instead of using it as an additional conviction for his standpoint he thought it would be better to keep it a secret.  The daughter was kept hidden from the masses and even from members of the extended family.  Unfortunately for the candidate his daughter would not agree to abortion and he could not find a doctor whose silence could be bought willing to perform an abortion on an unwilling patient.
+      However he did know someone willing to take the baby once it was born and a doctor to give it an under the counter adoption complete with a forged certificate of birth for the receiving family.  Conveniently the person was one of his supporters, who contributed a hefty amount of money to the campaign effort, to receive the child.  So while the daughter grew bigger with child the supporter's sterile wife grew fatter with the aide of pillows and other forms of stuffed clothing.
+      The wealthy supporter had made a number of enemies on his rise to power, however.  Included among them was the power hungry Jonin of a militarist encampment composed mainly of Oriental immigrants and their decedents who had been displaced during World War Two for national security.  Since then the group had expanded to include other non-oriental descended people who just generally disliked the current United States government.
+      But I'm drifting away from my story, the night the child was to be "born" to the investor's sterile wife also happened to be the night the angry Jonin moved for retribution for whatever wrongs he felt he'd been dealt.  The forgery of a birth certificate found at the scene of the crime by investigators and the wife's cadaver showing no sign of having been pregnant served to help confuse and distract the authorities.  With no child to be found in the bloodstained house their attentions focused on the belief that the murders took place because of the illicit baby dealing going on.
+      What happened to the child?  I never told you I was going to tell you a story with a happy ending now did I?  The authorities found the body of the doctor at the scene of the multiple homicide, but there was no newborn to be found.
+                
+  Post Voletta Background -
+      Five years have past since I escaped what served as my childhood, five years since I believed the lies and half truths that came from the Jonin.  And in a couple of months it will have been two years since I created this life for myself in Isle Voletta.
+      Two years and no one here knows any better then to think I've been called 'Daren' all my life.  No one who's still alive anyway, not even Jade yet knows.  Though she knows the most out of anyone left of where I came from and where I was born I still never imparted to her the complete story.  Perhaps it is fear of rejection for my faults that I retain my silence, fear that it might get out to others.  Everyone has their confidant's, if I had told her would she have confided the secret to someone else?  How far would it have spread?
+      I keep this silence for fear of loosing everything, this identity has held up even through the background checks of local law enforcement agencies.  Perhaps I owe that more to the fact that the Chief of Police at the time I was hired was a good friend of mine and probably didn't look to hard.  And then my transfer to the Sheriff's Department after the Police Department closed also probably went through with only a light glance.  There might gaps or holes in the identity of Daren Dwoemer, but luckily none have yet discovered them.
+      I know there are plenty of other people here like me, running from some event in their past, hiding from it, and a small town on an island off the southern coast of Louisiana.  How many of them though are running from their entire past, their entire history, from everything they were and thought they were going to be when they were younger.  Compared to what the Jonin had intended for me and what the Chunin were preparing me for you might say I switched to the opposite side, and before I even really got started for one.
+      Little have I found out about my origins beyond what was kept in the Jonin's files.  But even if I knew it now I doubt it would have a serious profound effect on who I am, on who I have become.
+      As bleak and depressing as the present is now the only thing left to do is look forward towards the future, with the magic taught ought to me by Zion as the only steady thing in my life to fill the void.  An unfaithful wife leaving it empty once again the magical arts fortify the hole left in my soul by the years I spent filling it with alcohol.
+      Perhaps it is a bit ironic that I summon that strength through the same place where I have the hole.  And my eyes, windows to the source show the fire of magic in green flames upon their crystal blue irises turning themselves into the turquoise gaze that often stares out into the Voletta night.
+                
+      I am Lamia, and it is time for me to thrive.
+                  
+
+  Experience Point Record
+
+  XP To Spend: 126
+  Remaining XP After Update: 126
+    Type of Experience Earned                                                                   Date Earned:           
+
+       Left-Overs (70)                                            5/23/01
+    Hosting (2)                                                5/22/01
+    RP                                                        5/23/01
+    Posting Points (2)                                        5/26/01
+    RP                                                        5/28/01
+    Hosting (2)                                                6/1/01
+    RP                                                        6/4/01
+    RP                                                        6/5/01
+    Posting Points (1)                                        6/10/01
+    Hosting (5)                                                6/10/01
+    RP                                                        6/14/01
+    Hosting (2)                                                6/14/01
+    Posting Points (4)                                        6/16/01
+    RP                                                        6/20/01
+    Hosting (5)                                                6/23/01
+    Posting Points (5)                                        6/24/01
+    RP                                                        6/25/01
+    RP                                                        6/27/01
+    Hosting (2)                                                6/29/01
+    RP                                                        7/5/01
+    Hosting (6)                                                7/6/01
+    RP                                                        7/10/01
+    RP                                                        7/11/01
+    RP                                                        7/14/01
+    RP                                                        7/19/01
+    Posting (3)                                                7/22/01
+    RP                                                        7/23/01
+    RP                                                        7/25/01
+           
+
+Date of Update                        Where Spent                                 Level                Total Cost:
+
+    7/25/01                    Tai Chi                        8 - 12            126
+
+    5/11/01                    Non-Update                NA                NA
+
+    3/19/01                    Steel Will                    14 - 15            45
+
+    1/21/01                    Steel Will                    13 - 14            42
+  
+    11/30/00                Flight                        Mastery            75
+    11/30/00                Tracking                    0-3                18
+    
+        10/8/00                Non-Update                                    NA
+         
+        8/7/00                    Non-Update                    Salem             NA
+      
+        6/4/00                    Steel Will                        11 - 13            75
+           6/4/00                    Reflexes                        8 - 9            18
+        
+           4/3/00                    Werewolf Lore                2 - 3            30
+           4/3/00                    Hacking                        0 - 4            30
+        
+        2/1/00                    Psychic Lore                    0 - 1            10
+           2/1/00                    Lamia Lore                    2 - 3            18
+           2/1/00                    Thaumaturge                Mastery            50
+           2/1/00                    Special Effects                0 - 2            9

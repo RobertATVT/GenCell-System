@@ -1,0 +1,71 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Pagan : RB UD rev 1a</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	5/6/00 4:32:57 PM Eastern Daylight Time<BR>
+From:	HOST ANT Pagan<BR>
+To:	HOST ANT Coma, HOST ANT Cloud, HOST ANT Lycaon<BR>
+To:	HOST ANT Pagan, Aylyai, Aurora L DuBois<BR>
+To:	Psyche O Path<BR>
+Sent on:	AOL 5.0 for Windows<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B><I>NON-COMBAT SKILLS<BR>
+ </FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10>COMMENTS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>ADDITIONS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff8000" SIZE=3 PTSIZE=10>QUESTIONS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT></I><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B>As you purchase your skills, it is important to realize a few things. There is a large difference between your characters CS and how they are RP'd. CS's and the majority of the rules are simply supplements to the RP in Black Bayou. However, the CS's and skills do represent a type of balancing between the characters. It is not necessary for the Player to be a certified MD in order for the character to have a medical skill. Granted, an in-depth knowledge of an area always makes RP more interesting, but it is not mandatory. The skills reflect what abilities the character possesses. </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B>Skill purchases should reflect the RP, either in Posts or the Main Room. Also, purchase of any of the major skills, such as Lores or Faith, can only be bought at no more than 3 Level bursts at a time. This is to prevent someone from "suddenly acquiring 10 levels of Faith overnight".</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+<BR>
+For rolls based on a statistic (there is a Stat in the roll), you must use the current rating in the roll.  For example: If your Body was 5 and you take 3 points of damage, you would have 2 Body left.  Then, if you attempted a skill and had to add your Body to the roll, you would only add 2 until you heal.  </FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B>I would like to see a change to the Character Sheets to reflect an additional catagory. It might be a small thing, but the Stat the Skill is based off of should be placed next to the Skill -- to serve as a reminder.</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> <BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B>Your first attempt at any Non-Combat Skill roll is made normally.  If you roll again inside of an hour for the same thing, your roll will be at -1.  Roll again?  -2.  And so on and so on until that hour is up when the Skill roll will once again be made normally.  Remember that after the first attempt and the negative modifiers are added, automatic success with double sixes is no longer applicable until the hour is up and the Skill roll is once again made normally.  The only exception is the Luck Skill. </FONT><FONT  COLOR="#ff8000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B>For how long? I mean, I always understood that 3 chances were all anyone got. </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><Breed type> Lore</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  (Mind)  [Maximum of level 3]</B><BR>
+<B>Generation Cost:</B> 5 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 10<BR>
+<B>Cost For Your Own Breed:</B> Next Level x 6<BR>
+<B>System: </B>see specific breed description<BR>
+<B>Description: </B>Do you know about the things that go bump in the night?  The myths and legends of all the different breeds are out there, ready to be found.  You must purchase lore separately for each breed you wish your character to know about.  The exact descriptions of each level of lore is in the description for each individual breed.  </FONT><FONT  BACK="#ffff00" SIZE=3 PTSIZE=10><B>To learn additional levels of breed Lore, you must have an in-character source of information about that particular breed.</B> </FONT><FONT  BACK="#FFFFFF" SIZE=3 PTSIZE=10> When you become a new breed, you automatically gain level 1 in that breed's lore.  Breed Lore acquired during character generation must be explained in the character's background.  If your character does not possess the Breed Lore, then they do not know anything about the existence of the breed.</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"> </FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B>I would like to see this enforced -- a link on the Character Sheet to a Post would be sufficient.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Income</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> (Mind)</B><BR>
+<B>Generation Cost:</B> 4 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 5, after a successful Finance roll witnessed by an approved ST. (Only 1 new level per update)<BR>
+<B>System:</B> 2d6+Income Skill Level vs TN listed below.<BR>
+<B>Description:</B>  Our capitalistic society insists we accumulate green colored paper with which to purchase goods and services.  Each level of Income represents the amount of money ($15k per level) your character earns in a year.  This money is not an exact figure the character owns.  Rather, it is the symbolic representation of what your character can and cannot afford.  </FONT><FONT  BACK="#ffff00" SIZE=3 PTSIZE=10><B>Any time your character wishes to purchase something costing $500 or more, an Income roll is required.</FONT><FONT  BACK="#FFFFFF" SIZE=3 PTSIZE=10></B>  A failed attempt only means your character did not have the means to purchase the item or service at that moment.  The target number increases depending on the cost of the item or services as listed below.  If an income roll is failed, it may be attempted again the next day.  <BR>
+    $1000 - 5000:           	  6<BR>
+    $5001 - $10,000:      	  8<BR>
+    $10,001 - $20,000:   	10<BR>
+    $20,001 - $50,000:   	12<BR>
+    $50,001 - $100,000: 	14<BR>
+    $100,000 + :            	16 <BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B>So this basically means I can spend $499 every day and not have to worry about it. Wow -- that means even the bums in the streets are rich in Voletta.  <g>  And on an average nite, with an average 2d6 roll, I can get my hands on another $10,000? Man oh man . . . . <BR>
+<BR>
+I would like to see these TN's increased by 2 each, and the chart expanded. Example below :<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B>    </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>$1000 - 5000:           	  	8<BR>
+    $5001 - $10,000:        	10<BR>
+    $10,001 - $20,000:   		12<BR>
+    $20,001 - $50,000:   		14<BR>
+    $50,001 - $100,000: 		16<BR>
+    $100,000 - $200,000:    	18<BR>
+    $200,001 - $500,000:		20<BR>
+    $500,001 - $750,000:		22<BR>
+    $750,001 -  $1,000,000:	24<BR>
+    $1,000,001 + :			26<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><I>Law </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>(Mind)<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0">Lord, lord  . . . I could go on for days on this one. However, for now I'll restrict myself to the following two comments :<BR>
+1]	The Law system sucks -- it should be a fight between two Lawyers, not one kick ass Lawyer and a NPC Judge that has no Character Sheet or Screen Name to speak of and can't fight back.<BR>
+2]	On that note -- the whole idea of Judge Mendoza burns my backside. I want the Judge to be Staff, and played with an Approved Character Sheet.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10>***********************************************************************************<BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER><I>COMBAT SKILLS<BR>
+ </FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10>COMMENTS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>ADDITIONS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff8000" SIZE=3 PTSIZE=10>QUESTIONS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10></I><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B>You may notice that the offensive skill descriptions are fairly broad in their descriptions.  </FONT><FONT  BACK="#ffff00" SIZE=3 PTSIZE=10><B>We did this to allow you the most creative freedom possible.</FONT><FONT  BACK="#FFFFFF" SIZE=3 PTSIZE=10></B>  The term - Melee - refers to hand-to-hand combat with one or more opponents.  We are always accepting new ideas for skills and if you feel you'd like to make any suggestions, please send them to <B><A HREF="mailto:BBSTMail?subject=Rulebook Suggestion">BBST Mail</A></FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10>. </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> </B>Please remember that we cannot use every suggestion sent to us.<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial Narrow" LANG="0"><B>This has led to disaster in -every- game system I've ever seen it used in. I can also say it's led to tons of arguments here in Black Bayou. Let's narrow down the Offensive Skill Descriptions, and tighten up their descriptions.  <g>  Now, before anyone starts hollering "Creativity Destroyer", let's remember that too much freedom leads to chaos, and in this area I think we can afford to be restrictive. Besides, anyone who's RP is "restricted" because we tightened up the Offensive Skills, is -- in my humble opinion -- in need of some of Lycaon's classes.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10>***********************************************************************************<BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER><I>FIGHTING STYLES<BR>
+ </FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10>COMMENTS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>ADDITIONS</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10> / </FONT><FONT  COLOR="#ff8000" SIZE=3 PTSIZE=10>QUESTIONS</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10></I><BR>
+</P><P ALIGN=LEFT><BR>
+Hmmmm . . . nothing comes to mind on this one. Of course, I don't use it often enough. <g><BR>
+<BR>
+</FONT><FONT  COLOR="#808000" SIZE=3 PTSIZE=10>Ok -- I'd like to apologize for the lack of "constructive critisim" in this message -- I'm not a Rules Designer, plus it's Finals week, so the combonation of the two means I only feel like pointing out errors right now . . . not offering sufggestions on how to fix them.  <g></B></HTML>

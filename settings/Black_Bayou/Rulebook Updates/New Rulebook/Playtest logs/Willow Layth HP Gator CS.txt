@@ -1,0 +1,143 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>NPC Weregator Sheet ~</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	11/29/2000 8:39:39 PM Eastern Standard Time<BR>
+From:	HOST ANT Pharaoh<BR>
+To:	HOST ANT Coma, HOST ANT Demon, HOST ANT Paradox<BR>
+To:	HOST ANT Pharaoh, HOST ANT Salem, HOST ANT WstWd<BR>
+Sent on:	AOL 5.0 for Windows sub 123<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B>Here's a copy -- just so everyone's on the same page. This is an NPC, so no panic attacks from the Management, please. <g><BR>
+<BR>
+</P><P ALIGN=CENTER>=======================================================<BR>
+</P><P ALIGN=LEFT><BR>
+Congratulations! Save this approved sheet for your records.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="News Gothic MT" LANG="0"><I><BR>
+ </FONT><FONT  COLOR="#0000d4" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B></I><BR>
+			</FONT><FONT  COLOR="#800080" SIZE=7 PTSIZE=26 FACE="Wingdings" LANG="0"><B>R</FONT><FONT  SIZE=6 PTSIZE=22 FAMILY="SANSSERIF" FACE="News Gothic MT" LANG="0"> Pharaoh</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+			CS Department<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8><B>All "powers" or Masteries allowed in the game must be in the game rules for the breed of your character, and you must purchase them to use them.  No others will be allowed.   All character sheets must be submitted to the Character Sheet Department once ever two months, or you will lose all earned experience points. All experience points must be broken down individually by type and date earned.<I><BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"></I>(Save this email!)<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+</P><P ALIGN=JUSTIFY><BR>
+</P><P ALIGN=CENTER>^v^      <B>Black Bayou</B>      ^v^<BR>
+<B>High Power NPC Weregator</B><BR>
+<BR>
+Player's Screenname: Willow Layth<BR>
+Character's Real Name: Willow Layth<BR>
+Date of Character Creation: today<BR>
+Date of Last Update: n/a<BR>
+<BR>
+<B>Statistics</B><BR>
+<BR>
+Body: 12    Mind: 9    Soul: 9<BR>
+<BR>
+<B>Modifiers</B><BR>
+<BR>
+</P><P ALIGN=LEFT>	Attack: 21         Will: 24           Quickness: 22      Initiative: 22      Dodge: 30<BR>
+	(Body+Mind)   (Mind+Soul)    (Soul+Body)        (Q+Reflexes)    (Q+Evasion)<BR>
+</P><P ALIGN=CENTER><BR>
+<B>Skills</B><BR>
+</P><P ALIGN=LEFT><BR>
+<B>Name				Lvl	Damage	Bonus</B><BR>
+</P><P ALIGN=JUSTIFY>Boxing				8	-1 Body		+2 Quickness<BR>
+Natural Weapons	1	-1 Body<BR>
+Evasion				8				+8 Dodge<BR>
+Steel Will			6				+6 Will<BR>
+Athletics			4<BR>
+Lycanthrope Lore	3<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Occupation</B><BR>
+</P><P ALIGN=LEFT><BR>
+<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Special Abilities</B><BR>
+</P><P ALIGN=LEFT><BR>
+<B><I>Healing </I>-  0 Soul to use. (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> Lycanthropes have an incredible natural healing ability.  Any wound caused to the Lycanthrope will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by bane water cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#c0c0c0" SIZE=3 PTSIZE=9>.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9>)<BR>
+<BR>
+<B><I>Horus Form</I> -  0 Soul to use.  (##HorusForm <target of rage>##)</B><BR>
+<B>System/Duration: </B> NA / Until target(s) is destroyed; takes 1 round to shape shift.<BR>
+<B>Effect/Description:</B>  Tall, muscular, and extremely strong, this raging beast is terror incarnate.  Their reasoning is that of a maddened beast; pure instinct.  Impervious to logic, they seek only to <I>destroy</I> the target of their fury.  It will go to whatever means necessary to <I>kill</I> the target of its rage, whether it is loved one or foe.  Once the target has been <I>killed</I>, reason begins to fight its way back.  How the Horus reacts depends on the individual it is.  Some flee while others fall to their knees sobbing.  Each Horus Form has it's own certain benefits and penalties, see the description below for the details.<BR>
+<BR>
+<B>Weregator -</B> The Weregator Horus Form is akin to a Beast of Legend, the mortal body changes into a very Raptor-like shape growing 50% in height and another 80% in weight due to the armorlike scales and new muscle mass.  This creature is large and scaled with the head of a long snouted reptile sitting on the shoulders of a larger scaled body of a man.  A long blunt tail protrudes from the back to help balance out the creature as it stands and the slightly shorter arms end in large taloned hands that are webbed for ease of movement through water, this form grants the Gators the ability to move through water at a 50% increase in speed.  While in this form the Weregator gains a +2 Body and recieves an armor benefit each round for one point (the first point of damage per round is removed due to it's scaly hide).  This form does not suffer the drawbacks of limited mastery use, however, they also don't get the resistance to certain Masteries as does the Werewolf.<BR>
+<BR>
+<B><I>Enhanced Senses</B></I> <B>- 0 Soul (##ES (Type)##)</B><BR>
+<B>System/Duration:  </B>2d6+Body vs TN 12 / Scene; Instant<B><BR>
+Effect/Description:</B>  Lycanthrope's have extremely active senses, surpassing both human and animal  characteristics.  When a situation arises where a player feels they can use these, they simply state it.  The only drawback is that only one sense may be enhanced at any given time.  <BR>
+<B>Sight/Nightvision -</B> The Lycanthrope can see twice as far as a normal human and in almost no light.  If they are in total darkness, or close to total darkness, they will not be able to see as far.  Vision penalties brought on from darkness are reduced by half while this mastery is in effect.<BR>
+<B>Hearing -</B> The Lycanthrope can hear 10 times better than a normal human, concentrating on whispers across a noisy room, or picking up the breaking of a twig.  While this sense is active the Lycanthrope can over hear conversations from across rooms and hear the footfalls of even the quietest of people.  Even conversations that are <vvvvvvvqw> may be overheard, however Mindspeak may never be overheard this way.<BR>
+<B>Smell -</B> The Lycanthrope's sense of smell is extremely enhanced, to the point where the Lycanthrope is capable of using it to distinguish between different scents and assist in tracking.  Enhanced Senses reduces the TN for tracking by -4.  <BR>
+<BR>
+<B><I>Animal Form </I>-  0 Soul to use.  (##Bear, Gator, Wolf, Cat Form##)</B><BR>
+<B>System/Duration:  </B>NA / Unlimited; takes 1 round to shape shift.<BR>
+<B>Effect/Description:  </B>A Lycanthrope who is attuned to its own inner nature is able to assume its sister form at will.  They appear in many different shapes and sizes, their animal forms often taking an appearance characteristic of their personality.  They still retain their normal eye color, however.  While in animal form, they gain +1 Body.  All animal forms are subject to Forum Director or Breed Advisor approval.<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Masteries</B><BR>
+</P><P ALIGN=LEFT><BR>
+<B><I>Scales</I> -0 Soul (No Room command needed)</B><BR>
+<B>Generation Cost: </B>20<B>  Experience Cost: </B>100<BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B>  Unknown to most, the gator is a sensitive creature...feeling every little thing, even in its surrounding swamps.  But like all animals they have defences for such events.  Being a battle ready creature, they have managed a way to strengthen their hides.  Making their bodies an armored suit of reptillian scales.  They are more resilient to the damage they can take before pain begins to affect their abilities.  A Weregator with Scales reduces the damage done to them by -1 for the duration of the mastery.  No attack can be reduced to less than one damage with this mastery.  This mastery is cumulative with the natural armor the Gators possess.<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Physical Description</B><BR>
+</P><P ALIGN=LEFT><BR>
+<B>Age and/or birth date:</B> (40) November 30, 1960.<BR>
+<B>Eye Color:</B> ice blue.<B><BR>
+Hair:</B> white blonde.<B><BR>
+Height/weight:</B> 6'7" 185 lb.<B><BR>
+Occupation:</B> wanderer and pickpocket.<B><BR>
+Equipment/weapons:</B> a regular backpack of small, generic camping supplies.<BR>
+<B>Appearance:</B> ragged jeans, faded t-shirts, worn out boots, and a baby face despite his thinness<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Background</B><BR>
+</P><P ALIGN=LEFT><BR>
+Robert James Anderson grew up on the streets of the big city after his mother left home, pregnant and too ashamed to tell her righteous parents. He knew only a world where his mother walked the streets for her drugs, and he stole to eat. In 1975, he finally stopped coming home. He didn't think his mother noticed. He fell in with an older ex-hippie that still called himself 'Still Water'. Still introduced him to the joys of sex, drugs, and rock'n'roll. They lived the good life, for a space of years, touring the south and stealing money to pay for their pleasures. During those years, the renamed Willow saw his friend do a great many things he put down to the drugs free-flowing in his system. Until Still told him that he'd really seen it all, and that he was going to be a weregator, too. Willow wasn't stoned enough to buy it when told, not accept it when the maddened form of his erstwhile friend attacked him. It was that night he parted company from Still Water, without bothering to leave a note or say goodbye. Those first three full moons were a hell of reconciled realities, and a few dead bodies. Willow was a survivor, though, and he pulled through after learning more about what was done to him from whatever source he could find. He went back to his wandering lifestyle and, somewhat perversely perhaps, ignored the flow of time he seemed to have stepped out of anyway. He comes to Isle Voletta more by accident, than any pull his dazed mind could feel.<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Experience Point Record</B><BR>
+<BR>
+XP To Spend: 80<BR>
+Remaining XP After Update: 80<BR>
+<BR>
+</P><P ALIGN=LEFT><U>Type of Experience Earned                                                      Date Earned:</U><BR>
+<BR>
+<BR>
+<U>Date of Update    Where Spent             Level      Total Cost:</U><BR>
+</P><P ALIGN=JUSTIFY>				Boxing				8		08<BR>
+				Natural Weapons	1		01<BR>
+				Evasion				8		16<BR>
+				Steel Will			6		12<BR>
+				Athletics				4		08<BR>
+				Lycanthrope Lore	3		15<BR>
+				Scales				M		20<BR>
+									<B>total	80</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> HOST ANT Pharaoh </FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=11>~Personnel Director ~</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~ Black Bayou Forum ~</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"> LexMartel:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Tahoma" LANG="0">uhm let my people go m'kay? </FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><I><BR>
+</FONT><FONT  COLOR="#ff0000" BACK="#fefefe" SIZE=2 PTSIZE=8><B></I>HOST ANT Pharaoh:	</FONT><FONT  COLOR="#800080" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">Let me think.  Hmmm . . . no. <g><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">HOST ANT Pharaoh:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">::cries::  Recount!! Again!! There must be more!!</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Snake Chapaev:</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>No! Muahaha, now I may rise up from the depths of hell <BR>
+to rule the world! Bush was the last key to total domination!</FONT><FONT  SIZE=4 PTSIZE=12> <BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=3 PTSIZE=10><B> </FONT><FONT  SIZE=2 PTSIZE=8>Snake Chapaev:	</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>Hey, but you get to carry a gun.<BR>
+ </FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B> </FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> HOST ANT Pharaoh </FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=11>~Personnel Director ~</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~ Black Bayou Forum ~</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"> LexMartel:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Tahoma" LANG="0">uhm let my people go m'kay? </FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><I><BR>
+</FONT><FONT  COLOR="#ff0000" BACK="#fefefe" SIZE=2 PTSIZE=8><B></I>HOST ANT Pharaoh:	</FONT><FONT  COLOR="#800080" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">Let me think.  Hmmm . . . no. <g><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">HOST ANT Pharaoh:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">::cries::  Recount!! Again!! There must be more!!</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Snake Chapaev:</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>No! Muahaha, now I may rise up from the depths of hell <BR>
+to rule the world! Bush was the last key to total domination!</FONT><FONT  SIZE=4 PTSIZE=12> <BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=3 PTSIZE=10><B> </FONT><FONT  SIZE=2 PTSIZE=8>Snake Chapaev:	</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>Hey, but you get to carry a gun.<BR>
+ </FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B> </FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P></HTML>

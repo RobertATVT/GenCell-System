@@ -1,0 +1,97 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=4 PTSIZE=12><B>O</FONT><FONT  SIZE=3 PTSIZE=10> F F I C I A L </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> W</FONT><FONT  SIZE=3 PTSIZE=10> A R N </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> M</FONT><FONT  SIZE=3 PTSIZE=10> A I L </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> T</FONT><FONT  SIZE=3 PTSIZE=10> E M P L A T E</B><BR>
+C h a t . H o s t i n g<BR>
+______________________<BR>
+</P><P ALIGN=LEFT><BR>
+The official warn mail template shown below must be used to report official warns. It is extremely important that your information be formatted exactly as shown.<BR>
+<BR>
+<B>Official Warn Mail Template</B><BR>
+<BR>
+=================== begin template ==========================<BR>
+<BR>
+<B>To:</B> </FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=9><B>GrandpasZ3</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+<BR>
+<B>Subject line:</B> OSW: <violator's screen name in lowercase><BR>
+<BR>
+<B>Body of the mail</B>:<BR>
+Screenname: <violator's screenname><BR>
+Location: <category/area/forum>, <conference/chat room name><BR>
+Gagged: <Yes/No>, <time in minutes><BR>
+Example: <insert clip from chat room screen><BR>
+<BR>
+Notes: <if needed to support or clarify the warn><BR>
+<BR>
+==================== end template ===========================<BR>
+<BR>
+<B>Example of a Completed Official Warn E-mail</B><BR>
+<BR>
+<I>(Address & subject fields of e-mail)</I><BR>
+To: <CAT monitoring name> (this name will be given to you in class)<BR>
+Subject line: OSW: 123member<BR>
+<BR>
+<I>(Body of e-mail)</I><BR>
+Screenname: 123Member<BR>
+Location: COST Education, Learning Lab<BR>
+Gagged: Yes, 30<BR>
+Example: 123Member: Ask me if I give a shit, dickhead!!!<BR>
+<BR>
+Notes: <BR>
+<BR>
+<B>Notes on the Official OSW Mail</B><BR>
+<BR>
+ * The e-mail format must be followed <B>exactly</B> to insure the mail is compatible with CAT's tools.<BR>
+<BR>
+	- The subject line must be the letters OSW, colon, space, member's screen name.<BR>
+<BR>
+	- The screen name in the "Screenname" field does not have to be lowercase; the preference is for a copy/paste to avoid errors.<BR>
+<BR>
+	- Do not use the <I>Tab</I> key to create space between field names and their respective entries. There can be no space or more than one space, but no <I>Tab</I> characters. Tab characters are only permitted in the chat clip where they occur as part of the copy/paste from the chat room window.<BR>
+<BR>
+	- The "Location" field does not have to be a path. The forum/area/category name and the name of the room, as indicated in the example e-mail, is the correct format.<BR>
+<BR>
+	- The chat clip should be pasted in immediately following the "Example" field as indicated in the example e-mail. Do not press the <I>Enter</I> key and paste the chat clip on the following line.<BR>
+<BR>
+	- "Example:" can be "EXample:" but no other variations in field names are supported at this time.<BR>
+<BR>
+ * Use a new e-mail every time you submit an OSW mail (do not use forward or reply when resubmitting a corrected mail).<BR>
+<BR>
+ * If you need to provide further explanation of the violation, use the "Notes:" field. Do not add anything to the actual chat clip.<BR>
+<BR>
+<B>Correct Use of Example and Notes Fields</B><BR>
+Example: 123Bob:	<BR>
+321Jill: hey, knock it off<BR>
+123Bob:	<BR>
+567Tom: You're getting on my nerves<BR>
+123Bob:	<BR>
+123Bob:<BR>
+123Bob:	<BR>
+123Bob:	<BR>
+888Jack: I'm leaving, this is terrible<BR>
+<BR>
+Notes: 123Bob is disrupting the room by scrolling blank lines in the room.<BR>
+<BR>
+<B>Incorrect Use of Example and Notes Fields</B><BR>
+Example: 123Bob:	<---member is attempting to disrupt chat<BR>
+321Jill: hey, knock it off<BR>
+123Bob:	<---member is attempting to disrupt chat<BR>
+567Tom: You're getting on my nerves<BR>
+123Bob:	<---member is attempting to disrupt chat<BR>
+123Bob:	<---member is attempting to disrupt chat<BR>
+123Bob:	<---member is attempting to disrupt chat<BR>
+123Bob:	<---member is attempting to disrupt chat<BR>
+888Jack: I'm leaving, this is terrible<BR>
+<BR>
+Notes: <BR>
+<BR>
+<BR>
+<BR>
+<BR>
+_________________________________<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>Confidential: Do not distribute.<BR>
+Compiled By: Community Leader Education<BR>
+Update History:<BR>
+ * v1.00 - 11/12/99<BR>
+ * v1.10 - 04/25/00 minor edits, no change to warn mail format<BR>
+ * v1.11 - 04/28/00<BR>
+ * v1.21 - 05/03/00 clarified formatting items<BR>
+ * v1.22 - 07/30/00<BR>
+</HTML>

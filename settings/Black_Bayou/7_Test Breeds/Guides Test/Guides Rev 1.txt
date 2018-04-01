@@ -1,0 +1,205 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>Subj:	<B>Re: Update of the Guides Breed</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	6/21/2000 8:19:14 PM !!!First Boot!!!<BR>
+From:	<A HREF="mailto:RufusRusso">RufusRusso</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A>, <A HREF="mailto:HOST ANT Coma">HOST ANT Coma</A><BR>
+Sent on:	AOL 4.0 for Windows sub 103<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+**Alterations Made <BR>
+			  Mortality deleted<BR>
+			  Minions dropped to one<BR>
+			  Reaper Form Amended<BR>
+			  BL Mastery- Entropy Added<BR>
+			  Killing Weapon Changed from Scythe(too large to be easily concealed) 			  to Requiem<BR>
+			  Alphabetized Masteries and Innates<BR>
+ 			  Valkyrie Amended<BR>
+			  Necromancy Amended<BR>
+			  Mini-Description that goes in the Breeds Section added<BR>
+			~~~~ 2nd Revisions<BR>
+			Means of Death writing improved<BR>
+			Creation TN added (Soul vs. TN 14)<BR>
+			Name Changed to Schicksal for the more enigmatic name <BR>
+<BR>
+</P><P ALIGN=CENTER><I>^v^</I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10>    </FONT><FONT  SIZE=5 PTSIZE=14><B><I>The Schicksal</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><I>^v^</I><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8> ((LOCKED:  May only be created after you have an approved Mortal CS for no less than 30 days.  Approval must also be gained by writing <A HREF="mailto:BBSTMail?subject=Angel Breed Request">BBSTMail</A></FONT><FONT  COLOR="#0000a0" SIZE=2 PTSIZE=8>. Or, Generation is allowed if you have played the game for 1 year with no unapproved breaks of more than 2 months (approved such as Approved Frozen CS)))<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT>	A Schicksal is, in reality, the personification of Death. Neither an angelic nor  demonic force, their primary job is to reave the souls of the dead from their bodies and escort those souls to the light or the dark, wherever the Minion that leads them chooses.<BR>
+<BR>
+</P><P ALIGN=CENTER>	The Schicksal are those who have been chosen by the restless spirits, because of some affront to the a restless spirit, to spend their eternity in the dead's service, laying to rest those who deserve it so... <BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>The Becoming:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><I> </FONT><FONT  SIZE=3 PTSIZE=10></B></I> When a mortal, via an SL, affronts the dead in a vile, disgusting way, the spirit of the cursed ones may choose that mortal for its own. Not every affront causes this reaction, few things are horrible enough to justify the punishment, and few souls have not been laid to rest by a Schicksal, as only restless souls may cause the change. When the mortal is cursed, he is drawn inexhorably to the grave of the insulted spirits by unstoppable forces within a week. If the person died and was not buried he will be drawn to the place where their body lies. There, all will seem to go dark for the Schicksal-to-be, as a bluish aura  surrounds him. The victim will disappear for three days, caught in the realm of the rested dead, where it will be educated by the dead themselves. On the third day, the Schicksal to be must roll 2d6 + Soul vs. TN 14 to escape the void, forsaking the temptation of eternal slumber.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Mortality:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><I>  </B></I>Immortal (Schicksal lore level 3 is required to kill a member of this breed).<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Means of Death:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><I> </FONT><FONT  SIZE=3 PTSIZE=10></B></I> There is only one thing that can truly kill a Schicksal. (See lore level 3 below for details). However, there is a way to seriously injure one. Fire will cause two points of body damage for every round the Schicksal is exposed to it. These wounds are not deadly to a Schicksal, however they can cause serious damage as they cannot be healed normally.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><I>Please note: If you have the following level of lore, this is what your character thinks they know about angels.  Some are fact and some are myth.  If it is not listed in the information above or specifically stated below, it is myth.<BR>
+<BR>
+</FONT><FONT  SIZE=4 PTSIZE=12><B>Lore Level 1:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I>  You have watched many Hollywood movies and that is where you get most of your knowledge from.  Of course, most of what you might believe is untrue.  You believe that a Schicksal comes in one form, the Grim Reaper of souls  You  may believe they are symbolic in their presence and so not exist. The Schicksal chooses when to take you with its sharp scythe and<BR>
+deadly touch, and escaping it is impossible.<BR>
+<BR>
+<B>Cat Fur</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10>:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>  Cat fur has been, since ancient times, regarded as a bane of death. The egyptians used cat fur to ward off the undead.  The fur itself, however, has absolutely no power since it lacks a whole cat.  It is the faith of the wielder that empowers the fur.  Holding the fur aloft, the character must concentrate, focusing their faith on the fur and<BR>
+the Schicksal they are attempting to ward off.  This requires a roll of 2d6+Soul+Faith vs. the Schicksal's 2d6+Soul+Faith.  If the character's roll beats the Schicksal's roll, they are successful.  The angel must flee the scene immediately for the next 4 rounds / 2 minutes.  Nothing will dissuade the angel from fleeing until the duration wears off.  This is a blind panic and the only actions the Schicksal may take are those that enable it to get as far away as possible.  Should there be no place to run, the Schicksal will collapse to the ground, cowering in fear.  If the Schicksal is successful, they may ignore the affects and will be immune to any further attempts of warding by the same character for 4 rounds / 2 minutes. The failed use of cat fur will only serve to enrage the Schicksal, causing it to attack the wielder as their next action however they are able, even if it is normally against their nature to do so. It is not possible for one Schicksal to use this warding method on another of its kind.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Lore Level 2:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>You have done an incredible amount of reading on the subject of angels.  Having read everything from the local booksellers', to the more arcane legends, you believe to know the truth.  Most of this information is, of course, false.  You know that the destructive nature of fire can burn and seriously<BR>
+</P><P ALIGN=CENTER>injure The Schicksal. You know that The Schicksal can take many forms, ranging from reapers to any shape representing death. You also "know" that a Schicksal cannot effect you while you are holding an object of faith.  When a Schicksal uses a mental mastery with you as the target within line of sight from you, roll 2d6+Mind+2 vs. a TN: 20.  It matters not if you know the characters breed - your mind will still attempt to defend itself from attack, even though your<BR>
+</P><P ALIGN=LEFT>physical self had no realization of the process.  If you succeed, you recognize the ability and its effect, giving you a one time +3 to the resistance roll (if any) for that mastery.  (masteries requiring the Schicksal use Will, Mind or Soul rolls only; cannot be used while in direct combat).<BR>
+<BR>
+<B>Crysanthemum Ashes</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10>:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>  </B>Crysanthemums are a symbol of death and the dead to most in the world. To others, it is a way to injure supernatural beings.  It takes 10 minutes to empower enough ash for 1 attack.  This empowering must be role-played in the main room for the entire 10 minutes for it to work.  The character may hold the ash in a container of its<BR>
+choice. To attack with the ash, the character must roll 2d6 + Attack vs. the Schicksal's 2d6 + Quickness, as it is difficult to dodge a cloud of deadly dust.  Only 3 attacks worth of Ash may be empowered at one time.  If the character attempts to make more than 3 attacks worth, the first amount looses its ability, etc.  The empowered Ash may only be used by the individual that created it.  The roll to empower the ash is 2d6+Soul+Faith vs TN 22.  This<BR>
+roll must be witnessed and approved my either a room host, ST or GM.  If an attack is successful, the Schicksal suffers 1 point of damage that cannot be healed supernaturally.  The Schicksal must heal the damage as any normal mortal would.  That would mean each point of damage would take 3 days.  Major Medical is the only medical skill that will help the Schicksal heal faster at the maximum rate of x2.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Lore Level 3: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I>You have studied The Schicksal most of your life, and perhaps you've even known a few.  You have finally discovered the truth about them.  You also know all that is truth, their creation and their mission. Having studied The Schicksal for so long, you've begun to pick up on their more subtle abilities.  When a Schicksal uses a mental mastery with<BR>
+</P><P ALIGN=LEFT>you as the target within line of sight from you, roll 2d6+Mind+3 vs. a TN: 20.  It matters not if you know the characters breed - your mind will still attempt to defend itself from attack, even though your physical self had no realization of the process.  If you succeed, you recognize the ability and its effect, giving you a one time +5 to the resistance roll (if any) for that mastery.  (masteries requiring the angel use Will, Mind or Soul rolls only; cannot be used while in direct combat).<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Sight Recognition: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>There are two methods of identifying a Schicksal by sight.  Not the identity of the person, but the identity of the breed.  Only through long hours of study (and the prerequisite Lore level 3) are these methods possible.  The first is by physically seeing one of the true forms of the Schicksal, Horseman, Reaper or Valkyrie. If you wish to<BR>
+identify the TF as a breed, roll 2d6 + Mind vs. TN 14.  If the roll is successful, you have gathered enough knowledge to understand that you are actually looking at a Schicksal, and not some illusion, a fearful hallucination.  The second method is by observing the Schicksal transform either to or from one of its TFs.  If this is physically witnessed and there is a Room Host, ST or GM, the observer automatically recognizes what others may think of as 'swamp gas' or 'light flashes' as a Schicksal.<BR>
+<BR>
+</P><P ALIGN=CENTER><B>Requiem</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10>: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> </B>The Schicksal, when it returns from its "training",  is altered slightly, in that its soul cannot be reaved by any normal means. No matter how much physical punishment the body absorbs, the soul that had laid to rest so many of its own has a natural resistance to befalling the same fate. Yet there is a way to free a Schicksal's soul from its body. The body must first be brought to the negative equivalent of its body stat. Once this is achieved, the killer must play a requiem, a song of mourning for the soul. This can be done with either the voice or with any instrument. The attacker will then make a faith roll of 2d6 + soul + faith vs. TN 26. If he succeeds, the next round the The Schicksal's Immortal Soul is lulled into rest for one round. At this point, the killer may, for that round only, kill the Schicksal with any attack. The Schicksal will appear mortal after its death.<BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Mandatory Role-Play Requirements  </FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+1) Cats are a living bane to the forces of death. A symbol of life, since ancient times they have been known for warding death. A Schicksal cannot stand their presence, and will, upon sight, either kill the offending feline or leave the place they are in. If they are unable to do so, the conflict within their body will cause them to decay over the next hour into a corpse, taking a -5 to all physical and will rolls as a result.<BR>
+ <BR>
+2) A Schicksal's calling is the not comforting of souls. However, there is one exception. The restless soul that was offended in their creation forever demands service, the Schicksal's eternal curse. At least once a day the Schicksal must visit the site where it committed its offense to help ease the pain of the controlling wraith.<BR>
+<BR>
+3) A Schicksal's calling <I>is</I> the laying to rest of souls. When a Schicksal comes across a dead body, it must lay that soul to rest unless: it either has already been or that soul is the one who created another Schicksal. It needn't immediately preform the ceremony of its choice (which must be preformed in a TF), but it cannot leave until then. All places of many deaths (graveyards, shipwrecks) are assumed to contain unrested souls. (If there are multiple<BR>
+souls in the area it need only rest one to relieve itself sufficiently to leave)</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><I><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14></I>Schicksal</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14> Special Abilities</FONT><FONT  SIZE=3 PTSIZE=10><I><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B></I>Since all The Schicksal are different in their mortal backgrounds, at BC they must choose of Horseman, Valkyrie and Reaper form for their fourth innate.</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Famine - </FONT><FONT  SIZE=3 PTSIZE=10></I>0 Soul to use (##Famine <victim>##)<BR>
+System/Duration: </B>2d6 + Mind vs. 2d6 + Body <BR>
+<B>Effect/Description: </B>Death's minions do not always simply respond to the effects of nature and mortal's taking the lives of others, sometimes they induce them themselves. This is the ability for a Schicksal to increase a victims metabolism in such a way that, within minutes, the victim's body will be as if it had not fed in ten days. A vampire affected by this mastery will react as per the RB's rules of non-feeding.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><I><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B>Healing</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>-  0 Soul to use. (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+</P><P ALIGN=CENTER><B>Effect/Description:</B> The Schicksal have an incredible natural healing ability.  Any wound caused to a Schicksal will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by Chrysanthemums cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10>.)</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Night Vision</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 0 Soul to use.  (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B>  The Schicksal can see twice as far as a normal human can.  In addition, when the lighting is low, or near total darkness, the vision of the Schicksal takes on the effects of infravision.  Unable to make out detail, the Schicksal can discern between animate and inanimate objects, sensing their red or blue glow, respectively.<BR>
+<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10>~~~~~~~~~~~~~~~~~~~~~~~~~~Masteries~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ <BR>
+<BR>
+</P><P ALIGN=LEFT><B>Damnation -1 soul to use (##Damnation <victim>##)<BR>
+Generation Cost: 10 Experience Cost: 50<BR>
+System/Duration:</B> 2d6 + Will vs. 2d6 +Will/Five Minutes; Takes one round to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description:</B> As the creatures that draws souls to the light or darkness, The Schicksal have often taken it upon themselves to dole out the punishment that in their minds, may or may not justly come. Or, perhaps they decide that they must scare someone straight. Whatever the reason,  many of The Schicksal have learned to cause another to experience the victim's idea of hell with naught but a touch. They will begin to sweat heavily as their body, tricked by the illusion, reacts to extreme heat. Intense pain will rack their body, brought about by a torture of the victim's choice. The victim will be at a   -1 to all rolls during the duration.<BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><B>Familiar Puppet (##Familiar <description>##) -0 Soul to use</B> (requires Necromancy)<BR>
+<B>Generation Cost: 10 Experience Cost: 50 <BR>
+System/Duration:</B> 2d6+ Will vs. TN 24; Scene; Takes One Round to Activate<BR>
+<B>Effect/Description: </B>Have you ever felt you saw the ghost of a loved one? Perhaps you feel it came to comfort you in a time of need or worry. While it often is a psychological defense, minions have learned to bind the spirit of a deceased to themselves. They can project the spirit to the world as in Necromancy, however the spirit will simply act as the Minion wishes it to. The spirit's touch is deathly cold and it can pass through solid<BR>
+objects. Only liar's ears and veracity can detect the true power behind the spirit. <BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B>Horseman Form -0 Soul to Use(##TGF <Horseman>##)<BR>
+Generation Cost: 10 Experience Cost: 50<BR>
+System/Duration: </B>NA/Scene; Takes one round to activate<BR>
+<B>Effect/Description:</B> The fell bringer of death feared by many Christian peoples as their final acquaintance. The exact description of the dark rider on the grim horse is up to the player. Its horse is swifter than any other, allowing them to escape battle on its initiative the round after it begins it's flight, assuming it isn't hit. In this form, the Schicksal gains +1 body.</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<B>Ignore -1 Soul to Use (##Ignore##)<BR>
+Generation Cost: 5 Experience Cost: 25<BR>
+System/Duration: </B>See Below; Scene; Takes one round to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description:</B>  The Schicksal sometimes need to work without the interference  of mortal man. Some have developed a method of making themselves so dull that they are left unnoticed. The Schicksal must roll 2d6 + will vs. 2d6 + mind + soul of every other person within sight. For every person they succeed against, the person will not notice them unless they are physically attacked or another brings their attention to the Schicksal.<B><BR>
+</P><P ALIGN=LEFT><BR>
+Levitate -1 Soul to Use (##Levitate##)<BR>
+Generation Cost: 10 Experience: 50</B><BR>
+<B>System/Duration: </B>2d6+Will vs. TN 18; Scene; Takes one round to activate<BR>
+<B>Effect/Description: </B>Death transcends everything, including mere mortal effects such as gravity. By concentrating for a moment, the Schicksal can ascend into the sky, and manuever as if it were solid ground.<B><BR>
+<BR>
+Necromancy -3 Soul to Use (##Necro <victim>)<BR>
+Generation Cost: 15 Experience Cost: 75<BR>
+System/Duration: </B>2d6 + Will vs. TN 30; 10 minutes; Takes 5 minutes to activate<BR>
+<B>Effect/Description:</B> Those that make the journey to rest souls can make that same journey to return them, if only for a little while. The Schicksal must be in a true form, and, after performing a five minute ritual over the corpse or ashes, (or the place where they lie, such as a grave or urn) can summon the spirit of anyone dead. The spirit will appear with a slight bluish tint, and will be clear. However, since the spirit is removed from its body, the only memories it retains are of the day of its death. <BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B>Night Essence -1 Soul to Use (##NightEssence##)<BR>
+Generation Cost: 10 Experience Cost: 50<BR>
+System/Duration: </B>2d6 + Will vs TN 26; Instant/Takes two rounds to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description: </B>The Schicksal occasionally must escape where they are, to return to the place where they preform their comforting. By focusing and drawing the power of the spirits into itself for a moment, a Schicksal may change itself into a shade of darkness, which immediately follows a path to its place of comforting by instinct. It cannot go to any other location. Physical contact with another creature negates the mastery. Nothing other than clothes may transport with the Schicksal.<BR>
+</P><P ALIGN=LEFT><B><BR>
+Plague -2 Soul to Use (##Plague <victim>##)<BR>
+Generation Cost: 15 Experience Cost: 75<BR>
+System/Duration:</B> 2d6 + Mind vs. victims 2d6 + Body; See Below; Takes one round to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description:</B>The Schicksal are masters of death without involving physical violence. One of their many powers is that of disease. Through this mastery, a Schicksal can infect a victim, even non-humans, with an accelerated variation of the bubonic plague. Once infected, within one day, the victim will break out in disgusting black bobules covering his body. Each day, the victim will suffer a -1 to body that will not heal normally or by mastery. The disease will wear on until a successful major medical roll of TN 24 is <BR>
+</P><P ALIGN=LEFT>achieved on the victim, at which time the body damage will heal normally. (With +2 to body from the medical roll)<B><BR>
+<BR>
+Raise To Light -1 Soul to Use (##Light <victim>##)<BR>
+Generation Cost: 5 Experience Cost: 25<BR>
+System/Duration: </B>2d6 + Will vs. 2d6 + Will/ Five Minutes; Takes one round to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description: </B>Occasionally, The Schicksal may decide that someone needs or deserves to be put in a better situation. Once this mastery is initiated, by touch, the victim will feel a powerful calm overtake them, and be completely relaxed and at bliss.<BR>
+</P><P ALIGN=LEFT><B><BR>
+Reaper Form- 0 Soul to Use (##TGF <Reaper>##)<BR>
+Generation Cost: 10 Experience Cost: 50<BR>
+System/Duration: </B>NA/Scene; Takes one round to activate<BR>
+<B>Effect/Description: </B>The customary Schicksal to the depths of many European peoples is the Grim Reaper. It stands as tall as its mortal shell, an inky blackness covered in a black or dark blue cloak. Its face is skeletal, with glowing red eyes. Bony arms extend seemingly from nowhere, with their long fingers wrapped around a long, razor sharp scythe. The reaper has no visible legs and appears to float slightly off the ground. While in this form the Reaper gains +3 Soul.<BR>
+<BR>
+<B>Reave The Soul -4 Soul to Use (##Reave <victim>##)<BR>
+Generation Cost: 20  Experience Cost: 100<BR>
+System/Duration: </B>2d6 + Will vs. TN 34; Instant/ Takes one round to activate;<B><BR>
+</P><P ALIGN=CENTER>Effect/Description: </B>When a mortal (werewolf, lamia, et al) dies, the The Schicksal are the ones who provide the final blow, actually reaving the soul from the dead body. From this experience, some few of the most powerful The Schicksal have learned to reave the souls of those they kill prematurely. The successful activation of this mastery prevents any major medical roll from being preformed on a victim to revive them from death, leaving only a miracle to save them. Also, assuming the Schicksal has lore 3 in a breed and knows its victim is of that breed, it may make the above roll rather than make a faith roll. This mastery may only be initiated in a true form, and may only be activated when a victim is in or past the mortal requirements for death.<B><BR>
+</P><P ALIGN=LEFT><BR>
+Valkyrie Form - 0 Soul to Use (##TGF <Valkyrie>##) <BR>
+Generation Cost: 10  Experience Cost: 50<BR>
+System/Duration:</B> NA/ Scene; Takes one round to activate<BR>
+</P><P ALIGN=CENTER><B>Effect/Description: </B>These maiden The Schicksal were the customary deliverers of the souls of the warrior, particularly those of the Norsemen. Unlike the Reapers and Horsemen, these forms are not horrifying to view. More deeply in touch with the souls it guides in this form, the Schicksal gains a bonus of +2 soul in this form. Also, the Valkyrie can take flight, almost as to defy to the laws of the mortal world. The exact physical description of the Valkyrie is up to the player.<BR>
+</P><P ALIGN=LEFT><BR>
+						</FONT><FONT  SIZE=2 PTSIZE=8>  </FONT><FONT  SIZE=3 PTSIZE=10><I>^v^</I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10>    <B><I>Minions Of Death</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><I>^v^</I><BR>
+<BR>
+</P><P ALIGN=CENTER>In any society, there are those that lead, and those that follow. If nothing else it is ineffiecient to leave everyone to do any job they choose. When the eldest of The Schicksal noticed that, with more unrested souls their pain increased, they began to organize lesser minions for the job. <BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER>Only one Minion may habitate any one area, with its own troop of the layers to rest of the  dead.  All of The Schicksal that reside within that area are considered to be under the guidance of the Minion. They have free will, but will always preform their duty to rest the souls they are ordered to. The Minion will know all of his/her followers by sight. <BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER><B>Please note:</B> These  masteries are listed for informational purposes only.  Regardless of their level in Schicksal Lore, no character would have any idea these masteries exist in-character, except the Minion and ex-minions. A Minion must have (at the minimum) an approved Schicksal Character Sheet at least four months old and Lore level 3 in The Schicksal, with at least level one in Angels and Demons. The Minion must roleplay their character at least 5 days during each character sheet update period. </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B>Beasts of the Earth -0 Soul to Use (##Beast <animal/victim>##)<BR>
+Experience Cost: </B>75 xp<B><BR>
+System/Duration:</B> 2d6 + Will vs. TN 20; Scene; Takes 2 rounds to activate<BR>
+<B>Effect/Description: </B>A minion can learn, through patient practice, that mortals are not the only creatures that can be manipulated to increase the population of the dead. Through intense concentration, a Minion may learn to summon native beasts to attack a victim. Like a raging horus, the animal will not stop until its victim is killed or it is knocked out. If a PC character is in the form of the animal chosen to be summoned, it must roll 2d6 + Will vs. the Schicksal's roll to not be the creature called to the Schicksal. No more than two creatures may be summoned at one time, and the creatures must be within sight and able to access their victim. The animal will have a soul and mind of 3, with the body stat and quickness bonus given for the lamia form. <BR>
+<BR>
+<B>Death’s Form  -0 Soul to Use (##Death’s Form##)</B><BR>
+<B>Experience Cost: </B>Innate<BR>
+<B>System/Duration:</B> NA/Scene; Takes one round to shapeshift<BR>
+</P><P ALIGN=CENTER><B>Effect/Description:</B> The forms of death are infinite. However, only the Minions have learned to actually create these forms, to shape themselves with the essence of death. This form is chosen (And must be approved) when the Schicksal becomes a minion. It most often duplicates The Schicksal's personality. A highly religious Schicksal may choose its rendition of an angel of death, whereas a violent, angry Schicksal might choose a demonic, horrific form. However,  most minions are loathe to use this form as it is overuse of a form that allows lower echelons of The Schicksal to take Minion forms for their own. While in this most natural of forms the minion will gain a bonus of +2 Body +2 Soul <BR>
+</P><P ALIGN=LEFT><BR>
+<B>Entropy -3 Soul to Use (##Entropy <Object>##)</B><BR>
+<B>Experience Cost:</B> 100 xp<BR>
+<B>System/Duration:</B> See Below / 1 Hour; Takes 1 Round to Activate<BR>
+<B>Effect/Description:</B> The Minions of Death sometimes learn to gain almost universal power. By focusing their wills and drawing upon the chaotic forces that cause death, they can force an object to temporarily break down into pure energy. The object will flash brilliantly for a moment, causing a -2 to all attack rolls of every sighted person in the area, with or without eye protection. Anyone holding the object will take one point of fire damage due to the immense heat. To succeed in the mastery, a Schicksal must roll 2d6  + Will vs a TN 18 + 2 for every ten pounds. Thus an object of 10 pounds(rounded up) will take a TN of 20, an object of 5 pounds will take a TN of 18, and an Object of 33 pounds would require a TN of 26.</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B>Sense Death -0 Soul to Use (No Command Needed)</B><BR>
+<B>Experience Cost:</B> Innate<BR>
+<B>System/Duration:</B> NA; Permanently Active<BR>
+<B>Effect/Description:</B> The minion must, coordinate the laying to rest of as many dead souls of possible. Thus, when a Schicksal reaches this lofty status, it acquires the ability to sense the movements of souls into and out of death. It will know the identity anyone who dies and can ID them by even the tiniest bit of ash. </FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+<BR>
+<BR>
+ <BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14><B>The Schicksal</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><I>:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> These immortal beings spend their time laying the souls of the dead to rest.  They slink through the shadows, and, when your time is up, no force on earth can prevent them from coming to get you. They hold alleigance to neither the dark or the light, only to their own leaders.  A Schicksal is a spiritual force that will join itself with that of a mortal as a curse, to avenge a truly horrific act preformed against an unrested soul.<BR>
+</P><P ALIGN=LEFT><BR>
+ </FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Requirements for Change:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> To become a Schicksal you must sin against an unrested member of the dead in such a way that the soul curses you with serving its kind for the rest of your eternity on earth, after a period of no less then 30 days and receive approval from a request to <A HREF="mailto:BBSTMail?subject=Angel Breed Request">BBST Mail</A></FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10> to play the breed.  In the Character Sheet update in which you change breeds you must include a copy of the approval letter for the breed change and one post involved in the possession of the mortal body.<BR>
+<BR>
+  </FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Stat Changes: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>-3 Body, +2 Mind, +3 Soul<BR>
+  </FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Special Abilities:</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>Night Vision, Healing, Famine, One of Four True Forms</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>Maximum Stats:<BR>
+10 15 16<BR>
+<BR>
+Fighting Style: Mortel<BR>
+This style was designed for evading the assaults, both physical and mental, or those who do not wish to take their place among the dead. <BR>
+Bonus +4 Will +3 Evasion<BR>
+<BR>
+(and why +7 per? cause they can't get lv. 12, therefore, they end up with a lower total max stat bonus by one point anyway)<BR>
+<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</HTML>

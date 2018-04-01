@@ -1,0 +1,191 @@
+<HTML><FONT  COLOR="#0000a0" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Bookman Old Style" LANG="0"><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><I><BR>
+^v^</I> <B>Black Bayou Character Sheet </B><I>^v^<B></I> <BR>
+<BR>
+</FONT><FONT  SIZE=7 PTSIZE=25></B><I><U>NPC</FONT><FONT  SIZE=2 PTSIZE=8></I></U><BR>
+<BR>
+<B>Player's Screen Name: </B>All Hosts<B> <BR>
+Character: </B>VPSD Sheriff's Deputy (P-II)<B><BR>
+</B><BR>
+(Officers respond to ST'd fights or as needed in the main room)<BR>
+(Between 2-6 NPC Officers respond to a PC Officer's call for backup within 4-10 rounds)<BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Statistics</I></U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+~Body: 6        ~Mind: 5        ~Soul: 5        <BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Modifiers</I></U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+~Attack: 12             ~Will:  10               ~Quickness: 11        ~Inits: 13              ~Dodge:  13<BR>
+</P><P ALIGN=LEFT>																       (Body Armor: 12)<BR>
+</P><P ALIGN=CENTER><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Skills</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+     <B>Name                 Level        Damage</B><BR>
+1) Non Lethal Weapons		6		3 Mind Damage - Mace or Taser<BR>
+2) Small Arms             		3         	3 Body Damage - Baretta F14 Sidearm<BR>
+3) Heavy Arms            		2         	4 Body Damage - Benelli Riot Shotgun<BR>
+4) Large Melee			2		2 Body Damage - Police Baton<BR>
+5) Sure Shot				3		+3 Aim - Firearms Training<BR>
+6) Cadet Training         		4         	1 Body Damage/+1 Attack - Self Defense<BR>
+7) Athletics                 		2         	2d6+6+2 vs TN - Physical Fitness<BR>
+8) Basic Medical         		1         	2d6+5+1 vs TN - First Aid<BR>
+9) Evasion                  		2         	+2 Dodge Modifier - Agility<BR>
+10) Reflexes                 		2         	+2 Inits Modifier - Quickness<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U> Masteries </FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=7><B><I>Local Peace Officer</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=7></I><BR>
+Generation Cost: </B>35<B> / Experience Cost: </B>105<BR>
+The men and women in blue, justice over all, highly trained and fully equipped to handle every crisis.  Well, almost any crisis. The modern day heroes.  Anyone can be an ex-officer, but only those that get hired by the Sheriffs Department are active officers in-character.  Since this occupation is limited to a small number of individuals, you must first send a request to <A HREF="mailto:ANT Email">ANT Email</A></FONT><FONT  COLOR="#400000" SIZE=2 PTSIZE=7> before purchasing this occupation.<BR>
+<B>Bonus Skills       Level     Skill Cost</B><BR>
+Athletics                 2         Next Level x 2<BR>
+Basic Medical         1         Next Level x 1<BR>
+Cadet Training         3         Next Level x 1<BR>
+Evasion                  2         Next Level x 2<BR>
+Income                   2         Next Level x 4<BR>
+Heavy Arms            2         Next Level x 4<BR>
+Law                        3         Next Level x 3<BR>
+Reflexes                 2         Next Level x 2<BR>
+Small Arms             3         Next Level x 3<BR>
+<B>Advantage:</B>   Everyone hates a cop killer.  You better think more than twice about touching one of these guys, and they never travel alone.  When there is a Storyteller present, police characters can call for back-up in most situations and have 2 - 6 non-player character officers arrive one the scene within 4 - 10 rounds (2 - 5 minutes), depending on the situation (as determined by the Storyteller or Gamemaster).<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Physical Description</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=JUSTIFY>Standard Sheriff's Deputy in Isle Voletta, charged with enforcement of the laws and protection of the Peace and Dignity of the Parish. There are about 20 of them on patrol. Their gold star gleams from the left chest of a Kakhi Uniform while mirrored shades are perched on their nose. They patrol in black and tan Ford Crown Victoria sedans, sometimes in pairs. Each patrolman's Sam Browne utility belt contains his Baretta F14 Sidearm, as well as two 9mm clips for the pistol, each containing 15 rounds. Two sets of handcuffs, a cannister of pepper spray, a walkie talkie with lapel mic, and a MagLite Flashlight also hang from the Deputy's waist. Under the kakhi of the uniform tunic is a Kevlar vest. (-2 damage against Small Arms. -1 damage against Large Arms.Wearer receives a -1 to their Dodge modifier.) In the cruiser's front seat is a locking rack for a Benelli Super 90 Riot Shotgun. The crowd pleaser packs nine shells in the magazine. In the event of a serious disturbance, the trunk of the patrol car contains equipment for Riot Control, including tear gas grenades and launcher.(2D6+Will Vs TN 24, Werewolves are -4 to the resistance roll because of their enhanced senses.  If successful, victim is -4 to Attack and Quickness for 4 rounds or 2 minutes ~This affects ALL breeds~). There is also a Taser (NonLethal Weapons) and equipment for blocking off a crime scene, including flares, evidence baggies, drug identification kit, crime scene tape, and a gas mask. There is also a utilitarian tool kit, usable for minimal roadside assistance. Deputies are authorized to detain, arrest and transport to the Sheriff's Station anybody suspected of breaking the laws of Voletta Parish. Use of deadly force is a last resort.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Important Information</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=JUSTIFY><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>The Miranda Rights: (<B>MUST</B> BE READ IN FULL AT TIME OF SUSPECT ARREST)<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>You have the right to remain silent. If you waive that right, anything you say can and will be used against you in a court of law. You have the right to an attorney, and to have one present with you before any questioning. If you desire but cannot afford one, one will be appointed to you before any questioning. Do you understand the rights I have just read you?<BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>Arrest Reports<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+All arrests require an Arrest Report be filled out and posted under "</FONT><FONT  SIZE=3 PTSIZE=10><A HREF="aol://5863:126/mB:128018"> Voletta Court Reporter</A></FONT><FONT  COLOR="#400000" SIZE=2 PTSIZE=8>" and also Emailed to ANTEmail, BBSTHela and DavisMason. Copy the template below and enlarge it to 12 point font, filling it out with the relevant information.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>                                       Arrest Report<BR>
+ <BR>
+ 1.  Arresting Officer(s):<BR>
+      Suspect(s):<BR>
+      Individual(s) Arrested:<BR>
+      Witness(es): <BR>
+                          <BR>
+ 2.  Time of Occurance: <BR>
+ <BR>
+ 3.  Place of the Occurance:  <BR>
+ <BR>
+ 4.  Details surrounding the arrest(s):  <BR>
+ <BR>
+ 5.  Charges Brought:<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER> <B><U> INCIDENT REPORT</B></U>    <BR>
+</P><P ALIGN=LEFT>      <BR>
+1.  Primary Officer(s):   <BR>
+      Suspect(s):    		<BR>
+      Witness(es):     	<BR>
+                               <BR>
+2.  Time of Occurrence:     <BR>
+      <BR>
+3.  Place of the Occurrence:    <BR>
+      <BR>
+4.  Details surrounding the incident(s):      <BR>
+ <BR>
+5.  Evidence, comment(s), or witness statement(s):    <BR>
+<BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+<BR>
+</P><P ALIGN=CENTER><I>^v^</I> <B>Black Bayou Character Sheet </B><I>^v^<B></I> <BR>
+<BR>
+</FONT><FONT  SIZE=6 PTSIZE=22></B><I><U>Senior Deputy NPC</FONT><FONT  SIZE=2 PTSIZE=8></I></U><BR>
+<BR>
+<B>Player's Screen Name: </B>All Hosts<B> <BR>
+Character: </B>VPSD Sheriff's Senior-Deputy (P-III)<B><BR>
+</B><BR>
+</P><P ALIGN=LEFT>(Officers respond to ST'd fights or as needed in the main room.  1 NPC P-III with a NPC P-II will respond to a PC Officer's call for backup within 4-8 rounds after an NPC officer makes a Code 6 radio call. (Code 6 described below)   To figure out the proper round, use Keyword:  <A HREF="aol://1722:Dice">Dice Roller</A></FONT><FONT  COLOR="#0000a0" SIZE=2 PTSIZE=8>. </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> In 'Number of Dice to Roll' place the number 4.  Down by the die with all the question marks, place a 2 for number of sides.  Then press the die with the question marks and you will receive a number between 4 and 8 in the chat room.  That is how many rounds it will take for the backup police to arrive)<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Statistics</I></U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+~Body: 10        ~Mind: 7        ~Soul: 6        <BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Modifiers</I></U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</P><P ALIGN=LEFT>~Attack: 19    ~Will:  13     ~Quickness: 16  ~Inits: 20    ~Dodge:  20<BR>
+											(Body Armor: 19)<BR>
+</P><P ALIGN=CENTER><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Skills</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+     <B>Name                 Level        Damage</B><BR>
+1) Non Lethal Weapons		6		3 Mind Damage - Mace or Taser<BR>
+2) Small Arms             		6         	3 Body Damage - Baretta F14 Sidearm<BR>
+3) Heavy Arms            		3         	4 Body Damage - Benelli Riot Shotgun<BR>
+4) Large Melee			2		2 Body Damage - Police Baton<BR>
+5) Sure Shot				4		+4 Aim - Firearms Training<BR>
+6) Cadet Training         		8         	1 Body Damage/+2 Attack - Self Defense<BR>
+7) Athletics                 		4         	2d6+6+4 vs TN - Physical Fitness<BR>
+8) Basic Medical         		2         	2d6+5+2 vs TN - First Aid<BR>
+9) Evasion                  		4         	+4 Dodge Modifier - Agility<BR>
+10) Reflexes                 		4         	+4 Inits Modifier - Quickness<BR>
+<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Special Abilities</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>     <BR>
+<B>Luck</B> - 0 XP - 0 Soul  (##LuckRe-roll##)<BR>
+System/Duration:  NA / Instant<BR>
+Effect/Description:  What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, not highest.  The mortal can only enact this mastery once per scene.<BR>
+   <BR>
+<B>Adrenaline</B> - 0 XP - 0 Soul  (##Adrenaline##)<BR>
+System/Duration:  NA / Instant<BR>
+Effect/Description:  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +4 (must be stated to the ST which roll before use, may not be used to  add to mental roll, such as a will roll).  This mastery may only be used once per night.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U> Occupation </FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Local Peace Officer</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I><BR>
+Generation Cost: </B>35<B> / Experience Cost: </B>105<BR>
+The men and women in blue, justice over all, highly trained and fully equipped to handle every crisis.  Well, almost any crisis. The modern day heroes.  Anyone can be an ex-officer, but only those that get hired by the Sheriffs Department are active officers in-character.<BR>
+<B>Bonus Skills       Level        Skill Cost<BR>
+</B>Cadet Training    	3         	Next Level x 1<BR>
+Law                     	3         	Next Level x 3<BR>
+Small Arms          	3         	Next Level x 3<BR>
+Athletics              	2         	Next Level x 2<BR>
+Evasion                	2         	Next Level x 2<BR>
+Income                 	2         	Next Level x 4<BR>
+Finance			2		Next Level x 3<BR>
+Heavy Arms         	2         	Next Level x 4<BR>
+Reflexes              	2         	Next Level x 2<BR>
+Basic Medical      	1         	Next Level x 1<BR>
+<B>Advantage:</B>   You better think more than twice about touching one of these guys, and they rarely travel alone.  When there is a Storyteller or Room Host present, police characters can call for back-up in drastic situations and have 2 - 6 non-player character officers arrive one the scene within 4 - 8 rounds (2 - 5 minutes), depending on the situation (as determined by the Storyteller or Gamemaster).  Police characters also know how to use those weapons they carry on their hip and <B><U>gain a +3 to their Small Arms skill.</B></U><BR>
+</FONT><FONT  COLOR="#800000" SIZE=2 PTSIZE=8><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Physical Description/ Roleplay Usage</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=JUSTIFY>Standard Senior Deputies in Isle Voletta are charged with enforcement of the laws and protection of the Peace and Dignity of the Parish and are the rolemodels for their younger Deputy counterparts. There are about 5 of them on patrol, one usually in each section of the city with a new Deputy. Their gold star gleams from the left chest of a Kakhi Uniform while mirrored shades are perched on their nose. They patrol in black and tan Ford Crown Victoria sedans, sometimes in the drivers seat, but mostly they let the rookies drive. Each Senior Deputy carries the same Sam Browne utility belt as their counterpart, though the Senior Deputies is usually a little more worn.  It contains his Baretta F14 Sidearm, as well as two 9mm clips for the pistol, each containing 15 rounds. Two sets of handcuffs, a cannister of pepper spray, a walkie talkie with lapel mic, and a MagLite Flashlight also hang from the Senior Deputy's waist. Under the kakhi of the uniform tunic is a Kevlar vest. (-2 damage against Small Arms. -1 damage against Large Arms.Wearer receives a -1 to their Dodge modifier.) In the cruiser's front seat is a locking rack for a Benelli Super 90 Riot Shotgun. The crowd pleaser packs nine shells in the magazine. In the event of a serious disturbance, the trunk of the patrol car contains equipment for Riot Control, including tear gas grenades and launcher.(2D6+Will Vs TN 24, Werewolves are -4 to the resistance roll because of their enhanced senses.  If successful, victim is -4 to Attack and Quickness for 4 rounds or 2 minutes ~This affects ALL breeds except Vampire, Demon and Angel~). There is also a Taser (NonLethal Weapons) and equipment for blocking off a crime scene, including flares, evidence baggies, drug identification kit, crime scene tape, and a gas mask. There is also a utilitarian tool kit, usable for minimal roadside assistance. Senior Deputies are authorized to detain, arrest and transport to the Sheriff's Station anybody suspected of breaking the laws of Voletta Parish. Use of deadly force is always a last resort, but self defense is never denied.  Unlike a code 5 for general backup in which Deputies arrive, the Senior Deputy will only arrive for Code 6 calls from Deputies already on the ground and in desperate trouble.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Important Information</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=JUSTIFY><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>The Miranda Rights: (<B>MUST</B> BE READ IN FULL AT TIME OF SUSPECT ARREST)<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>You have the right to remain silent. If you waive that right, anything you say can and will be used against you in a court of law. You have the right to an attorney, and to have one present with you before any questioning. If you desire but cannot afford one, one will be appointed to you before any questioning. Do you understand the rights I have just read you?<BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>Arrest Reports<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+All arrests require an Arrest Report be filled out and posted under "</FONT><FONT  SIZE=3 PTSIZE=10><A HREF="aol://5863:126/mB:128018"> Voletta Court Reporter</A></FONT><FONT  COLOR="#800000" SIZE=2 PTSIZE=8>" and also Emailed to BBSTMail for further distribution. Copy the template below and enlarge it to 12 point font, filling it out with the relevant information.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>                                       Arrest Report<BR>
+ <BR>
+ 1.  Arresting Officer(s):<BR>
+      Suspect(s):<BR>
+      Individual(s) Arrested:<BR>
+      Witness(es): <BR>
+                          <BR>
+ 2.  Time of Occurance: <BR>
+ <BR>
+ 3.  Place of the Occurance:  <BR>
+ <BR>
+ 4.  Details surrounding the arrest(s):  <BR>
+ <BR>
+ 5.  Charges Brought:<BR>
+</P></HTML>

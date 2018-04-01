@@ -1,0 +1,71 @@
+<HTML></P><P ALIGN=CENTER><FONT  BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=3 PTSIZE=12 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><U>Combat Quick Reference Sheet</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</P><P ALIGN=LEFT></B></U><BR>
+	This sheet was made to help new or experienced ST's handle combat a lot easier and efficient.  This sheet should be prnted out and used as often as possible to keep continuity.</FONT><FONT  COLOR="#e51100" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><U>Player           Inits     Rnd 1     Rnd 2     Rnd 3     Rnd 4     Rnd 5     Rnd 6     Rnd 7     Rnd 8<BR>
+</B></U>_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+_______________________________________________________________________<BR>
+<B><U><BR>
+Player #1          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #2          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #3          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #4          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #5          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #6          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #7          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]<BR>
+<B><BR>
+Player #8          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</B></U>______________________________________________________________________<BR>
+<U>(                           )  [     ]  (                           )  [     ]  (                           )  [     ]  (                           )  [     ]</FONT><FONT  COLOR="#e51100" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"></U><BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER><B><U>Example Reference Sheet<BR>
+</P><P ALIGN=LEFT></U><BR>
+</B>Inits (The characters Initiative Modifier goes here)<BR>
+Rnd# (What round the fight is on and list the total character initiative 2d6+inits)<BR>
+B (Body)<BR>
+M (Mind)<BR>
+S (Soul)<BR>
+Att (Attack Modifier)<BR>
+Will (Will Modifier)<BR>
+Quk (Quickness Modifier)<BR>
+Ddg (Dodge Modifier)<BR>
+Pen# (Penalties such as lighting and stat loss from damage or masteries)<BR>
+(          ) (Skills that may come into play)<BR>
+[    ]  (Level of Skill)<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#000080" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><U>Player           Inits     Rnd 1     Rnd 2     Rnd 3     Rnd 4     Rnd 5     Rnd 6     Rnd 7     Rnd 8<BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"></B></U>Joe Player 1	    21	(26)		(23)		(31)<BR>
+Joe Player 2	    17	(22)		(A)		(26)</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</P><P ALIGN=CENTER>_______________________________________________________________________<BR>
+<B><U><BR>
+Player #1          B     M     S     Att     Will     Quk     Ddg    Pen 1     Pen 2     Pen 3     Pen 4   <BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"></U>Joe Player	       8	7	6	21	     13	  14		25	</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">   </B><BR>
+<U>(</FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">Lycanjitsu</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">  )  [ </FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">8</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> ]  (</FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">Sure Shot       </FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> )  [ </FONT><FONT  COLOR="#0000a0" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">4</FONT><FONT  COLOR="#000000" BACK="#ffffff" style="BACKGROUND-COLOR: #ffffff" SIZE=2 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> ]  (                           )  [     ]  (                           )  [     ]<BR>
+</P><P ALIGN=CENTER><BR>
+</P><P ALIGN=LEFT></U></FONT></HTML>

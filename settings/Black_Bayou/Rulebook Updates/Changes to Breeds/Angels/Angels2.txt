@@ -1,0 +1,5 @@
+<HTML><FONT  COLOR="#181818"><BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8><B>OnlineHost:</B> </FONT><FONT  COLOR="#181818" SIZE=3 PTSIZE=10>	*** You are in "Town Square - Lobby 121". ***<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8><B>OnlineHost:</B> </FONT><FONT  COLOR="#181818" SIZE=3 PTSIZE=10>	*** You are in "CreationOfMan". ***<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8><B>Patrick Mocreach:</B> </FONT><FONT  COLOR="#181818" SIZE=3 PTSIZE=10>	<==-- Jonathan<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8><B>Patrick Mocreach:</B> </FONT><FONT  COLOR="#181818" SIZE=3 PTSIZE=10>	Sorry. Let's go on.</HTML>

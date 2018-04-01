@@ -1,0 +1,139 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Level 5 Hunter NPC<BR>
+</FONT><FONT  SIZE=4 PTSIZE=11>Silver Future GWSL ~ Angelic Demon Hunter</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname: <B>Saeed Majid X<BR>
+</B>Character's Real Name:<B> Saeed Majid<BR>
+</B>Date of Character Creation<B>: NA<BR>
+</B>Date of Last Update:<B> NA</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>        <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>24</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>26	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>20		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>29</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>29</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level       Damage                    Misc                     XP Cost               </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+   	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Large Melee      		12		   3						 	   	Next Level x 3</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1)</B> 					<BR>
+   	<B>2)</B> <BR>
+	<B>3)</B> Reflexes          		3       									Next Level x 2<BR>
+	<B>4)</B> <BR>
+	<B>5)</B> <BR>
+	<B>6)</B> Direction			12		   3		(+6 Inits, +9 Dode)			Next Level x 4<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level                                   Misc                     XP Cost                	<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Faith           	    		3        									Next Level x 2<BR>
+	<B>1) </B>Tracking         		3     										Next Level x 2<BR>
+	<B>2)</B> Athletics          		2										Next Level x 2<BR>
+	<B>3)</B> Income            		1										Next Level x 4<BR>
+	<B>4)</B> Finance 			1										Next Level x 3<BR>
+	<B>5)</B> *Steel Will*			6<BR>
+	<B>6)</B> <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>      Name                                                    Level                                            XP Cost            	<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></U>	Demon Lore							3							NA</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT>   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Hunter</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</I>Bonus Skills       Level        Skill Cost<BR>
+</B>Faith               		3        	Next Level x 2<BR>
+Reflexes          	3       	Next Level x 2<BR>
+Weapon of Choice 	6 	   	Next Level x 3<BR>
+Tracking         		3     		Next Level x 2<BR>
+Athletics          	2          	Next Level x 2<BR>
+<Breed> Lore  (see below)	Next Level x 6<BR>
+Income            	1        	Next Level x 4<BR>
+Finance 			1		Next Level x 3<BR>
+<B>Advantage:</B>  A hunter may choose a single level of Lore, free of charge.  They also receive a +2 to any mastery resistance roll granted by having level 2 lore in the breed of their aggressor, and +4 to any mastery resistance roll by having level 3 lore in the breed of their aggressor.   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Healing</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 0 Soul to use.  (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> Angels have an incredible natural healing ability.  Any wound caused to the angel or its host body will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by faith water cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#000080" SIZE=2 PTSIZE=8>.)</FONT><FONT  COLOR="#800040" SIZE=2 PTSIZE=8><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 0 Soul to use.  (>>::target of Mindspeak:: message<<)</B><BR>
+<B>System/Duration: </B> NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the angel is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within view of the angel attempting to communicate in this fashion.  Mindspeak can only be used to speak to one individual at a time.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>The Gift of Life</I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>- 0 Soul to use.  (##GiftLife <target>##)</B><BR>
+<B>System/Duration: </B>roll 2d6+Will vs TN 18 / Instant; takes 2 rounds to activate.<BR>
+<B>Effect/Description:  </B>The angel may transfer their Body points to any willing (or stunned / unconscious) individual through touch.  This transfer is almost instantaneous in normal RP, but during combat, no more than 2 Body points can be transferred per round, requiring an re-roll for every additional round.  Transferring Body points to a stunned or unconscious individual without permission is perfectly acceptable.  This same mastery also has a number of minor effects, causing flowers to bloom spontaneously, or making a starving person feel as though they've just eaten their full.  In the end, a Host or GM or ST has the final say in what can and cannot be performed with this power.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Volange</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 0 Soul to use. (##Volange##)</B><BR>
+<B>System/Duration: </B>NA/NA; take 1 round to shapeshift.<BR>
+<B>Effect/Description: </B> Even though an angel's essence is bound the mortal body it inhabits, when confronting the vilest evil, the angel can sometimes extend its true self.  By exerting its will, the angel's symbolic self materializes in the real world, temporarily changing the body of its mortal host.  This form varies greatly from angel to angel depending on the aspect of the Light they represent.  This form does not have to be a mortal-like form.  Angels have appeared in many different guises throughout history.  The form you choose must be chosen at Character Creation and approved.  To get approval, please send your request to <A HREF="mailto:BBSTMail">BBSTMail</A></FONT><FONT  COLOR="#800000" SIZE=2 PTSIZE=8>.  </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>There are a few things about this ability that remain the same, regardless of the chosen form.  The angel's true form will always  radiate a soft, white aura that anyone with the Faith skill will see as obvious.  The Angel will also gain +1 Mind and +2 Soul while in this form.</FONT><FONT  COLOR="#800040" SIZE=2 PTSIZE=8><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>(Just a quick note about shape changing (all forms, except Transcendence).  While an angel is in another form, if its current Body falls to 0, the angel will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body.  It should also be noted that materiel objects do not shapeshift with the character.  Any and all clothes and objects the character was holding will need to be transported by some other means.)<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>   </FONT><FONT  SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Celestial Armor</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use.  (##Armor##)</B><BR>
+<B>Generation Cost:</B> 10<B> </B>/<B> Experience Cost:</B> 50<BR>
+<B>System/Duration:</B>  roll 2d6+Body vs TN 16 / 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+Effect/Description:  When subjected to, and unable to avoid confrontation, the angel will draw on its inner strength to combat any bodily harm it sustains.  A pale aura of gold will surround the angel, visible only to those with the Faith skill.  The angel is more resilient to the damage they can take before the pain begins to affect their abilities.  Celestial Armor absorbs 3 points of damage per round, then any other damage taken during the rest of the round will make it through the armor.  The armor will recharge at the beginning of each round for its duration.  This mastery may only be used once per night. <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Celestial Weaponry</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 1 Soul to use.  (##Weaponry##)</B><BR>
+<B>Generation Cost: </B>10 /<B> Experience Cost:</B> 50<BR>
+<B>System/Duration:</B>  roll 2d6+Will vs. 20 / 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+<B>Effect/Description: </B> The angel is not always the impartial observer.  Occasionally, the evil they face is so great, the angel must reach deep within itself to pull forth the forces of aggression.  A physical representation of the angel's aggressive nature comes forth, seemingly from out of nowhere.  This aggression takes the form of some sort of hand held weapon (not a ranged weapon).  This weapon (selected at character creation) will appear in the angel's hand and will have a softly glowing silver aura emanating from it that anyone within line of sight can see.  The weapon causes 3 Body damage with each successful attack roll of 2d6+Attack+Large Melee (if applicable), but cannot be used to kill.  This damage will only incapacitate a victim.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Godspeed</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 1 Soul to use.  (##Godspeed##)</B><BR>
+<B>Generation Cost:</B> 5 /<B> Experience Cost:</B> 25<BR>
+<B>System/Duration:</B>  roll 2d6+Body vs TN 16 / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  The body of the angel possesses a natural quickness that allows them to react faster than normal.  This mastery can be used in all forms of the angel, as the holy energies within them have enhanced their reactions.  This mastery adds +3 to all defense rolls (i.e., Evasion and Reflexes).<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+<B>Breed:</B> Angel<B><BR>
+Height: </B>(Please Fill in)<BR>
+<B>Weight:</B> (Please Fill in)<B><BR>
+Hair Color:</B> (Please Fill in)<BR>
+<B>Eye Color:</B> (Please Fill in)<BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>   <B><BR>
+(Please Fill in)</FONT><FONT  SIZE=3 PTSIZE=10><I><U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I></U>	<U>Where Spent                Skill/Attribute/Mastery                   Level                       Cost<BR>
+</P><P ALIGN=LEFT></U>       		 <I>Attributes (30) </B></I>:		Body (-1 for Psychic)				9				10<BR>
+							Mind	(+2 for Psychic)				12				10<BR>
+							Soul	(+1 for Psychic)				11			<U>        10</U><BR>
+																			<B><I>30</B></I><BR>
+<BR>
+		<B><I>Skills (80) :</B></I>			Hunter Occupation					free				free<BR>
+								Faith               					3        			free<BR>
+								Reflexes          				3				free<BR>
+								Large Melee      				6				free<BR>
+								Tracking         					3     				free<BR>
+								Athletics          				2				free<BR>
+								Demon Lore  					3				free<BR>
+								Income            					1				free<BR>
+								Finance 						1				free<BR>
+							Direction							12				36<BR>
+							Large Melee						+6				12<BR>
+							Celestial Weaponry					Mastery			10<BR>
+							Celestial Armor					Mastery			10<BR>
+							Godspeed						Mastery			5<BR>
+							Steel Will							+3			<U>        6        </U><BR>
+																			<B>79</B></HTML>

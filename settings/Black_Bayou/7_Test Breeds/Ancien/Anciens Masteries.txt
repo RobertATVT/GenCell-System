@@ -1,0 +1,240 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#400040" SIZE=5 PTSIZE=14><B>Anciens General Masteries <BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>Some Masteries that an Ancien learns are abilities that are innate and do not require any sort of casting, while others require the manipulation of the weave and must therefore be cast.  Any of the masteries that are listed as spells go off the Casting time, Range, and Duration of the skills that the Ancien must possess in order to preform their Art.  Most of these will be Spells, however some are nothing more than gifts from the elements.  All of the abilities or spells use the Casting skill in order to determine success (unless oterwise noted) and to determine the time for the effect to inact.  The length of time the mastery lasts is determined by the Duration Skill, unless otherwise noted.  Some of the Masteries are only allowed to specific Sects and may in no ways be purchased by other sects.  These are listed at the end of the list.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Sample Mastery Listing:</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10></I>Mastery Name  <I> Soul Cost per use.   (room command for activation)<BR>
+Mastery point cost at Generation / Mastery cost with Experience Points</B></I><BR>
+<B>System/Duration:</B>  the roll required to activate the mastery and the target number needed for the character to succeed / how long the effects of the masteries last.  The role-played effects of certain masteries can last a lot longer than the combat effects.  Also listed here is the number of rounds it takes to activate the mastery.<BR>
+<B>Effect/Description: </B> This is a description of the mastery and its effects.<BR>
+<BR>
+Most of the time your character tries to use a mastery, you will need to do three things.  First, your character must harness the weave around you that touches all things universal.  Whether this be concentrating on a target, chanting a ritual, screaming at the top of your lungs, etc.  Then you must enter the room command.  This command is listed in parenthesis on the top line of the mastery's description. They are used to alert the host and the other players that you are using a mastery.  The other characters may not be aware of this, but their players should be.  During the duration of the mastery, you burn the fuel in order to perform it.  Therefore, once the mastery's duration is concluded you will expend the soul listed. You must decrease your character's soul statistic by each point listed to the right of the mastery's name.  The final thing you have to do is follow the rest of the description.  This is usually a dice roll and upon success, some sort of effect.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Animae</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> -2 Soul per use ( ## (sect) Animae ## )</B><BR>
+<B>System/Duration:</B> roll 2d6 + Will vs. TN 20 / Indefinate<BR>
+<B>Effect/Desription:</B> This is the Elemental form of the Ancien. The different forms depend on the Anciens sect. Even the more insubstantial forms maintain physical form and can be affected by physical objects. All Items drop unless they have been dedicated to the Mage.  The levels of the forms are not cumulative, for example : At level three Animae for an Earth Ancien you do not have +4 Body and 1 level of Armor, you have +2 Body and one level of Armor. <BR>
+<BR>
+<B>Earth</B><BR>
+The Anciens skin takes on an earth tone that gradually becomes more of a rocklike shell until at level five he looks like an Elemental. The material may be any natural rocklike substance. eg. Granite, Malachite, Hematite, Sandstone, etc.  The Earth Animae may move through raw earth at a speed of 1 meter per level of the ability if they succeed in a Will roll vs a TN:22.<BR>
+<BR>
+Level 1 - +1 Body<BR>
+Level 2 - +1 Body<BR>
+Level 3 - +2 Body, 1 level of armor (-1 from Heavy Arms)<BR>
+Level 4 - +2 Body, 1 level of Armor<BR>
+Level 5 - +3 Body, 2 levels of armor (-2 for Heavy Arms, -1 from Small Arms)<BR>
+<BR>
+<B>Air</B><BR>
+The Summoner becomes more insubstantial untill he is nothing more than a form of whirling mist and clouds, this form varies from Ancien to Ancien, some may look like Cumulus clouds while others may look like a storm is whirling ferociously inside of them. The Air Animae can also fly at 1 meter per round for each level of the mastery if they succeed in a Will roll vs. TN:22<BR>
+<BR>
+Level 1 - +1 Body<BR>
+Level 2 - +1 Body<BR>
+Level 3 - +2 Body<BR>
+Level 4 - +2 Body, +1 Soul<BR>
+Level 5 - +3 Body, +1 Soul<BR>
+<BR>
+<B>Fire</B><BR>
+The Ancien becomes Immolated in fire a he takes this form. As his mastery of this ability progresses his body becmes more and more fiery until he is finally a body of fire held togther by his will. Each Anciens form looks different, the fire may be from a chemical blue to normal flame. All hand to hand damage done in this form is Lethal and will do burning wounds to anyone who is specially wounded by it.<BR>
+<BR>
+Level 1 - +1 Body<BR>
+Level 2 - +1 Body<BR>
+Level 3 - +2 Body<BR>
+Level 4 - +2 Body, +1 Mind<BR>
+Level 5 - +3 Body, +1 Mind <BR>
+<BR>
+<B>Water</B><BR>
+The Ancien becones more liquid and less solid until he is nothing more than a mass of water. Some Ancien appear as a calm blue liquid as if from the beaches of fantasy, while others appear as a murky or Bloody substance. The Ancien may seep through cracks in this form.<BR>
+<BR>
+Level 1 - +1 Soul<BR>
+Level 2 - +1 Soul <BR>
+Level 3 - +2 Soul<BR>
+Level 4 - +2 Soul,  +1 Mind<BR>
+Level 5 - +3 Soul,  +1 Mind<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Animal Mimicry</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 0 Soul to use. (##<animal> form##)<BR>
+Generation Cost:</B> 6<B> </B>/<B> Experience Cost:</B> 30<B><BR>
+System/Duration: </B> NA / Unlimited; takes 2 turns to shape shift.<BR>
+<B>Effect/Description:</B>  This spell enables the Ancien to shape shift into one type of small<BR>
+animal.  This would include, but is not limited to: dogs, cats, mice, etc.  This form must be chosen at the time of character creation.  Other animal types may be purchased at a cost of 5 Generation Points or 25 XP later on per form.  The animal form you choose must be approved by the Rules Coordinator or Forum Director.  No form of spell casting is possible while in an animal form.  Please send requests to <A HREF="mailto:ANTBBMail?subject=Ancien Animal Form Request">BBSTMail</A></FONT><FONT  COLOR="#800000" SIZE=3 PTSIZE=10>.  </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>For a listing of the authorized animal forms: <A HREF="aol://4344:1192.lanimal.9394883.595601422">Ancien Animal Forms</A></FONT><FONT  COLOR="#800000" SIZE=3 PTSIZE=10>  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>(Just a quick note about shape changing (all forms).  While a Ancien is in another form, if its current Body falls to 0, the Ancien will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body.  It should also be noted that materiel objects do not shapeshift with the character.  Any and all clothes and objects the character was holding will need to be transported by some other means.)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#800000" SIZE=3 PTSIZE=10><B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Elemental Bolt</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Bolt##)</B> (Sp)<BR>
+<B>Generation Cost:</B> 10<B> </B>/<B> Experience Cost:</B> 50<BR>
+<B>System/Duration:</B>  roll 2d6 + Will vs. targets 2d6 + Dodge <BR>
+<B>Effect/Description:</B>  The Ancien are a rather fractitious lot, and through the ages have created ways to combat each other.  This being the most effective of them.  The Ancien call forth the elements around him, pulling energy from the weave around them.  When this is done the Ancien may release it towards his enemy in a terrible bolt.  This bolt may take one of several forms depending on the Ancien casting it, from stone daggers, to fireballs.  This attack will do three (3) points of body damage to a target, reguardless of breed.  If the target is a mamber of your Bane Sect that damage will do an additional point of damage, totalling four (4) and will of course take much longer to heal than normally. This can be an awesomely destructive spell when in the proper hands.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Elemental Shielding</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I> - 2 Soul to use.  (##Shielding##)</B> (Sp)<BR>
+<B>Generation Cost:</B> 15<B> </B>/<B> Experience Cost:</B> 75<BR>
+<B>System/Duration:</B>  roll 2d6 + Soul vs. TN 18 <BR>
+<B>Effect/Description:</B>  When subjected to, and unable to avoid confrontation, the Ancien will draw on the strength of the elements around him to combat any bodily harm it sustains.  The skin of the Ancien will shift in appearence to that of his element, Earth Sect will become rocky, Fire Sect will radiate heat and get a reddish coloring, Air Sect will have small vaporous winds wrap around them, Water Sect will become an aqua tone, and the Death sect will have a swirling mass of greenish fog surrounding them, this effect will only be viewable by those with Ancien Lore 2 or the Casting Skill. The Ancien is more resilient to the damage they can take before the pain begins to affect their abilities.  Elemental Shielding absorbs 3 points of damage per round, then any other damage taken during the rest of the round will make it through the shielding.  The shielding will recharge at the beginning of each round for its duration.  This mastery is limited only by the duration skill of the caster.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Far Whispers </FONT><FONT  SIZE=3 PTSIZE=10>(Requires Whispers)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (as Whispers) </B>(Sp)<BR>
+<B>Generation Cost:</B> 10<B> </B>/<B> Experience Cost:</B> 50<BR>
+<B>System/Duration:</B> roll 2d6 + Will vs TN 20 <BR>
+<B>Effect/Description:</B> The Ancien has learned to seek others out by expanding on their ability of Whispers.  This allows the Ancien to communicate via Whispers to a target within one mile.  For every mile after the first, a modifier of +2 is added to the target number.  The communication is only one way, unless the target also has the mastery: Extended Mindspeak, or Far Whispers.  No roll is necessary unless the Ancien is in combat.  If combat is initiated while this mastery is in effect, the Ancien must reactivate it due to the stress of combat.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Hat Trick</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Hat Trick <item>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:</B>  roll 2d6+Will vs TN 24 / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description: </B> Throughout time, magicians have always been able to "create things out of thin air".  Most of these stage magicians rely on illusion to fool their audience.  True Ancien can sometimes pull matter from the spirit world, molding it into a physical object.  The object that is created must be rather small, no larger than a 2 liter bottle.  The Ancien must reach behind something the create the item.  I.E. reaching into a top hat to pull out a rabbit or reaching behind someone's ear to retrieve a quarter.  After the duration of the spell, the item will dematerialize instantly.  Chemical compositions, such as explosives, cannot be created with this spell.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Hive Mind</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  </FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><I>(Requires Whispers)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>-  1 Soul to use.  (>>::targets:: message<<) </B>(SP)<BR>
+<B>Generation Cost:</B> 5  <B>Experience Cost:</B> 25<BR>
+<B>System/Duration:</B> roll 2d6 + Will vs. TN 18 / duration as skill<BR>
+<B>Effect/Description:</B> Through the mastery of the weave the Ancien is able to connect his mind to multiple targets within range and communicate as per the Ability Whispers.  This message is the same to all targets and must all be within sight, reguardless of what level the Anciens Range skill happens to be.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Raiment</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> -1 Soul to use.  (##Wardrobe##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>6</FONT><FONT  SIZE=3 PTSIZE=10><B> / Experience Cost </FONT><FONT  SIZE=4 PTSIZE=12></B>30</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> 2d6+will vs TN 20 / Shape Change Duration; Activated upon shape change<BR>
+<B>Effect/Description:</B>  Through the use of powerful magic and ages of practicing, Ancien have the ability to magick their clothing to change with them.  When they return to their human form, they will once again be wearing clothing.  Only cloth will work with this mastery as other materials will not blend with the shape changer and fall to the ground.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Restructure the Elemental Flesh</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9> </I>-  </FONT><FONT  SIZE=3 PTSIZE=10>0 Soul to use. (no room command)</B> (Ab)</FONT><FONT  SIZE=3 PTSIZE=9><B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>Generation Cost:</B> 20  <B>Experience Cost:</B> 100</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</FONT><FONT  SIZE=3 PTSIZE=9></B> </FONT><FONT  SIZE=3 PTSIZE=10>When an Ancien learns this ability they gain the incredible natural healing ability of some of the monsters of legend.  Any wound caused to the Ancien will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds caused by cold iron cannot be healed with this mastery, they must return at their normal rate.  Wounds from their Bane Element heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:ANTBBMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10>.)</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Unravel </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>-2 Soul to use ( ## Unravel ::Target:: ## ) </B>(Sp)<BR>
+<B>Generation Cost:</B> 25  <B>Experience Cost:</B> 125<BR>
+<B>System/Duration:</B> roll 2d6 + Will vs victims 2d6 + Will <BR>
+<B>Effect/Description: </B> This Spell allows the Ancien to unravel the power holding another ability in effect.  This cannot be a permanent or constant mastery but one with a stated duration (Dispas, Terror, Hypnotic Suggestion, Transcend, etc..) This cancellation is only effective for the Ancien, for example:  Jonathan Archer an Air Sect Ancien smells a mans cologne near him but there is nobody around and the airs are still, so he casts the spell and poof he sees Victor Martel looking over his shoulder at what he is reading, but he is the only one that can.<BR>
+</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Whispers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> -  0 Soul to use.  (>>::target:: message<<) </B>(Ab)<BR>
+<B>Generation Cost:</B> 5  <B>Experience Cost:</B> 25<BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the Ancien is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within range determined by the Anciens Range Skill in order to communicate in this fashion.  Whispers can only be used to speak to one individual at a time.</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Whispers of The Sect</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use. (>>::Sect:: <message> <<) </B>(Sp)<BR>
+<B>Generation Cost:</B> 5 /<B> Experience Cost:</B> 25<BR>
+<B>System/Duration: </B>NA / NA<BR>
+<B>Effect/Description:</B> As there exists an incredible bond between the manipulators of the weave, Anciens have learned to fine-tune Whispers during times of war.  The Ancien can spend a turn shouting out a one sentence Whisper to its sect, regardless of distance.  Each sect member must have the mastery Whispers of The Sect to be included in the Whisper.  The sect must spend an evening attuning their minds together (and this log file must be posted) for the mastery to work.  This attunement only needs to take place once, unless a new member is added or removed.  At that point, the attunement must be renewed. The sect member must be available (online) in order to receive this call.  They may not necessarily be in their sect name SN.  It is okay to IM the message normally, but if the sect member is on an unknown SN or not online, you cannot Email the message.  Sect members are considered in 'dead zones' during these circumstances and will not receive your message.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Water Sect Masteries<BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=4 PTSIZE=11><B><I>Circle Of Protection</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##COP##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:</B>  NA / Indefinitely; takes 5 minutes to cast.<BR>
+<B>Effect Description: </B>The circle of protection is a literal circle, about 10 feet wide.  Cryptic sigils lace the inside rim of the chalk circle.  The Ancien sits in the middle, and performs a 5-minute chant.  At the conclusion of the chant, the Ancien is immune to all forms of mental masteries, including mindspeak.  Although the Ancien cannot be mentally touched, they can be physically touched.  This spell lasts as long as the Ancien remains within the circle's boundaries.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Fog</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Fog <victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs TN 28 / 4 rounds or 2 minutes<BR>
+<B>Effect/Description:  </B>This spell enables the Ancien to create a cloud of fog that surrounds the target.  The fog created is very thick, making combat nearly impossible.  The victim caught in the fog can barely see their hand in front of their face.  Attacks are made at random, meaning the victim cannot target any specific body location.  These attacks are wild, thus requiring a penalty of -4 to their Attack Modifier.  If the attacker in a fog misses their intended target, each person within range must roll to dodge the same attack in the order of who is closest (to be determined by the ST).<BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Healing</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 0 Soul to use.  (##Heal##)<BR>
+System/Duration:</B>  roll 2d6+Will vs. TN 20 / Instant; takes 10 minutes to cast.<BR>
+<B>Effect/Description: </B> When this spell is successfully cast, the Ancien will heal at an incredible rate.  Upon successfully casting this spell, the Ancien heals 1 Body for each point over 20 they make on the activation roll, unless the wounds were created by fire or salt water.  Wounds created by salt water cannot be healed with this spell.  Fire wounds heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play more than the casting of this spell until the damage is healed).  If fire wounds aren't healed with this spell they will take twice as long to heal than normal.  The spell takes a fifteen minutes to cast and the Ancien must be undisturbed for the entirety of the casting.  Any distractions will force the Ancien to start over a gain.  The Ancien must role-play the fifteen minute casting of this spell in the main room.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Waters Dance</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> <B>- 1 Soul to use. (##WaterDance##) </B>(Sp)<BR>
+<B>Generation Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 5 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>25</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6 + Will vs TN 18 <BR>
+<B>Effect/Description:</B>  The bodies of the Water Sect tend to be naturally gracefull and lithe however this mastery speeds them to inhuman capabilities.  This mastery can be used in all forms of the Ancien, as the Element within them has turned to its instincts, not human reaction.  This mastery adds +3 to all defensive rolls (i.e. Evasion and Reflexes).<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Soul Scrye</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use. (##SoulScrye <target>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration:  </B>roll 2d6+Will vs victim 2d6+Will  / Instant; takes 1 round to cast.<BR>
+<B>Effect/Description:</B>  This spell enables the Ancien to flawlessly detect the true nature of a target.  The Ancien will instantly know what the individual's breed is.  The individual must IM the Ancien with the truth if the Ancien wins the roll.  *Demons using Soul Mask, will reflect the breed being masked and not the nature of the demon.  Ancien must possess Lore Level 3</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>for the breed they are attempting to detect, in order to recognize it for what it is.  If the lore is not possessed, the Ancien will only know there is something odd about the target.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Earth Sect Masteries</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Burial<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Mothers Breath</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Breath##) </B>(Ab)<B><BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/</FONT><FONT  SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10><B>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50<B> </FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+<B>System/Duration:</B>  NA / Continuous; takes 0 rounds to activate.<BR>
+<B>Effect/Description: </B>When someone is given the gift of the earth sect they can gain their strengths in many ways, this is one of them.  The Earth sect has an uncanny knack to take a good fatal shot and then just get right back up all miffed.  This is the trick.  Any time the  Body statistic past 0, the character's will to live will drain it's inner force in order to survive.  No roll is required, but the Ancien's Body must first reach -1 for this mastery to begin.  The Ancien loses 1 Soul and gains 1 Body.  This will work until the Ancien has either drained all its current Soul or returned to a current body of 1.  This ability may only be used once per night.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Sanctuary</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=11> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>- <B>2 Soul to use.  (##Sanctuary##) </B>(Sp)</FONT><FONT  SIZE=3 PTSIZE=9><B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>Generation Cost:</B> 10  <B>Experience Cost:</B> 50</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B>System/Duration:</B> roll 2d6 + Will vs. TN: 18</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B>Effect/Description:  </B>When an Ancien creates a place of his element that he can call home, a place to go for safety and sanctuary, he uses Sanctuary to solidify the area's bond to him.  The area must be filled with his Sects element, a cave or woodland burrow for Earth Sect, a room filled with braziers constantly kept alight for Fire Sect, a grotto or a cove for Water Sect, or the penthouse balcony for an Air Sect.  Once activated, this Sanctuary grants the Ancien a double healing rate for as long as he rests within the confines of his "home".  This also affects damage received from their bane element. In addition, Sanctuary cannot be breached by any being in Mist Form, Unseen,  or Spirit Form. Transcended beings -can- enter this protected area, but may not unTranscend while remaining within the boundaries of Sanctuary.  This does not bar people from entering his "home", only people that are not in physical form.<BR>
+       Note: Sanctuary is considered to be the Ancien's home in relation to vampires entering.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Tremors</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use. (##Tremors##)</B><BR>
+<B>Generation Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>10</FONT><FONT  SIZE=3 PTSIZE=10> / <B>Experience Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>50</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 28 / Instant; takes 2 rounds to cast.<BR>
+<B>Effect/Description:</B>  The Ancien can pinpoint some spot beneath the earth (within line of sight).  The Ancien can then focus their energy at the spot, forcing it to rise to the surface.  The rising of this energy spiritually rips through the earth causing it to shake violently.  Once this force reaches the surface, it dissipates.  This shaking causes people in the area to fall down, unless they succeed in a 2d6+Body+Athletics roll vs TN 28.  Things on shelves may fall down frightening children and animals.  No permanent damage to structures can be caused by this spell.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Fire Sect Masteries</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Fire's Kiss</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.   (##FireKiss##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs TN 30 / Scene; takes 2 rounds to cast.<BR>
+<B>Effect/Description: </B> When this spell is cast, the Ancien becomes immune to fire of any intensity.  In order to cast this you'll need an amulet, a piece of amber (perhaps set in a ring or pendant).  This object becomes charged when casting the spell over it while the item is completely embraced by fire.</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Immolation</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12> </FONT><FONT  SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Immolate <target>##)</B><BR>
+<B>Generation Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>5 </FONT><FONT  SIZE=3 PTSIZE=10>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>25</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:  </B>roll 2d6+Will vs target's 2d6+Will <BR>
+<B>Effect/Description: </B>By summoning forth their element the Ancien Immolates himself in bright blaring flames.  This Spell can only be cast in their Elemental form and when combined tends to strike hopeless fear in the target.  If successful, the victim will be at   -4 to Attack and Quickness for the duration of the mastery.  The victim snaps out of this stunning fear as the instinct for survival kicks in.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Mirage</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use. (##Mirage##  or ##Mirage <target>##) </B>(Sp)<BR>
+<B>Generation Cost: </B>10<B> </B>/<B> Experience Cost: </B>50<BR>
+<B>System/Duration:</B>  roll 2d6+Will vs. TN below / Duration as per skill unless conditions below are met beforehand<BR>
+<B>Effect/Description: </B> The Ancien can become the epitome of what it was meant to be:  the impartial observer, a little space of timout in order to examine the weave around him.   The ancien becomes invisible to all sight, including infrared and all sound, though not imperceptible with touch or scent.  As an option, the ancien may be visible to one other person, but no more than one.  TN is 20 to turn invisible to all and 24 to be visible to only one person.  Should the ancien exceed a target number of 28, they will be able to touch and otherwise communicate normally with the selected target.  The mastery remains in effect until the ancien is either touched, attacks or otherwise comes into contact with someone else physically. <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Air Sect Masteries<BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  SIZE=4 PTSIZE=11><B><I>Eyes of the Moon</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (no room command needed)</B> (Ab)<BR>
+<B>Generation Cost:</B> </FONT><FONT  SIZE=4 PTSIZE=12>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 50 </FONT><FONT  COLOR="#0000ff" SIZE=4 PTSIZE=12> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B>  The Ancien can see twice as far as a normal human can.  In addition, when the lighting is low, or near total darkness, the vision of the Ancien is as if was a dusk, thus eliminating any penalties from darkness.  Should any bright light flash in their vicinity the Ancien must roll 2d6 + Body vs TN 14 or they will suffer 2 points of mind damage from it.  Should the Ancien concentrate he can let the wind bring him a site from around a corner or behind him.  In order for this to work the Ancien must spend a round with eyes closed in concentration and roll their Will vs TN 26.  The image recieved if successful will be just a single flash no more than 3 seconds.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Flight</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  - 1 / -2 Soul to use.  (##Fly##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>15</FONT><FONT  SIZE=3 PTSIZE=10> /<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>75<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B>System/Duration:</B>  roll 2d6+Will vs TN 24 / scene; takes 1 round to cast.<BR>
+<B>Effect/Description: </B> One of the Ancien's greatest abilities is the power over gravity itself, allowing the Ancien the gift of flight.  There are two separate spells intertwined in this singular one.  <BR>
+<BR>
+   Solo flight:  This costs 1 Soul and allows the Ancien to fly unaided.  The Ancien can never fly faster than 25 miles an hour and cannot carry anything over ten pounds. <BR>
+<BR>
+   Enchanted Flight: This costs 2 Soul and allows the Ancien to transfer the power of flight into an inanimate object - some of the most common being brooms and carpets.  The Ancien cannot empower any object weighing more than ten pounds.  The empowered object will fly where the Ancien wishes, though the Ancien doesn't have to be in direct contact with the object, they must remain concentrating on it.  Conversation is possible, but not even walking will be allowed.  This empowered object is capable of carrying passengers, depending on the size of the object - as passenger weight doesn't effect the magic, space does.  Common sense prevails here, but if you aren't sure ask the Room Host or ST on how many passengers can fit.  The object also doesn't need to be in sight, as the Ancien can 'see' from the object itself.  If the Ancien loses concentration the object will lose the gift of flight and will gently fall to the ground, much like a feather.  This has been built into the spell due to past Ancien's dying horrible deaths as their objects crashed to the earth.  The object will retain some aspects of magic if dropped into water (it will float) or even fire (has protection as long as the passengers don't leave the object) as there is a small 'bubble' of protection around the passengers.  However, passengers can still be effected by blows, shot, stabbed and even hit with arrows.  In both versions of the mastery, the protective sphere prohibits items from exiting the bubble (These include but are not limited to physical objects and the effects of masteries)  Think - things can go in, but things can't go out.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Shroud of Silence</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul  (##Shroud##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>5<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/ <B>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>25</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will  vs TN 26 / 4 rounds or 2 minutes<BR>
+<B>Effect/Description: </B> By casting this spell, the Ancien creates a radius of silence that has a maximum radius of ten feet.  No one can hear anything that goes on within the radius, whether it be talking, yelling or gunshots, unless they pass through the invisible barrier.  Nor can those inside hear what transpires on the other side of the barrier, unless they pass through themselves.  The Shroud of Silence also effects Mindspeak.  Attacks by the Ancien dispel the Shroud.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Stasis</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use.  (##Stasis <victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>15<B> </FONT><FONT  SIZE=3 PTSIZE=10></B>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>75</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs. victim's 2d6+Will / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description: </B> The Ancien's magic is a physical manifestation of the collected force of the *mind*.  Stasis is air constriction.  A Ancien molds it with their mind.  This spell causes the air around a victim to compress itself tightly.  The duration of the mastery is 4 rounds.  The first round, the victim is completely immobilized, the compressed air holding them tightly.  For the following three rounds, the victim can barely move.  Their Attack and Quickness modifiers are -8 for the duration.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Whisp</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>- 1 Soul to use.  (##Whisp##) <formerly Spirit Form></B><BR>
+<B>Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/</FONT><FONT  SIZE=4 PTSIZE=12><B> </FONT><FONT  SIZE=3 PTSIZE=10>Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 26 / Scene; takes 2 rounds to cast.<BR>
+<B>Effect/Description:</B> This is the truest measure of a Ancien's shape altering powers.  The ability to shift their material forms in such a way that enables them to assume an ethereal "spirit-like" quality.  They become translucent/ghostlike - being able to pass through solid objects.  The Ancien can solidify at will, although once they do the Ancien must recast the spell to become spirit again.  While in spirit form, the Ancien is immune to physical attacks of any kind and can only be effected by mental masteries and only if they can be seen.  Ancien in this state are incapable of affecting the physical world in any way.  This means they cannot be heard, smelled or felt, only visible as a soft outline of the individual casting the spell.  The Ancien is still affected by the all powerful force of gravity, so cannot float or fly.  The Ancien must have both hands free to cast this spell and can have no more than the clothes on their backs for it to work properly.  The Ancien is unable to use any masteries or skills at all while in this form.  The only thing the Ancien is able to do is move, see and think.  Lama in spirit form may see and follow others in spirit form, transcendent states or astral projections.  They may not interact with them in any way, however.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Death Sect Masteries</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Blight</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 1 Soul to use. (##Blight <victim>##)<BR>
+Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>10 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>50</FONT><FONT  SIZE=3 PTSIZE=10><B><BR>
+System/Duration: </B> roll 2d6+Will vs victim's 2d6+Will / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description: </B> By casting this spell, negative forces fill the Ancien's limbs with eerie black electrical energies.  This allows the Ancien to cause damage simply by touch.  A loud popping sound is heard as contact is made.  If successful causes 1 damage to body.  If used with hand to hand attack: an extra 1 damage is added.  Also upon touching the victim, the Ancien causes intense pain, sickness, boils, seeping abscesses, etc., in the victim. For each round the target is held, the victim will suffer 1 Body damage. <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I>Invoking A Spirit</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> - 2 Soul to use.  (##</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10>I</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>AS##)</B><BR>
+<B>Generation Cost: </FONT><FONT  SIZE=4 PTSIZE=12></B>15 </FONT><FONT  SIZE=3 PTSIZE=10>/<B> Experience Cost:</FONT><FONT  SIZE=4 PTSIZE=12></B> 75</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 30 / 6 rounds or 3 minutes; takes 2 rounds to cast.<BR>
+<B>Effect/Description:</B>  On our Earth there are many dimensions of spirits that are just outside our realm of existence. The Ancien are one of the few who can actually harness the cosmic power of these spirits. Just as in life there are two major spheres of spirits.  Those who are for the light, and those who serve on the dark side.  By practicing their arts for lost ages, Ancien have learned the ability to call upon the powers of either the light or the dark.  Before the Ancien casts this mastery, they will notify the ST of which they are trying to invoke.  If the Ancien invokes a spirit from the light realm, they will receive +2 to their Will, +2 to their Inits, +2 to their Dodge and -4 to their Attack for the duration of the spell as the good spirit empowers the caster.  If the Ancien invokes a spirit from the dark realm, they will receive a +2 to their Attack, +2 to Inits, +2 to Dodge and a -4 to their will for the duration of the spell.  However, if the Ancien does not successfully call the spirit, the failed attempt will leave them stunned for two rounds.<BR>
+<BR>
+Eidolon -0 Ps per use ( ## Eidolon ## )<BR>
+Range/Duration: NA / Indefinate<BR>
+System: NA / Takes 1 round to Activate<BR>
+Desription: This Gift allows the Weaver to Alter his form and become more and more insubstancial until finally becoming nothing more than a wraith. The Weaver and all dedicated belonings transform with him.<BR>
+<BR>
+Level 1 - +1 Dodge<BR>
+Level 2 - +2 Dodge and +1 Armor<BR>
+Level 3 - +3 Dodge and +2 Armor<BR>
+Level 4 - +4 Dodge and +3 Armor<BR>
+Level 5 - +5 Dodge and +4 Armor<BR>
+Level 5 - Totally insubstantial. May only be affected by Magical means or gifts. The Weaver appears as a Grey translucent version of himself that can be seen by others. If two Weavers are in Eidolon they may effect each other as if they were both in the Physical world. The levels of Eidolon cancel out each other when attacking each other.<BR>
+<BR>
+Eg. Magus is attacking Raven. Both are in Eidolon, Raven having level 5 and Magus <BR>
+having level 2. Raven gains +3 DefA and +2 armor versus Magus and Magus has no <BR>
+bonuses versus Raven.<BR>
+<BR>
+The only means of affecting the Physical world is through the Weave. So a Weaver may<BR>
+Cast spells from Eidolon only, however two Weavers in Eidolon cannot target each other <BR>
+with spells as the weave does not effect their realm.<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</HTML>

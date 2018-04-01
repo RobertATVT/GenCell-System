@@ -1,0 +1,149 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=CENTER> </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+ </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Werewolf</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>    <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8> </B>Player's Screenname:<B> Miriam Albingre <BR>
+ </B>Character's Real Name:<B> Miriam Albingre<BR>
+</B>Name of Werewolf Sire:<B> Victor A Martel<BR>
+<BR>
+ </B>Date of Character Creation<B>: 8/25/00<BR>
+ </B>Date of Last Update:<B> 10/12/00</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+    <BR>
+    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+ </FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (29xp)  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>7</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (29xp)  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>7</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (21xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>5</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT> <I>        <BR>
+ </I>   <BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+ </FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>19	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>13</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+ <I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT> </I><BR>
+</P><P ALIGN=CENTER>    <BR>
+ </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>    <BR>
+    	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level       Damage                    Misc                     XP Cost               </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+    	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Small Arms 			1		3 Body		( .38 Snub Nose)		Next x 3	(6)	Occ</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+     </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1)</B> </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+ </FONT><FONT  SIZE=2 PTSIZE=8>   	<B>2)</B> Evasion			1					(+1 to Dodge)			Next x 3	(6)<BR>
+ 	<B>3)</B> <BR>
+ 	<B>4)</B> <BR>
+ 	<B>5)</B> <BR>
+ 	<B>6)</B> <BR>
+ <BR>
+</P><P ALIGN=CENTER> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT> <BR>
+    	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>       Name                                                  Level                                         XP Cost              .             <BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Fast Talk	(+2 from Occupation)		7 (9)					Next x 1 (8)	Occ<BR>
+ 	<B>1) </B>Hacking							2						Next x 2 (6) 	Occ<BR>
+ 	<B>2)</B> Finance							2						Next x 2 (6)	Occ<BR>
+ 	<B>3)</B> *Income*							5						Next x 4 (24)	Occ<BR>
+ 	<B>4)</B> Programming						2						Next x 2 (6)	Occ<BR>
+ 	<B>5)</B> Writing								3						Next x 1 (4)	Occ<BR>
+ 	<B>6)</B> Steel Will							7						Next x 3 (24)	<BR>
+ <BR>
+</P><P ALIGN=CENTER> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT> <BR>
+    </FONT><FONT  SIZE=3 PTSIZE=10><U>	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>	Name 						    Level 						XP Cost		</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+ <BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT>    </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT> </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Reporter</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I><BR>
+ Generation Cost: </B>18<B> / Experience Cost: </B>54<BR>
+ In a world of supernaturals trying to pretend they don't exist, a reporter is always in danger.  Be they the woman on the six o clock news or the man behind the pad and paper, they're always looking for the next juicy tip, the next hot story...and unexplained deaths sell papers.  Trouble is, their own may be the next unexplained death.<BR>
+ <B>Bonus Skills       Level         Skill Cost<BR>
+ </B>Writing			3		Next Level x 1<BR>
+ Fast Talk            	3      	Next Level x 1<BR>
+ Hacking              	2      	Next Level x 2<BR>
+ Income               	2      	Next Level x 4<BR>
+ Finance			2		Next Level x 3<BR>
+ Programming      	2      	Next Level x 2<BR>
+ Finance              	1      	Next Level x 2<BR>
+ Small Arms         	1      	Next Level x 3<BR>
+ <B>Advantage:</B>  Reporters are protected by Freedom of the Press and have a Press Pass which allows them into most crime scenes.  Reporters receive a +2 to any roll involving their Fast-Talk skill.<BR>
+ </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Healing</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use. (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> Werewolves have an incredible natural healing ability.  Any wound caused to the werewolf will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by bane water cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#000080" SIZE=2 PTSIZE=8>.)</FONT><FONT  COLOR="#800040" SIZE=2 PTSIZE=8><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Horus Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -  0 Soul to use.  (##HorusForm <target of rage>##)</B><BR>
+<B>System/Duration: </B> NA / Until target(s) is destroyed; takes 1 round to shape shift.<BR>
+<B>Effect/Description:</B>  Tall, muscular, and extremely strong, this raging beast is terror incarnate.  The massive head of a deranged wolf sits upon a massive set of shoulders.  Thick matted fur covers its body as four inch claws tip the fingers on their enormous paws.  Their eyes are slits like animals, but still retain their human color.  Their reasoning is that of a maddened beast; pure instinct.  Impervious to logic, they seek only to <I>destroy</I> the target of their fury.  It will go to whatever means necessary to <I>kill</I> the target of its rage, whether it is loved one or foe.  Once the target has been <I>killed</I>, reason begins to fight its way back.  How the Horus reacts depends on the individual it is.  Some flee while others fall to their knees sobbing.  While in Horus form, the werewolf gains +3 Body.  Due to its enraged state, the Horus is immune to the following masteries: Terror, Hypnotic Suggestion, Mind Scrye, Illusions, and Twisted Visions.  Since the Horus is unable to think rationally, it may only use the following masteries: Dulled Pain, Rending, Agile Wolf, and Terror.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -  0 Soul to use.  (>>::target of Mindspeak:: message<<)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the werewolf is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within view of the werewolf attempting to communicate in this fashion.  Mindspeak can only be used to speak to one individual at a time.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Wolf Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use.  (##WolfForm##)</B><BR>
+<B>System/Duration:  </B>NA / Unlimited; takes 1 round to shape shift.<BR>
+<B>Effect/Description:  </B>A werewolf who is attuned to its own inner nature is able to assume its sister form at will.  They appear in many different shapes and sizes, their wolf forms often taking an appearance characteristic of their personality.  They still retain their normal eye color, however.  While in wolf form, they gain +1 Body.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>(Just a quick note about shape changing (all forms).  While a werewolf is in another form, if its current Body falls to 0, the werewolf will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body.  It should also be noted that materiel objects do not shapeshift with the character.  Any and all clothes and objects the character was holding will need to be transported by some other means.)</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10>   </FONT><FONT  SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>  <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER> Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>    <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10><B>Name:</B> Miriam   Albingre<BR>
+ <B>Breed:</B> Mortal<BR>
+ <B>Age/BD:</B> 21 (Born August 15th   1979)<BR>
+ <B>Eye Color:</B> Blue<BR>
+ <B>Hair:</B> blond (Natural   Color)<BR>
+ <B>Height/weight:</B> 5' - 5", 130 lbs<BR>
+ <B>Occupation:</B>   Discovering the world around her and wanting to learn   more<BR>
+ <B>Equipment/weapons:</B> Never learned the use of a weapon unless you   count a butter knife<BR>
+ <B>Appearance (clothes, etc.):</B> Miriam likes stylish   dresses and getups. Although she does on occasion wear men's clothing when she   is out to play a prank. Dresses can be rather cumbersome.</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+ <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10>Petite, blond, green-eyed female toting with her a backpack in   which she carries her laptop, extension cord, notepad, pencils, pencil sharpener   (blade can be removed), wire framed glasses to help her look a bit more   sophisticated- not that she needs them, battery pack for her laptop, cell phone,   and of course a little tape recorder.<BR>
+ <BR>
+ </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+ </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT> <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Times New Roman" LANG="0">Born 8-15-82 as the only child the family was blessed   to have, she was spoilt rotten by her father Jean-Luc and Delphine Albingre.    Although both parents yearned for a male heir, they never complained about   having a daughter. Miriam had a happy childhood, doting parents, and was never   lacking a thing.  Almost everyone in the little town in Southern France where   Miriam was born and raised loved and adored the blond-haired, sweet-natured   girl.  In time she went off to boarding school and was most anxious to learn   about the things this world had to offer.  Once she graduated, she pestered her   aging parents to see the world, to leave beloved France and find adventures. Not   about to grant his only child this one wish, yet unable to deny her, Papa made   arrangements with a removed cousin Victor A Martel to take in Miriam, thus   allowing Miriam to see the world and keeping her relatively save.<BR>
+ So off on   the boat to cross the Atlantic the young Lady went, heading towards a new world   and hopefully some adventures.<BR>
+ </FONT><FONT  SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+   <BR>
+</P><P ALIGN=CENTER>    </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+ <BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U>XP To Spend: 46<BR>
+ Remaining XP After Update: 1<BR>
+  <BR>
+  <U>Type of Experience Earned                                                                                Date Earned:</FONT><FONT  SIZE=2 PTSIZE=8></U><BR>
+</P><P ALIGN=LEFT>  <B>	A&B XP's:					10	(August [10])<BR>
+  	Posting XP's: 				4	(8/25 - 8/31 [2], 9/15 - 9/21 [2])<BR>
+  									<BR>
+  	RolePlaying XP's: 			32	(8/30, 8/31, 9/1, 9/2, 9/3, 9/4, 9/5, 9/6, 9/7, 9/8, 9/9, 9/10)<BR>
+									(9/11, 9/12, 9/13, 9/14, 9/15, 9/19, 9/20, 9/21, 9/22, 9/23)<BR>
+									(9/24, 9/25, 9/26, 9/29, 10/4, 10/5, 10/6, 10/7, 10/8, 10/9)<BR>
+  									<BR>
+  	Left over from Last update:	0<BR>
+ <I>  </B></I><BR>
+  	<B><U>Date of Update	Where Spent			Level		Cost		Total Spent<BR>
+ </B></U>	8/25/00			Reporter  Occupation		NA			18<BR>
+ 						Writing				3<BR>
+ 						Fast Talk            		3      <BR>
+ 						Hacking              		2    <BR>
+ 						Income              	 	2      <BR>
+ 						Finance				2<BR>
+ 						Programming      		2      <BR>
+ 						Finance              		1    <BR>
+ 						Small Arms         		1   <BR>
+ 					Steel Will					1-7			14<BR>
+ 					Fast Talk					4-7			8			<BR>
+ 					*Income*					3			Gift 			40 gps<BR>
+<BR>
+	10/12/00			Body (4-5)				+1			17 xp<BR>
+					<BR>
+					*Werewolf Becoming*			<BR>
+					Body (5-7)				+2			free<BR>
+					Mind (7-6)				-1			free<BR>
+					Soul (4-5)				+1			free<BR>
+	<BR>
+					Mind (6-7)				+1			25 xp		42 xp<BR>
+					Evasion (0-1)				+1			3 xp			<B>45 xps</B> </HTML>

@@ -1,0 +1,69 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Re: ST status</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	09/01/2000 7:42:32 PM Eastern Daylight Time<BR>
+From:	<A HREF="mailto:HOST ANT Savant">HOST ANT Savant</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+Sent on:	AOL 5.0 for Windows sub 112<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">ST Trainer test</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+I know that some of you may not like the idea of having a test to take to become an ST, but this is a list of rules questions that I have had in the last few weeks alone.  This test will be expanded as time goes and eventually newer questions will be compiled and sent to the ST's as spot tests to keep the ST's up with the current game problems so they can deal with them all on a similar wavelength.  For the most part I have confidence that most of you should be on the same length here... but to be sure and avoid the old "Well this ST said it works this way...." type of scenario (which I am confident will still occur) I am going to try this out.<BR>
+<BR>
+#1) If a group of players just entered into a Pause and a PC Police Officer begins RPing their Patrol what Response time do they use?<BR>
+<BR>
+2d2 or 2-4 combat rounds.<BR>
+<BR>
+#2) Modify these Statistics and Modifiers to reflect a Vampire going into Bat Form:<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>2</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>17	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12 	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">#3) What Fighting Style can be used to assist in Grappling an opponent?<BR>
+<BR>
+None anymore, the grappling roll is now a straight attackers roll+body+Attack vs. the defenders roll+body+Quickness.<BR>
+<BR>
+#4) What will you name your ST log if you ST'd a fight on 3/28/99 at 5:21pm?<BR>
+<BR>
+I'd call myself crazy for going back in time to ST a fight but that'd be..<BR>
+<BR>
+32899ST1Sav (or 2 or 3 depending on how busy a night it was.)<BR>
+<BR>
+#5) What's the TN to carry a person?<BR>
+<BR>
+Well, that would depend on whether the person is conscious or unconscious, willing or unwilling, etc.  Since it wouldn't be a simple TN to just start carrying a person that's awake and doesn't want to be carried I'll assume you want the TN for carrying an unconscious person, which was told to me by the old ST head to be and roll+Body of 23.<BR>
+<BR>
+#6)  What's the TN To kick down a steel rimmed wooden door?<BR>
+<BR>
+Solid wood door, 10<BR>
+<BR>
+#7) Two people are fighting in the woods, it's overcast and the ground is wet.  On top of all that it's getting to be around Dusk.  What Penalties would they have?<BR>
+<BR>
+-2 vision penalty to attack and dodge.<BR>
+<BR>
+#8) Same as above, but it's winter and the ground is heavily iced over?<BR>
+<BR>
+Ice in winter in Southern Louisiana?  The Hell?  And you wonder why we have no official rules for this why?  The vision penalty would be the same.  But I guess if this situation does miraculously arise a creative ST would use an athletics roll to maintain ones footing, similar to maintaining a hold on climbing a wall, of 22.  One miss and you can't move, two misses and you've fallen and have to spend a round getting up.<BR>
+<BR>
+#9) A Vampire is standing 6 feet from another PC and wishes to use Hypnosis, the other character has their back to him/her.  What does the vampire have to do in order to use the mastery?<BR>
+<BR>
+Walk around the character and either attract eye contact of make a forced eye contact roll of Vamps roll+Mind vs. roll+Body.<BR>
+<BR>
+#10) Can non Active CS's take part in an ST'd event?  If so under what circumstances?<BR>
+<BR>
+Depends on the ST, some would say no, but the president was set when Hunter was allowed to participate in an ST with no rolls and just watching, having no effect on the action.<BR>
+<BR>
+#11) A Werewolf is using Scent Recognition and fails the first roll.  Can they use the mastery again to get a second try?  If they can what are the penalties to that second roll.  Is there a third try?  What modifiers can be put onto the use of Scent recognition?<BR>
+<BR>
+Nothing in the rulebook says you can't, burn the soul point and try again.  Though I do have a personal problem with loosing the scent while tracking and getting to try again, but we can't enforce a no retry rule on one mastery that doesn't contain any such restrictions in it and not on others.  And since the mastery uses body rolls for the one activating it there is not penalty due to the soul usage.  For every mile beyond one mile that a scent is track a +2 is added to the roll, and you may add a tracking skill level to the roll if you have it.<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+<BR>
+<BR>
+</HTML>

@@ -1,0 +1,82 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Hooha!  Your test is returned master!</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	08/10/2000 12:06:52 AM Eastern Daylight Time<BR>
+From:	<A HREF="mailto:HOST ANT Lycaon">HOST ANT Lycaon</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+Sent on:	AOL 5.0 for Windows sub 117<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">ST Trainer test</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+I know that some of you may not like the idea of having a test to take to become an ST, but this is a list of rules questions that I have had in the last few weeks alone.  This test will be expanded as time goes and eventually newer questions will be compiled and sent to the ST's as spot tests to keep the ST's up with the current game problems so they can deal with them all on a similar wavelength.  For the most part I have confidence that most of you should be on the same length here... but to be sure and avoid the old "Well this ST said it works this way...." type of scenario (which I am confident will still occur) I am going to try this out.<BR>
+<BR>
+#1) If a group of players just entered into a Pause and a PC Police Officer begins RPing their Patrol what Response time do they use?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>They go and use the Officer on Patrol numbers...unless they are on foot already.  On Patrol is 2d2 and on foot is 6d2.  Most of the time they will use 2d2, but I am sure there will be instances they will be on foot...if they were out of thir cruiser and a call came in and they wouldbe faster running to the scene then driving to it...or if they have no cruiser due to some unforseen reason...<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+#2) Modify these Statistics and Modifiers to reflect a Vampire going into Bat Form:<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>6</FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14> 2</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14></B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>9</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>8</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>15 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>11</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>    Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>17 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>17	 </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>Quick ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>12</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=14>    </FONT><FONT  SIZE=3 PTSIZE=9></B></I>Init ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>12   </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>14 </FONT><FONT  COLOR="#ff0000" SIZE=5 PTSIZE=14>12</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">#3) What Fighting Style can be used to assist in Grappling an opponent?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>None....the system is 2d6+body+attack VS (Victim's) 2d6+body+quickness<BR>
+<BR>
+As a side note almost 80% of the time the one trying to grapple will succeed...especially if the person is a wolf...I mean come on....that's a base attack of 6 if maxed out...plus a body of 15...for 51....now take the max quicknes...not dodge but quickness and you get like 29 or so again for a wolf plus 15 is 44...but anywho...<grins>  Can't get everything to always equal out...<BR>
+<BR>
+Oh and to break from the grapple it's like 2d6+body VS 2d6+body....not like you asked or anything <g></FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#4) What will you name your ST log if you ST'd a fight on 3/28/99 at 5:21pm?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>032899st1LYC.log</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#5) What's the TN to carry a person?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Well given that there is no set TN for such a task the system would be 2d6+body+atheltics VS an ST's TN...now I would say on an average chance that this task would be a difficlt task to complete.  But I was not given here the weight of the person who they are trying to lift nor the physical appearance of the other character.  So my TN range would be between 24 and 29.  Now if I was the ST I think I would most likely dish out a 25.  I know that I could not pick up someone any heavier then myself.  I only wiegh 145 pounds...and that is a fairly difficult task for me if I wish to continue carrying said person for some time...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#6)  What's the TN To kick down a steel rimmed wooden door?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Hmm...89 <nods>  Oh wait...that's not right...what I would want it to be....but according to the rules you would use that generic TN chart at the bottom...roll 2d6+body and go with the TN for a thin metal door...given that this baby has some steel on it yet is still wooden.  Making it a bit stronger then that wooden door that most people have to keep bad people out of their housee, but still not as strong as that solid steel doors people like Talon have.  So it's a TN of 14....which is an Auto for Evan....but it's a pitty that Paradox is going to overpower Evan soon....I might have to cry...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#7) Two people are fighting in the woods, it's overcast and the ground is wet.  On top of all that it's getting to be around Dusk.  What Penalties would they have?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Well there are a few various things to do here...the first thing iswhat is in the rulebook...lighting penalty.  It's dusk and overcast...so right off we need to give a penalty of like -2 to attack and dodge of anyone without that nifty nightvision dealy...now the ground is wet so i would give everyone an extra round needed to escape from combat...instead of 2 it's 3.  Have you ever tried to run on blacktop that's wet?  Or ran through mud...it's annoying...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#8) Same as above, but it's winter and the ground is heavily iced over?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Same thing....-2 to attack and dodge...and then make the round to escape from 2 to 4.  I hate running in ice...it's like trying to run on one of those moving walkwas...when you try and walk the opposite way.  You get no where fast....<BR>
+<BR>
+Not even going to get into walking up escalators that are going down...Now that is a task to complete...without falling and cutting your leg open.  I think the TN for that should be like 50...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#9) A Vampire is standing 6 feet from another PC and wishes to use Hypnosis, the other character has their back to him/her.  What does the vampire have to do in order to use the mastery?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>That poorly written and thought out "thing" known as forced eye contact.  Don't get me wrong...it makes sense, but every vampire I see use it just sort makes it work through "magick"  never one asctually trying to "force" the eye contact.  I mean magically this guy is gonna turn around to look at you cause you said ##Forced Eye Contact## or ##FEC## for short...I think that's a government agency too...so be careful or some suits might show up if you use the abbreviated command...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#10) Can non Active CS's take part in an ST'd event?  If so under what circumstances?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>I have always been one to allow such a thing.  I am an old timer and give them either a ghetto NPC sheet of 5 5 5 stats and 5 in evasion 5 in reflexes and 5 in like basic street fighting of the monkey without a CS 's choice..but under certain circumstances I won't allow an non PC'd player to get into a fight...and that is when then monkey was the one to start the fight...or has real no point in being there...such as they were walking out the door and getting into their car and some masked gun man shot the head of some naked girl in the lot...  <shrugs></FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+#11) A Werewolf is using Scent Recognition and fails the first roll.  Can they use the mastery again to get a second try?  If they can what are the penalties to that second roll.  Is there a third try?  What modifiers can be put onto the use of Scent recognition?<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Well of course silly!  any mastery can be usd until you run out of soul points.  Every time you use a mastery you lose a soul point.  The only penalty your roll would take is if the roll involves the soul stat...<BR>
+<BR>
+And if you had tracking you could use it with Scent Recog to go about with tracking that memorized scent down.  For ever level of tracking you have you can take one level of the TN off of tracking by scent recog...</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#008040" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B>~ HOST ANT Lycaon ~</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B>Reciver of everyone's horse and/or cow manure!<BR>
+<I>- As noted by DepKarrde -</I><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10 FACE="Wingdings" LANG="0">W	W	W	W	W	W	W	W	W</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+Keyword: <A HREF="aol://4344:1192.bbcoll.9374943.519821752">Bayou</A></FONT><FONT  COLOR="#008040" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</P></HTML>

@@ -1,0 +1,91 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Senior Deputy - Level 4 NPC</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname:<B> </B>NPC (HOST ANT <?>)<B><BR>
+</B>Character's Real Name: Senior Deputy<B> <BR>
+</FONT><FONT  SIZE=3 PTSIZE=10></B>   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>21</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>17	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>18		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>22</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>22</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+<BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name		   Level 		Damage		Misc			XP Cost		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><B>1)</B> Cadet Training         		8         	1 Body Damage/+2 Attack - Self Defense<BR>
+<B>2)</B> Small Arms             		6         	3 Body Damage - Baretta F14 Sidearm<BR>
+<B>3)</B> Heavy Arms            		3         	4 Body Damage - Benelli Riot Shotgun<BR>
+<B>5)</B> Sure Shot				3		+3 Aim - Firearms Training<BR>
+<B>6)</B> Evasion                  		4         	+4 Dodge Modifier - Agility<BR>
+<B>7)</B> Reflexes                 		4         	+4 Inits Modifier - Quickness<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> *Basic Medical*						4<BR>
+<BR>
+</P><P ALIGN=CENTER><BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Local Peace Officer</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I><BR>
+Generation Cost: </B>35<B> / Experience Cost: </B>105<BR>
+The men and women in blue, justice over all, highly trained and fully equipped to handle every crisis.  Well, almost any crisis. The modern day heroes.  Anyone can be an ex-officer, but only those that get hired by the Sheriffs Department are active officers in-character.<BR>
+<BR>
+<B>Advantage:</B>   You better think more than twice about touching one of these guys, and they rarely travel alone.  When there is a Storyteller or Room Host present, police characters can call for back-up in drastic situations and have 2 - 6 non-player character officers arrive one the scene within 4 - 8 rounds (2 - 5 minutes), depending on the situation (as determined by the Storyteller or Gamemaster).  Police characters also know how to use those weapons they carry on their hip and <B><U>gain a +3 to their Small Arms skill.</B></U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=9>      <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Adrenaline</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 0 Soul to use. (##Adrenaline##)</B><BR>
+<B>System/Duration:  </B>NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +8 (must be stated to the ST which roll before use, may not be used to add to mental roll, such as a will roll).  This mastery may only be used once per night.<BR>
+<B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>Luck<I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I>- 0 Soul to use.  (##LuckRe-roll##)</B><BR>
+<B>System/Duration:</B>  NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, regardless of the result.  The mortal can only enact this mastery twice per night.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>The Gift</B> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>- 0 Soul to use. (no room command needed) <BR>
+System/Duration:  NA / NA<BR>
+Effect/Description:  Everyone has that little something they just seem naturally gifted at.  Whether it be juggling, mathematics, or knife throwing, it's there, and it's just waiting to be found.  The player may gain 1 skill at level 3 for no cost, except Lore.  However, they may not use other points to build upon the skill at generation, only later with updates.  This skill must have an * by its name to denote which skill is the Gift.  Should you purchase an Occupational Training type that grants a non-combat skill bonus that you have chosen for your Gift, the bonus levels add to the ones granted by the Gift.  You may only use a skill from the non-combat skill list as your Gift if an occupation gives you additional levels in it during character generation. <U>(Note, Evasion, Reflexes and Sure Shot are classified as Combat Skills)</U>.  If you ever change breeds, you do not lose the levels of the gift unless they interfere with another rule.  For example, if you have Chi it is automatically replaced with the fighting style of the new breed at half its current level.  The levels are still halved as normal, even if it was the Gift.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+</P><P ALIGN=JUSTIFY></FONT><FONT  COLOR="#800000" SIZE=2 PTSIZE=8>Standard Senior Deputies in Isle Voletta are charged with enforcement of the laws and protection of the Peace and Dignity of the Parish and are the rolemodels for their younger Deputy counterparts. There are about 5 of them on patrol, one usually in each section of the city with a new Deputy. Their gold star gleams from the left chest of a Kakhi Uniform while mirrored shades are perched on their nose. They patrol in black and tan Ford Crown Victoria sedans, sometimes in the drivers seat, but mostly they let the rookies drive. Each Senior Deputy carries the same Sam Browne utility belt as their counterpart, though the Senior Deputies is usually a little more worn.  It contains his Baretta F14 Sidearm, as well as two 9mm clips for the pistol, each containing 15 rounds. Two sets of handcuffs, a cannister of pepper spray, a walkie talkie with lapel mic, and a MagLite Flashlight also hang from the Senior Deputy's waist. Under the kakhi of the uniform tunic is a Kevlar vest. (-2 damage against Small Arms. -1 damage against Large Arms.Wearer receives a -1 to their Dodge modifier.) In the cruiser's front seat is a locking rack for a Benelli Super 90 Riot Shotgun. The crowd pleaser packs nine shells in the magazine. In the event of a serious disturbance, the trunk of the patrol car contains equipment for Riot Control, including tear gas grenades and launcher.(2D6+Will Vs TN 24, Werewolves are -4 to the resistance roll because of their enhanced senses.  If successful, victim is -4 to Attack and Quickness for 4 rounds or 2 minutes ~This affects ALL breeds except Vampire, Demon and Angel~). There is also a Taser (NonLethal Weapons) and equipment for blocking off a crime scene, including flares, evidence baggies, drug identification kit, crime scene tape, and a gas mask. There is also a utilitarian tool kit, usable for minimal roadside assistance. Senior Deputies are authorized to detain, arrest and transport to the Sheriff's Station anybody suspected of breaking the laws of Voletta Parish. Use of deadly force is always a last resort, but self defense is never denied.  Unlike a code 5 for general backup in which Deputies arrive, the Senior Deputy will only arrive for Code 6 calls from Deputies already on the ground and in desperate trouble.<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Important Information</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=JUSTIFY><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>The Miranda Rights: (<B>MUST</B> BE READ IN FULL AT TIME OF SUSPECT ARREST)<BR>
+<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>You have the right to remain silent. If you waive that right, anything you say can and will be used against you in a court of law. You have the right to an attorney, and to have one present with you before any questioning. If you desire but cannot afford one, one will be appointed to you before any questioning. Do you understand the rights I have just read you?<BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>Arrest Reports<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+All arrests require an Arrest Report be filled out and posted under "</FONT><FONT  SIZE=3 PTSIZE=10><A HREF="aol://5863:126/mB:128018"> Voletta Court Reporter</A></FONT><FONT  COLOR="#800000" SIZE=2 PTSIZE=8>" and also Emailed to BBSTMail for further distribution. Copy the template below and enlarge it to 12 point font, filling it out with the relevant information.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>                                       Arrest Report<BR>
+ <BR>
+ 1.  Arresting Officer(s):<BR>
+      Suspect(s):<BR>
+      Individual(s) Arrested:<BR>
+      Witness(es): <BR>
+                          <BR>
+ 2.  Time of Occurance: <BR>
+ <BR>
+ 3.  Place of the Occurance:  <BR>
+ <BR>
+ 4.  Details surrounding the arrest(s):  <BR>
+ <BR>
+ 5.  Charges Brought:<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><BR>
+<BR>
+<BR>
+</P></HTML>

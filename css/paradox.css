@@ -212,7 +212,7 @@ ul:not(.browser-default) > li {
 	transition: margin-left .3s;
 	transition: width .3s;
 	float: left;
-	position: fixed;
+	position: relative;
 	margin-left: 35px;
 	width: calc(calc(100%) - 35px);
 	height: 100%;
@@ -226,7 +226,6 @@ ul:not(.browser-default) > li {
 	position: fixed;
 	width: 265px;
 	left: 0px;
-	top: 0;
 	margin: 0px;
 	-webkit-transform: translateX(-100%);
 		  transform: translateX(-100%);

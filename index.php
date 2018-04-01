@@ -1,6 +1,6 @@
 <?php
 /*
-* Plugin Name: Antagonist Games Gen-CelL System
+* Plugin Name: Antagonist Games Gen-Cell System
 * Plugin URI: http://antagonistgames.com
 * Description: The OFficial Antagonist Games, Inc. Gen_CelL System Plugin for a live rulebook and character sheet generator.
 * Version: 0.01
@@ -24,6 +24,7 @@ define( 'GENCELL_PLUGIN_URL', __FILE__);
 include('includes/activate.php');
 include('enqueue/enqueue.php');
 include('includes/app-view.php');
+include('includes/functions.php');
 //include('process/filter-content.php');
 //include('includes/groups.php');
 include('includes/create_tables.php');
@@ -41,10 +42,10 @@ include('includes/create_tables.php');
 
 
 //Hooks
-//add_action( 'wp_enqueue_scripts', 'causfa_enqueue', 100);
+add_action( 'wp_enqueue_scripts', 'gencell_enqueue', 100);
 //add_action( 'wp_login', 'causfa_logger_login', 100, 2);
-//register_activation_hook( __FILE__, 'causfa_activate_plugin' );
-//add_filter( 'causfa_header', 'causfa_filter_header', 10, 1);
+register_activation_hook( __FILE__, 'gencell_activate_plugin' );
+//add_filter( 'gencell_header', 'gencell_filter_header', 10, 1);
 //add_filter( 'causfa_impact', 'causfa_filter_impact', 10, 4);
 //add_filter( 'causfa_asset_info', 'causfa_filter_asset_info', 10, 2);
 //add_action( 'wp_ajax_causfa_surplus', 'causfa_surplus');

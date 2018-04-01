@@ -1,0 +1,152 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Andreas Sabatino ~FG NPC Approved~ 11/23/00 (Lycanthrope)</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	12/05/2000 8:27:30 PM Eastern Standard Time<BR>
+From:	HOST ANT Pharaoh<BR>
+To:	Andreas Sabatino, HOST ANT Pharaoh<BR>
+To:	HOST ANT WstWd, HOST ANT Savant, HOST ANT Salem<BR>
+To:	HOST ANT Demon, HOST ANT Coma, HOST ANT Paradox<BR>
+Sent on:	AOL 5.0 for Windows sub 123<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B>Ok -- just in case anyone felt Paradox's first Approval of this NPC wasn't good enough, here's my stamp of *Thumbs UP* on it.  <g> The date of 11/23/00 was when Paradox sent his approval. <BR>
+<BR>
+</P><P ALIGN=CENTER>========================================<BR>
+</P><P ALIGN=LEFT><BR>
+Congratulations! Save this approved sheet for your records.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="News Gothic MT" LANG="0"><I><BR>
+ </FONT><FONT  COLOR="#0000d4" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B></I><BR>
+			</FONT><FONT  COLOR="#800080" SIZE=7 PTSIZE=26 FACE="Wingdings" LANG="0"><B>R</FONT><FONT  SIZE=6 PTSIZE=22 FAMILY="SANSSERIF" FACE="News Gothic MT" LANG="0"> Pharaoh</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+			CS Department<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B><I><BR>
+</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"></I>(Save this email!)<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><I><BR>
+</P><P ALIGN=CENTER>^v^</I>     </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou NPC  </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10></B></I>  </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><I>^v^</I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=14><B><I>Lycanthrope</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <BR>
+</P><P ALIGN=CENTER> </FONT><FONT  SIZE=3 PTSIZE=9>Player's Screenname: Andreas Sabatino<BR>
+ Character's Real Name: Andreas Niko Sabatino<BR>
+ Name of Quttah Sire:  Angelo di Maurio<BR>
+ Date of Character Creation: 11/23/00<BR>
+ Date of Last Update:  n/a</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+ <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+ </FONT><FONT  SIZE=3 PTSIZE=9>          Body: 6    Mind: 6     Soul: 3  </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+   Cat: (+2)               Cat: (+1)<BR>
+  Cat: (8)                   Cat: (4)<BR>
+            <BR>
+</P><P ALIGN=LEFT>   <BR>
+</P><P ALIGN=CENTER>   <BR>
+  </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</P><P ALIGN=LEFT>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   Attack: 13                  Will: 12            Quickness: 9          Initiative: 12            Dodge: 14</FONT><FONT  SIZE=2 PTSIZE=8> <BR>
+</P><P ALIGN=LEFT> 	   (Body+Mind)              (Mind+Soul)         (Soul+Body)           (Q+Reflexes)            (Q+Evasion)<BR>
+ 	    (Cat: 14)			(Cat: 13)		  (Cat: 12)		(Cat: 15)			(Cat: 17)<BR>
+</P><P ALIGN=CENTER> <BR>
+ <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9>     <B>Name                  Level        	Cost					Damage</B><BR>
+   1)  </FONT><FONT  SIZE=3 PTSIZE=10>Music			4       	Next x 1<B><BR>
+ </B>  2)<B> </B>Fast Talk		3       	Next x 1<B><BR>
+ </B>  3) Income			3       	Next x 3<BR>
+   4) Finance		3		Next x 3<BR>
+   5) Reflexes		3       	Next x 2<BR>
+   6) Steel Will		3      	Next x 2<BR>
+   7) Writing			2		Next x 2<BR>
+   8) Law 			1       	Next x 5<BR>
+   9) Wrestling		4		Next x 2		-1 Body (+1 to Damage/4 levels)<BR>
+  10) Tai Chi Chuan	4		Next x 3		-2 Body (+2 Dodge, +1 Attack)<BR>
+  11) Evasion		3		Next x 3</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation<BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=2 PTSIZE=8> <BR>
+</U>Musician</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+ </I>Generation Cost:</B> 22<B> / Experience Cost: </B>66<B><BR>
+ </B>The arena is dark.  You take a few steps out into the open.  Unable to see, you still know exactly where your ax is.  Reaching over, you feel its familiar neck brush against your fingers.  You take it, tossing the strap over your shoulder.  Then, you hear it.  The subtle 1-2-3 count of the symbol.  Then.. BLAM!  The pyrotechnics explode and you follow suit, fingers flying as the huge crowd cheers.<BR>
+ <B>Bonus Skills       Level         Skill Cost<BR>
+ </B>Music                 	4       	Next Level x 1<B><BR>
+ </B>Fast Talk            	3       	Next Level x 1<B><BR>
+ </B>Income               	3       	Next Level x 3<BR>
+ Finance			3		Next Level x 3<BR>
+ Reflexes             	3       	Next Level x 2<BR>
+ Steel Will            	3      	Next Level x 2<BR>
+ Writing				2		Next Level x 2<BR>
+ Law                    	1       	Next Level x 5<BR>
+ <B>Advantage: </B>Being a well known musician at the Symposium is an advantage all in itself.  However, musician characters are inherently quick and precise.  They receive a +3 to their Music Skill.  Those with the Musician Occupation are also allowed to learn as many instruments as they wish under one Music Skill.  (Those without this Occupation must purchase a separate Music Skill for every instrument they wish to learn.)</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+ </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Healing</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><I> </I>-  0 Soul to use. (no room command needed)</B><BR>
+ <B>System/Duration:</B>  NA/NA<BR>
+ <B>Effect/Description:</B> Werewolves have an incredible natural healing ability.  Any wound caused to the werewolf will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds created by bane water cannot be healed with this mastery.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:LDRSANTBBMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8>.)</FONT><FONT  COLOR="#800040" SIZE=2 PTSIZE=8><BR>
+ <BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Horus Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> -  0 Soul to use.  (##HorusForm <target of rage>##)</B><BR>
+ <B>System/Duration: </B> NA / Until target(s) is destroyed; takes 1 round to shape shift.<BR>
+ <B>Effect/Description:</B>  Tall, muscular, and extremely strong, this raging beast is terror incarnate.  The massive head of a deranged wolf sits upon a massive set of shoulders.  Thick matted fur covers its body as four inch claws tip the fingers on their enormous paws.  Their eyes are slits like animals, but still retain their human color.  Their reasoning is that of a maddened beast; pure instinct.  Impervious to logic, they seek only to <I>destroy</I> the target of their fury .  It will go to whatever means necessary to <I>kill</I> the target of its rage, whether it is loved one or foe.  Once the target has been <I>killed</I>, reason begins to fight its way back.  How the Horus reacts depends on the individual it is.  Some flee while others fall to their knees sobbing.  While in Horus form, the werewolf gains +3 Body.  Due to its enraged state, the Horus is immune to the following masteries: Terror, Hypnotic Suggestion, Mind Scrye, Illusions, and Twisted Visions.  Since the Horus is unable to think rationally, it may only use the following masteries: Dulled Pain, Rending, Agile Wolf, and Terror.<BR>
+ <BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Quttah (Werecat) -</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> Lithe, sleek, and extremely agile, these creatures are sensuality incarnate.  We have all seen the big cats in the zoo, but to see one in the open natural environment that is a different matter indeed.  The Werecats gain 20% in Height and 25% in weight, their bodies remain tall and sleek and take on the fur pattern of their animal form.  Their heads are catlike, but not fully that of a cat, making this breed a marvel to watch.  A long balancing tail grows from the base of their spine and assists in movement.  The quttah gains +2 Body and a +1 Soul while in its natural form and recieves a +2 to all Athletics checks made for climbing and Jumping.  Any member of the Large cat breed that is not extinct can be chosen, subject to the Forum Directors final approval.<BR>
+ <BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Enhanced Senses</FONT><FONT  COLOR="#400080" SIZE=2 PTSIZE=8></B></I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><B>- 0 Soul (##ES (Type)##)</FONT><FONT  COLOR="#400080" SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><B>System/Duration:  </B>2d6+Body vs TN 12 / Scene; Instant<B><BR>
+Effect/Description:</B>  Lycanthrope's have extremely active senses, surpassing both human and animal  characteristics.  When a situation arises where a player feels they can use these, they simply state it.  The only drawback is that only one sense may be enhanced at any given time.  <BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Sight/Nightvision -</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> The Lycanthrope can see twice as far as a normal human and in almost no light.  If they are in total darkness, or close to total darkness, they will not be able to see as far.  Vision penalties brought on from darkness are reduced by half while this mastery is in effect.<BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Hearing -</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> The Lycanthrope can hear 10 times better than a normal human, concentrating on whispers across a noisy room, or picking up the breaking of a twig.  While this sense is active the Lycanthrope can over hear conversations from across rooms and hear the footfalls of even the quietest of people.  Even conversations that are <vvvvvvvqw> may be overheard, however Mindspeak may never be overheard this way.<BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Smell -</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> The Lycanthrope's sense of smell is extremely enhanced, to the point where the Lycanthrope is capable of using it to distinguish between different scents and assist in tracking.  Enhanced Senses reduces the TN for tracking by -4.  <BR>
+ <BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Animal Form</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use.  (##Cat Form##)</B><BR>
+<B>System/Duration:  </B>NA / Unlimited; takes 1 round to shape shift.<BR>
+<B>Effect/Description:  </B>A Lycanthrope who is attuned to its own inner nature is able to assume its sister form at will.  They appear in many different shapes and sizes, their animal forms often taking an appearance characteristic of their personality.  They still retain their normal eye color, however.  While in animal form, they gain +1 Body.  All animal forms are subject to Forum Director or Breed Advisor approval.<BR>
+  <BR>
+ </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>(Just a quick note about shape changing (all forms).  While a Lycanthrope is in another form, if its current Body falls to 0, the Lycanthrope will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body.  It should also be noted that materiel objects do not shapeshift with the character.  Any and all clothes and objects the character was holding will need to be transported by some other means.)<BR>
+ </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>  <BR>
+   <U><BR>
+</P><P ALIGN=CENTER> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10>  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10>Woven of shadows and darkness, he moves with the grace most dancers could only dream achingly of.  Amber eyes gleam with solar effulgence, and long raven hair, slightly wavy, falls around his shoulders like a mane.  His skin is dusky, hinting at some exotic ancestry--Middle Eastern or Mediterranean, perhaps.  He wears loose, comfortable clothes--silk shirts, linen slacks, expensive Italian leather shoes--that fit him like hot fudge fits ice cream.  When he talks, the sound is smoke and velvet--almost a purr.</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ </FONT><FONT  SIZE=3 PTSIZE=10><BR>
+ Born in Rome, Andreas Sabatino is the illegitimate son of Randolph Emerson, an American ambassador and Giuletta Sabatino, the Italian woman he loved.  He was orphaned at an early age, however; his father died in a crash, racing to take his lover to the hospital as labor pains began.  The holy sisters at the hospital Our Lady of Fatima delivered the beautiful baby boy, and his mother died in the delivery room both from injuries sustained in the crash and complications of childbirth.  He was delivered into the hands of the nuns at the orphanage run by the Order of the Sisters of the Holy Cross, Le Sorelle Santa Della Crucifice, and his childhood was not an easy one.  At age 6, it was discovered that he was possessed of a singing voice of almost celestial beauty, and the Sisters and Fra Antonio, the priest who ran the orphanage, adopted him into the Church choir.  Fra Antonio was an ancient man, 90 if he was a day, and very set in his ways--the old ways of the church.  His mind had begun to decay with the years, and with the onset of a new Pope, John Paul the Second, who wished to return the Church to old, conservative ways, Fra Antonio found himself overseeing things at the orphanage with an iron hand.  The young child's singing voice was a gift to the Church too great to lose...and with a cruelty that had not been seen for decades, he resorted to the traditional Medieval route to preserve that voice even into puberty, when young boys' voices usually cracked and changed.<BR>
+ 	He had Andreas castrated.<BR>
+ 	Shortly after the wound had healed, fixing that sublime, clear tenor voice forever, Andreas--who had always before been the most meek, quiet, and obedient of boys--rebelled...and ran away from the orphanage.<BR>
+ 	He was taken in by an Italian street gang of other boys much like himself, taught to steal and beg, to act as decoy for the older boys, to hotwire cars, jimmy locks, shoplift--in short, all the small acts of petty crime that poverty-stricken boys have fallen into over the ages to keep themselves alive.<BR>
+ 	With this life of crime, of course, came fighting, and the danger of getting caught...and one night things went too far.  Acting as lookout while his 'brothers' robbed a small grocery store, Andreas was spotted by one of the police, who tried to arrest him.  A scuffle resulted and the officer ended up dead with a knife in his gut.<BR>
+ 	His gang brothers knew there was only one thing to do; get Andreas out of Rome...out of Italy altogether.  False ID and a passport were procured, and a few nights later, Andreas found himself headed to the United States, working his way across the ocean shoveling coal on a tramp steamer.<BR>
+ 	He disembarked in New York...and the years since then have been--if not kind to Andreas--then at least uneventful.  His voice, as it was in the beginning, has been his meal ticket, and he found himself singing in parks and on street corners in Greenwich Village to earn cash.  He makes a decent living, and has taught himself to play several instruments, as well.  No police have come looking for him from Italy...and some nights he manages to convince himself that the world, though cruel, can also be fair.<BR>
+ 	Until the last week.<BR>
+ 	The mugger struck from out of the darkness, the attack apparently without motive, for the attacker left him his money.  Some few days after his favorite jacket went missing, he was jumped as he walked home through the park late at night...and bitten by something that was not even remotely human.<BR>
+ 	Now the dreams have come, haunting his sleep with images of blood and fire and death, and with the dreams have come the changes--making him into something both more and less than human.  The dreams are calling him...to a small Louisiana town called...Isle Voletta.<BR>
+ <BR>
+ </FONT><FONT  SIZE=2 PTSIZE=8> <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</U>   </FONT><FONT  SIZE=3 PTSIZE=9></B></I>XP To Spend: 40<BR>
+ XP Spent: 40<BR>
+   Remaining XP After Update: 0<BR>
+ <BR>
+   <U>Type of Experience Earned                                         Date Earned:</FONT><FONT  SIZE=2 PTSIZE=8></U><BR>
+</P><P ALIGN=LEFT> 			<BR>
+ <BR>
+ <BR>
+ <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><U>Date of Update          Where Spent              Level          Total Cost:</U><BR>
+</P><P ALIGN=LEFT> 			Generation			Musician Occup.			-		22<BR>
+ 				""				Wrestling			1 - 4		4<BR>
+ 				""				Tai Chi Chuan		1 - 4		8<BR>
+ 				""				Evasion				1 - 3		6</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"> HOST ANT Pharaoh </FONT><FONT  SIZE=5 PTSIZE=14 FACE="Wingdings" LANG="0">R</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=11>~Personnel Director ~</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+~ Black Bayou Forum ~</FONT><FONT  COLOR="#800080" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"> LexMartel:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Tahoma" LANG="0">uhm let my people go m'kay? </FONT><FONT  COLOR="#0000ff" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><I><BR>
+</FONT><FONT  COLOR="#ff0000" BACK="#fefefe" SIZE=2 PTSIZE=8><B></I>HOST ANT Pharaoh:	</FONT><FONT  COLOR="#800080" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">Let me think.  Hmmm . . . no. <g><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">HOST ANT Pharaoh:	</FONT></FONT><FONT  COLOR="#800080" BACK="#FFFFFF" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0">::cries::  Recount!! Again!! There must be more!!</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Snake Chapaev:</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>No! Muahaha, now I may rise up from the depths of hell <BR>
+to rule the world! Bush was the last key to total domination!</FONT><FONT  SIZE=4 PTSIZE=12> <BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=3 PTSIZE=10><B> </FONT><FONT  SIZE=2 PTSIZE=8>Snake Chapaev:	</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B> </FONT><FONT  BACK="#FFFFFF" SIZE=2 PTSIZE=8>Hey, but you get to carry a gun.</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P></HTML>

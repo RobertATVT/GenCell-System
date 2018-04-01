@@ -1,0 +1,122 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>   </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Public Defender - Lvl 3 NPC</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname: NPC (HOST ANT <?>)<B> <BR>
+</B>Character's Real Name:<B> Joe Lawyer<BR>
+</B>Date of Character Creation<B>: NA<BR>
+</B>Date of Last Update:<B> NA</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>6</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>15</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>24	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>16 	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>16</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>16</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> *Law*								9<BR>
+	<B>1)</B> Fast Talk							5<BR>
+	<B>2)</B> Politics								1<BR>
+	<B>3)</B> Steel Will							7<BR>
+	<B>4)</B> <BR>
+	<B>5)</B> <BR>
+	<B>6)</B> <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Lawyer</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I><BR>
+Generation Cost: </B>18<B> / Experience Cost: </B>54<BR>
+I object your honor!  The prosecution is badgering my witness, as well as trying to break attorney client privilege!!  And further more his entire line of questioning is going right through the ultimate issue!  I request this line of questioning be stricken from the record!  <BR>
+<B>Advantage:</B>  Being used to intense court scenes, the lawyers are able to keep their calm in almost any situation.  Lawyer characters automatically gain +3 to any Law rolls they perform.<BR>
+   <BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Adrenaline</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 0 Soul to use. (##Adrenaline##)</B><BR>
+<B>System/Duration:  </B>NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +8 (must be stated to the ST which roll before use, may not be used to add to mental roll, such as a will roll).  This mastery may only be used once per night.<BR>
+<B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>Luck<I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I>- 0 Soul to use.  (##LuckRe-roll##)</B><BR>
+<B>System/Duration:</B>  NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, regardless of the result.  The mortal can only enact this mastery twice per night.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>The Gift</B> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>- 0 Soul to use. (no room command needed) <BR>
+System/Duration:  NA / NA<BR>
+Effect/Description:  Everyone has that little something they just seem naturally gifted at.  Whether it be juggling, mathematics, or knife throwing, it's there, and it's just waiting to be found.  The player may gain 1 skill at level 3 for no cost, except Lore.  However, they may not use other points to build upon the skill at generation, only later with updates.  This skill must have an * by its name to denote which skill is the Gift.  Should you purchase an Occupational Training type that grants a non-combat skill bonus that you have chosen for your Gift, the bonus levels add to the ones granted by the Gift.  You may only use a skill from the non-combat skill list as your Gift if an occupation gives you additional levels in it during character generation. <U>(Note, Evasion, Reflexes and Sure Shot are classified as Combat Skills)</U>.  If you ever change breeds, you do not lose the levels of the gift unless they interfere with another rule.  For example, if you have Chi it is automatically replaced with the fighting style of the new breed at half its current level.  The levels are still halved as normal, even if it was the Gift.<BR>
+<U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Phenom (Law)</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -1 Soul each use.  (##Phenom <skill>##)</B><BR>
+<B>Generation Cost: </B>10<B> / Experience Cost: </B>50<BR>
+<B>System/Duration:</B> see below / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  Every once and awhile, someone comes along who is so exceptionally gifted at something that their ability far exceeds anyone else's.  This mastery allows the player to temporarily add +3 to the skill that was selected for their Gift.  The player must roll 2d6 + the stat of the skill being increased.  The target number for the roll is 16.  This skill must have an * by its name to denote which skill makes the character a Phenom.  This skill may only be used once per night.<BR>
+<B>Examples:  </B>Computers (Mind)  roll 2d6+Mind vs TN 16<BR>
+                   Athletics (Body)  roll 2d6+Body vs TN 16<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I><U>Physical Description</FONT><FONT  SIZE=4 PTSIZE=12><BR>
+<BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=9></B></I></U>So, you either can't afford one or just can't find one.  Oh joy, that's when these lawyers are brought in.  While possibly not the best defenders in the world because they work for peanuts compared to their counterparts in law firms and most are fresh out of school, public defenders are always hard working and capable.  After all, the more cases they can win, the better their portfolio will look when they try to get hired by a firm in the future.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=11><B><I><U>Roleplaying Notes</FONT><FONT  SIZE=4 PTSIZE=12><BR>
+<BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=9></B></I></U>If a player cannot or does not find an IC lawyer within the two week time limit, they must request this NPC one, and even if they don't request it - after two weeks this public defender will automatically take the case.  As an ST, you can view/provide the rolls and make a determination based off of those rolls.  Once the rolls have been completed, they will be posted to the  <A HREF="aol://5863:126/mB:128018">Voletta Court Reporter</A></FONT><FONT  COLOR="#030023" SIZE=3 PTSIZE=9><U> </U>and then a link to that post will be sent to our current  Judge through <A HREF="mailto:BBSTMail?subject=Case for the Judge">BBSTMail</A></FONT><FONT  COLOR="#030023" SIZE=3 PTSIZE=9> for the Judges review and final decision.  </FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9>Following is the Law Skill and Charges Description for ease of reference:</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><B><I>Law </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></I>(Mind)<BR>
+System: </B>roll 2d6+Mind+Law Skill Level vs TN (see below)<B><BR>
+Description: </B> If arrested and the character goes to court (in email), a Storyteller will be made available to witness the roll above.  If this roll is needed against more than one charge at a time, the player must roll for each charge.  Each charge after the first takes a cumulative -5 penalty.   Listed below is the level of each charge a character can be brought up on (their descriptions are listed below this skill for ease of reference), with it's respective TN.  For every three points the player beats the TN by, the charge is dropped a level.  For instance, Eric Johnsn is brought up on charge of attempted murder which is a 2nd degree felony (TN: 22).  Rolling 2d6+Mind+Law, he scores a total of 29.  He beat the target number by 7, which drops the charges by two.  He is instead found guilty of a Class A Misdemeanor.<BR>
+ <B>      Charges                   	TN<BR>
+ </B>Capital Felony                  	26        <BR>
+ 1st Degree Felony            	24<BR>
+ 2nd Degree Felony           	22<BR>
+ 3rd Degree Felony            	20<BR>
+ Class A Misdemeanor	18<BR>
+ Class B Misdemeanor   	16<BR>
+ Weapons Charges         	14<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Capital Felony</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail: </B>None<BR>
+<B>Examples:</B>  Murdering a Civil Servant (including politician) in the process of their duties; Committing Murder in the process of another crime, such as Robbery or Rape; Murders more than one person during the same crime; Premeditated Murder.<BR>
+<B>Sentence:</B>  If convicted or pleads guilty, 20 years to life at Max. Security prison, located on the mainland.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>1st Degree Felony</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail:</B> Not to exceed $100,000. (must be posted by someone with an Income level 6 or higher)<BR>
+<B>Examples:</B>  Sexual assault; Attack with a Deadly Weapon; Attempted Murder<BR>
+<B>Sentence:</B>  If convicted or pleads guilty, character will be sentenced to three months real life time in jail.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>2nd Degree Felony</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail:  </B>Not to exceed $50,000. (must be posted by someone with an Income level 3 or higher)<BR>
+<B>Examples:</B>  Impersonating a Federal Officer; Aggrevated Kidnapping; Manslaughter; Arson<BR>
+<B>Sentence:</B>  If convicted or pleads guilty, character will be sentenced to two months real life time in jail.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>3rd Degree Felony</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail:</B> Not to exceed $25,000. (must be posted by someone with an Income level 2 or higher)<BR>
+<B>Examples:</B>  Assault and battery; Armed Robbery; Impersonating a Law Enforcement Officer; Possession of Drugs with intent to sell; Assault with a deadly weapon<BR>
+<B>Sentence:</B>  If convicted or pleads guilty, character will be sentenced to one month real life time in jail.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Class A Misdemeanor</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail:</B>  Not to exceed $5,000. (must be posted by someone with an Income level 1 or higher)<BR>
+<B>Examples:</B>  Public Lewdness; Assault; Terrorist Threat; Attempted Bribery of a Law Enforcement Officer; Drug Possession for personal use; Resisting Arrest (added to sentence of other crime); Hindering a Law Enforcement Investigation; Drunk Driving; Speeding (over 100 mph, license revoked); Personal or Private Property Damage     <BR>
+<B>Sentence: </B> If convicted or pleads guilty, character will be sentenced to 3 weeks real life time in jail.  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Class B Misdemeanor</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+<B>Bail:</B>  Not to exceed $2,500. (must be posted by someone with an Income level 1 or higher)<BR>
+<B>Examples:</B>  Reckless Conduct; Speeding (over 75 mph, under 100 mph license suspended); Harassment; <BR>
+<B>Sentence:</B>  If convicted or pleads guilty, character will be sentenced to 2 weeks RL time in jail.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Weapons Charges</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>1.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>  Possession of a weapon where alcohol is sold (with or without a permit) = 3 days, $250 fine and the weapon destroyed.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>2.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>  Possession of a firearm without a permit = 3 days, $250 fine and the weapon destroyed.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>3.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>  Possession of an illegal knife (blade over 5 1/2 inches long)  = $250 fine and weapon destroyed.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>4.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>  Discharging a firearm inside the City limits = $100 fine</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER></B></I></U></P></HTML>

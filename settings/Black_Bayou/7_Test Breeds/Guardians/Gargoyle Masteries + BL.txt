@@ -1,0 +1,228 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>^v^    Guardian Masteries   ^v^<BR>
+<BR>
+The Guardian Spirit  is what fuels the powers listed below.  To use a mastery, Guardians merely have to concentrate on protecting (unless otherwise noted in the individual mastery).  Few of their powers require touch or eye contact in order for the guardian to activate the powers within themselves.  For touch masteries, the Guardian must touch them prior to the mastery having an effect (standard hand to hand roll, no damage; only if the victim<BR>
+refuses to be touched).  After they successfully touch the target, the system for the mastery is rolled.  The Guardian must also make eye contact for masteries requiring such.  If the victim fights the eye contact, the guardian must roll 2d6+Mind vs. victim's 2d6+Body prior to rolling the mastery's activation.<BR>
+<BR>
+Sample Mastery Listing:<BR>
+Mastery Name   Soul Cost per use.   (room command for activation)<BR>
+Mastery point cost at Generation / Mastery cost with Experience Points<BR>
+System/Duration:  the roll required to activate the mastery and the target number needed for the character to succeed / how long the effects of the masteries last.  The role-played effects of certain masteries can last a lot longer than the combat effects.  Also listed here is the number of rounds it takes to activate the mastery.<BR>
+Effect/Description:  This is a description of the mastery and its effects.<BR>
+<BR>
+For most guardian mastery use, you will need to do three things.  First, your character must harness the energy within required to activate the mastery.  Whether this be concentrating on a target, chanting a ritual, screaming at the top of your lungs, etc.  Then you must enter the room command.  This command is listed in parenthesis on the top line of the mastery's description. They are used to alert the host and the other players that you are using<BR>
+a mastery.  The other characters may not be aware of this, but their players should be.  During the duration of the mastery, you burn the fuel in order to perform it.  Therefore, once the mastery's duration is concluded you will expend the soul listed. You must decrease your character's soul statistic by each point listed to the right of the mastery's name.  The final thing you have to do is follow the rest of the description.  This is usually a dice<BR>
+roll and upon success, some sort of effect.<BR>
+<BR>
+<BR>
+The Masteries<BR>
+<BR>
+Alert -1 Soul to use.  (##Alert:Range>>::Basic feeling:: One-word message<<##)<BR>
+Generation Cost: 5 / Experience Cost 25<BR>
+System/Duration:  2d6+will vs TN 20+ (see below) / NA; 1  round  to Alert<BR>
+Effect/Description:  Alert is a quick message to warn others of danger, etc.  A signal similar to mindspeak is sent out in a 20 foot range and allows the Guardian to convey to things.  A feeling, such as sadness, fear, discontent, or pain.  This feeling will ring throughout the targets mind, almost as if they feel it for a split second.  The second part is a one-word message, such as: run, jump, help, attack, careful.  The signal spreads in the 20<BR>
+foot radius, in everyone's head within.  The signal may be blocked from one mind of the Guardian's choosing.  For each additional mind that the guardian does not want to hear the message, an additional +2 is added to the TN.  Also, for every 10 feet the Guardian wants to add to the radius, an additional +2 is added.  The maximum range for the Alert is a 180 foot radius, and up to 5 people blocked.  Also, if the Guardian wants nobody blocked, and the<BR>
+radius to stay at 20 feet, the TN is only 18.<BR>
+<BR>
+Glazed Look - 1 Soul to use. (##Glazed##)<BR>
+Generation Cost: 5 / Experience Cost: 25<BR>
+System/Duration: 2d6+Body v.s. TN 20 / Indefinite; takes 1 round to activate.<BR>
+Effect/Description: A Guardian is very in tune with it's own body, and has learned to control it well.  While the body  rests, eats, and drinks, these are not required of it.  Sometimes, a Guardian may need to rest to heal.  Being the watchful eye, the guardian can make itself rest, and still know what is going on around it.  The guardian will go to sleep, as it normally would, but never falls into R. E. M., or further into sleep.  It gets the full<BR>
+effects of sleep, but can easily awaken at a sign of danger, or can trick enemies into believing they do not know what is going on around them.  If they completely awaken, it is the same as being disturbed from the rest, and glazed look will also drain away. <BR>
+<BR>
+Stone Wall - 1 Soul to use.  (##SWall##)<BR>
+Generation Cost: 10 / Experience Cost: 50 (requires Monolith)<BR>
+System/Duration: roll 2d6+Will vs TN 24 / See below; takes 1 round to activate.<BR>
+Effect/Duration:  This is a rectangularly shaped wall that rises out of the ground, after the guardian summons its power.  This requires stronger willpower than most other Guardian powers because it creates not only something from nothing, but leaves it there as a tangible object, even after the concentration is complete.  While this wall seems to just come out of the ground, it in no way harms the ground underneath it.  It appears to be a packed<BR>
+stone of the guardian's choosing, matching its TGF color skin.  They are usually marble, granite, or sand in appearance, but it in no way effects how strong it is.  The wall has a body of 15, +1 for every 2 points scored above the will TN, up to a  body of 25.  At 0, it is destroyed, and fades into thin air.<BR>
+	The size of the wall is about 12 feet in height, and 15 feet in length.  The wall must be placed in melee range of the Guardian, in front, to the side, or behind it.  It has several out of combat uses, such as being able to hold up things, or a perch for the Guardian during the day, to blocking off the entrance tto some secret area.  <BR>
+	In combat, it's uses are usually to just slow down enemies.  It takes 1 combat round to completely get around the wall.  Also, anyone who touches the wall, except for the Guardian, will take 1 body damage.  Holding on will result in cumulative damage, the first round 1 point, the second an additional 2, and the third an additional 3, and so on.  If the Guardian is more than 50 feet away from the wall, in any direction it will disappear.  A wall may<BR>
+be risen from underneath a person, so long as they are in melee range.  First, the Target Number must be met, and then a roll of will v.s. dodge must be made.  If the Guardian succeeds, it will cause 1 damage to the person, and also knock them to the ground, unless they have 4 wrestling or higher.  <BR>
+<BR>
+Monolith - 1 Soul to use. (##Monolith##)<BR>
+Generation Cost: 5 Experience Cost: 25<BR>
+System/Duration: 2d6+Body vs. TN 16/ 1 round to activate; scene.<BR>
+Effect/Description:  Being a stone creature does have advantages, most are rather obvious.  Monolith is one of these "obvious" advantages. By becoming one with the the ground, in essence tying itself to the earth, the Gargoyle is immovable.  No force can remove the Gargoyle from the ground until the duration has expired, or the Gargoyle ends this mastery voluntarily.  It is important to note that the Gargoyle does -not- become heavier, or gain mass. <BR>
+<BR>
+Instead, they simply become a part of the scenery, of the earth.  The old adage, "If Mohammed cannot go to the mountain, the mountain will come to Mohammed" no longer holds true.<BR>
+<BR>
+Extended Mindspeak - 1 Soul to use. (as mindspeak)<BR>
+Generation Cost: 5 / Experience Cost: 25<BR>
+System/Duration:  roll 2d6+Will vs TN 20 / Scene; takes 1 round to activate.<BR>
+Effect/Description: The Guardian has learned to seek others out by manipulating their natural ability: Mindspeak.  This allows the Guardian to communicate via Mindspeak to a target within one mile.  For every mile after the first, a modifier of +3 is added to the target number.  The communication is only one way, unless the target also has the mastery: Extended Mindspeak.  No roll is necessary unless the Guardian is in combat.  If combat is initiated<BR>
+while this mastery is in effect, the Guardian must reactivate it due to the stress of combat.<BR>
+<BR>
+Guardian Force - 2 Soul to use. (##Gforce##)<BR>
+Generation Cost: 15 / Experience Cost: 75 (Requires Glazed Look)<BR>
+System/Duration:  roll 2d6+Will vs victim's 2d6+Will / See below; takes 10 minutes to activate.<BR>
+Effect/Description:  After Learning to be aware of its surroundings while resting, the Guardian can take it to the next level.  This is being able to rest in an area, and know that they are safe, and can also jump the gun on protecting something.  The mastery requires no roll, and just the soul expenditure.  The Guardian must IM the Room Host or ST and tell them a contingency.  This must be somewhat specific.  For example, it cannot be "If someone<BR>
+steps within 10 feet of me".  It can be "If someone fires a gun".  Also, the contingency must be an action, and is blind, as is justice.  The Guardian Force cannot tell gender, breed, color, religion, or anything of the sort, so saying "if someone wearing pink shorts fires a gun" will have no effect.  After the contingency is stated in IM to the appropriate host or ST, the Guardian must perform a small ritual for 15 minutes of any kind.  He must then<BR>
+let the ST or Host know where the area of effect is.  This is a 15 foot square, around the Guardian.  If someone performs the harmful action stated while in the area of effect, they must make a will v.s. will roll against the Guardian.  If they fail, the protection, and the energy within will release on the person as the target, and cause 4 body damage to them.  The Guardian can be in any form to do this mastery, even stone form.   There are several<BR>
+ways it comes out of effect.  1 is if the guardian leaves the area and travels more than 10 feet away from it.  Another is if the Guardian chooses to remove it.  The last is if someone fulfills the contingency.  If the contingency is not fulfilled, and it dispels one of the other two ways, one of the soul points spent is returned to the guardian, as the second half was never completed.<BR>
+<BR>
+True Intentions - 1 Soul to use.  (##True I <target>##)<BR>
+Generation Cost: 10 / Experience Cost: 50<BR>
+System/Duration:  roll 2d6+Will vs target's 2d6+Will / Instant; takes 1 round to activate.<BR>
+Effect/Description:  Guardians, being the watchful protectors they are, have learned to sometimes prevent something bad from happening through use of this power.  When a person says something, the Guardian can analyze it, and sometime within the next 5 minutes use this mastery.  It will reveal the true intention of the person.  Ex. Vanna the Vamp says "I'm going home", but she is really going to the supermarket.  The Guardian uses this mastery on her<BR>
+and succeeds in the will roll.  Vanna must then correct her statement out loud, in the same volume, though the tone may change according to what is said.  She will say "I'm going to the supermarket".  Also, this may be used to get more detail.  Ex. Vanna the Vamp says "I'm going to go see Doug".  If the Guardian wants to know her true intent in seeing Doug, he may use the mastery.  Upon Success of the Guardian, Vanna says, "I'm going to go feed on<BR>
+Doug".  Eye contact is required for this mastery.<BR>
+<BR>
+Animate Rock - 1 Soul to use.  (##AnimRock##)<BR>
+Generation Cost: 5 / Experience Cost: 25<BR>
+System/Duration:  2d6+Mind v.s. TN 14 / 4 round or 2 minutes; takes 1 round to activate.<BR>
+Effect/Description:  After summoning its earthly strength, the Guardian can take control over 2 small rocks, no larger than its palms.  It can move them around, up to a height of 8 feet, and up to 30 feet away.  They can in no way cause damage, but can be used to trick or mislead people.  The rocks become normal again when the mastery deactivates 2 minutes later.<BR>
+<BR>
+Sandstone - 1 Soul to use. (##Sandstone##)<BR>
+Generation Cost: 10  Experience Cost: 50<BR>
+System/Duration: 2d6+Body vs TN 18/  1 round to activate; 3 round duration/ one and a half minutes<BR>
+Effect/Description: Creatures of stone themselves, Gargoyles have learned how to effectively manipulate their bodies even to the point of almost dissolving themselves into particles, enter Sandstone. Sandstone allows the Gargoyle to dissolve a fine layer of their body into sand like particles, adding this effect with a furious gust of wind from their wings and this begins to form a thick irritating cloud of dust.  The round after performing the<BR>
+mastery, a -2 is given to all attacks to all combatants. Once the cloud has reached the second round, Sandtone has reached it's peak and a -4 is issued to all attacks in the area of effect. In the third round, the Gargoyle has removed as much skin as possible without risk of body damage, and a -2 to all attacks is issued.  Sandstone affects any and all characters within the 40 foot diameter radius.  Aiming cannot be accomplished by anyone within the<BR>
+sand cloud, nor can any within the cloud be the target of an aimed attack.<BR>
+<BR>
+Night Vision - 1 Soul to use.  (No room command needed)<BR>
+Generation cost: 5 / Experience Cost: 25<BR>
+System/Duration:  NA / NA.<BR>
+Effect/Description:  The Guardian's have learned to increase their eyesight, and pick up on the movements that grace along in dimly lit or dark areas.  Simply by thinking about it, the Night Vision will turn on, and the soul point will drain away.  This removes any penalties to rolls that may have been subtracted in darkness and limited vision.  It also allows them to see twice as far as the normal human can.<BR>
+<BR>
+Earth Walk  -1 Soul per use.   (##Earth Walk##)<BR>
+Generation Cost: 10  Experience Cost: 50 <BR>
+System/Duration:  2d6 + Will vs TN 26/ Scene; takes 2 rounds to activate.<BR>
+Effect/Description:  Gargoyles are historically born of stone and rock, and share a certain special bond with all stone that can manifest in different ways.  When a gargoyle touches any stone or stony surface (marble or granite floor or walls, cement or concrete sidewalks, etc.) and successfully makes the roll for this Mastery, they can alter the composition of their body so as to move insubstantially through the stone as if they were swimming<BR>
+through water.  While phased into the stone, they cannot be hurt by any physical attack that does not first go through the stone to reach them (bullets, for example, are unlikely to penetrate 3' of basalt, while high explosives are rather more likely to demolish the stone they are encased in).  Speed of movement is at the same rate as normal swimming; i.e., faster than a walk but slower than running or flying.  Gargoyles cannot bring anyone else into<BR>
+the stone with them, nor any items other than the clothes on their back.<BR>
+<BR>
+Aegis -  1 Soul to use.  (##Aegis##)<BR>
+Generation Cost: 10   Experience Cost: 50<BR>
+System/Duration:  2d6+Will vs TN 24/ 1 round to activate; 4 rounds/ 2 minutes <BR>
+Effect/Description:  Blurring the line between warm flesh and cold stone is Aegis.  By bringing just enough of their body into a flexible stone, the Gargoyle is able to become a rather formidable opponent to harm physically.  Bladed weapons seem to bounce harmlessly to the side, hand to hand attacks feel as if they dealt as much damage to the attacker as they did to the Gargoyle.  Any bladed/piercing weapon that strikes while Aegis is activated deals<BR>
+no damage at all, and will become instantly dulled, until resharpened.  Successful hand to hand attacks against the Gargoyle deal their full damage, but the attacker suffers 1 Body damage from the strike as a result of high velocity impact with the stone form.  Bullets are not affected by Aegis in any manner.<BR>
+<BR>
+Displacement- 1 Soul to use.  (##Displacement##)<BR>
+Generation Cost: 5 / Experience Cost: 25<BR>
+System/Duration:  roll 2d6+Will vs TN 24 / Scene; takes 1 turn to activate.<BR>
+Effect/description:  By using their sheer will and concentration, the Guardian is able to create a displaced image of them self in front of them.  This throws attackers and defenders off guard, thus giving them -3 to hit the Guardian, and -3 to dodge.  It will appear as if the guardian is standing or flying a few feet ahead of where they actually are.  If the Guardian is hit at least twice, the attacker can be sure where they are now, and the effects<BR>
+of displacement wear off.<BR>
+<BR>
+Wing's Edge - 1 Soul to use.  (##WingEdge##)<BR>
+Generation Cost: 15   Experience Cost: 75<BR>
+System/Duration:  2d6+Body vs TN 18/ 1 round to activate;4 rounds/ 2 minutes<BR>
+Effect/Description:  Gifted with bodies of both stone and flesh, Gargoyle's have learned to tap into this unique state of being, and know how to use it to their advantage.  By shifting the leading edge of their wings into stone, then drawing them taut, the Gargoyle causes a razor sharp membrane of rock to form. This ability, like so many things, is a two edged sword.  While it is capable of causing great damage, it also hinders the Gargoyle's ability<BR>
+to fly and maneuver in the air.  The wings themselves will inflict 2 points of Body damage per hit, if nothing more than a Base Attack roll is used.  If Natural Weaponry is used in combination with Wing's Edge, each strike will do 3 points of Body damage.  The downside of Wing's Edge is that is severely hampers flight, to the point that should the Gargoyle be forced to make any sort of defensive rolls while flying, they will have a -4 penalty.<BR>
+<BR>
+Sand Blast (Sandstone required) -1 soul to use. (##Sand Blast## ) <BR>
+Generation cost: 10 Experience Cost: 50<BR>
+System/Duration: 2d6+Body vs TN 18; 4 rounds/ 2 minutes<BR>
+Effect/Duration:  By shifting a slight amount of outer stone into a sand-like substance, the  gargoyle can cause great amounts of pain and trouble to objects and people around him/her.  The gargoyle flaps their wings rapidly, sending forth bursts of stinging sand out from his/her body, striking any and all things in a 50 foot area.  This sand is so fast moving that it will peel paint off of objects and erode softer stone structures, much in the same<BR>
+way as sandblasting works.  Any creature caught in this area must make a Body roll vs TN 14 or be blinded for 2 rounds.  In addition, those that are unlucky enough to remain in the area of effect for more than one round suffer 1 Body damage for every round that they are struck by the sand.<BR>
+<BR>
+<BR>
+^v^   Guardian Soutenir   ^v^<BR>
+ and the Guardian Legions<BR>
+<BR>
+Guardians rely on a supreme protector, one who is often turned to when they are troubled.  He is like the Captain, and all the Guardians are his Knights.  While they command separate legions, all the Soutenir hope to achieve the same goal:  Upholding the common good.  They do this through their army.  They are the leaders, and the responsibility of keeping order within them rests solely on them.  Isle Voletta can fit no more than 5 legions, and 13<BR>
+Guardians in each legion.<BR>
+<BR>
+If there is enough room for a new legion, the Soutenir-to-be must have trained four Chosens of their own.  The Soutenir-to-be must also have been playing an approved Guardian character sheet for at least 6 months and have Lore level 3 in Guardian.  In order to maintain their Soutenir status, they must roleplay for at least 5 days in a character sheet update period.  A Soutenir's power comes mostly from the Guardian Spirit of their chosens so the more<BR>
+protectors they surround themselves with that share the same bond of guardianship, the more power the Soutenir has.  Close bonds, and similar beliefs keep the Legion going, almost like a crusade led by the Soutenir. His own chosens are his power, but Soutenir know to allows his pupils to build their own Legions, weakens him, and generally all the guardian legions considerably, unless their is for some odd reason a shortage.  As the strength of his<BR>
+Adepts serve to make the Soutenir what he is, he cannot permit his chosen to build their own power base, unless the reason is crucial.<BR>
+<BR>
+When Soutenir's knight creates their own, the Soutenir still benefits, but to a lesser extent.  The Soutenir acts as a Stone Wall between the chosen and the Wache-Soutenir.  The knight, of course, benefits the most from them.  Wache-Soutenirs also count toward this legion member total, though the amount of power they return to the Soutenir is significantly less than the chosen.  The knight acts as a barrier, blocking a direct flow of power to the<BR>
+Soutenir, keeping most of it for themselves.  <BR>
+<BR>
+<BR>
+When a knight creates 5 or more chosen of their own, they become a threat to the legion.  At that point, the knight has accumulated enough "stone strength" to break free of the guardian ties of their Soutenir.  If there are less than 5 legions total, the knight that broke free may apply for Soutenir status.  If not, they simply lead a coven of rogue Guardians.  Of course, the Soutenir who would sit by and let this happen are few and far between.  It<BR>
+is the rogue legions that are contradictions to the whole code of Guardianship, and are obviously the same type that would slack off while protecting, perhaps letting a few incidents go, here and there, and ultimately may undermine the Hierarchy of  Guardian legions without knowing it.<BR>
+<BR>
+The Guardian legions seek to work together, and have respect for each other, unless some personal reasons get in the way.  Either way, to create the legion, the player of the Soutenir must submit a Breed Leader Request to AntBBMail.  Once approved, the Guardian will have access to the Soutenir mastery list until they lose their Legions.<BR>
+<BR>
+Rogue Legions<BR>
+Guardians who do no belong to any established legion are considered Rogues.  They are often wary individuals, unable to fit within the laws which govern the legions.  They are often sought out by the legions and eliminated so as to keep the true Guardian spirit alive, and so that they will not be challenged by one of their own in the future.  Rogue Guardians present other problems as well.<BR>
+<BR>
+Rogue Guardian who lead legions do not gain the same benefits as the traditional Soutenir of legions do.  They also lack the social prestige of leading a legion.  These two factors are usually enough to inspire even the youngest of Guardian to vie for power.  This means one of the established legions have to be removed to make room for themselves.  Obviously, this tends to lead from political maneuvering, manipulation to the occasional terroristic<BR>
+attacks and so on.  Obviously, rogue legions that surpass established legions and take their spot will not be treated with the same respect from the other legions, often leading to an all out civil war amongst the guardians.<BR>
+<BR>
+When Guardians Die <BR>
+If a Guardian dies while they still belong to the Soutenir's legion, all of their knights automatically become the chosen of the Soutenir, or the next highest Guardian on the stone empowered chain.  For instance:<BR>
+<BR>
+Soutenir<BR>
+   Crusader 1<BR>
+   Crusader 2<BR>
+       Knight 1<BR>
+       Knight 2<BR>
+          Squire 1<BR>
+   Crusader 3<BR>
+<BR>
+If Knight 2 were to die, their chosen, "Squire1" would become the chosen of Crusader 2 because that is the next link on the stone empowered chain on the way to the Soutenir.  If Crusader 2 were dead or was to die, then Knight 1 would become the chosen of the Soutenir, as would Squire 1.<BR>
+<BR>
+Soutenir Masteries<BR>
+<BR>
+<BR>
+Wache-Chevalier Form -0 Soul to use. (##WCGF##)<BR>
+Experience Point Cost: Innate<BR>
+System/Duration:  NA / Unlimited; takes 1 round to change forms.<BR>
+Effect/Description:  Like Chevalier form, this is the next step in the truest form of the Guardian.  The Wache-Chevalier is a form reserved for the greatest of Guardians, the Soutenirs.  It is stronger, with larger wings, and an overall greatly powered appearance.  It's strength lends it the ability to fly higher, and faster, up to 40 miles/hour (Still takes 2 rounds to escape by air).  Also, a bonus of +3 body is gained, instead of the regular<BR>
+Chevalier Form's +2.  This form replaces Chevalier form on your CS when you become a Soutenir, and is removed if you ever fall from your power as Soutenir.<BR>
+<BR>
+<BR>
+(Just a quick note about shape changing [all forms].  While a Guardian is in another form, if its current Body falls to 0, the Guardian will immediately change back to mortal form minus the damage it has already taken, leaving a minimum of 1 Body)<BR>
+<BR>
+Triumphant Call - 9 Soul to use.  (##Triumphant Call##)<BR>
+Experience Point Cost: Innate<BR>
+System/Duration: NA / NA; takes 1 round to activate.<BR>
+Effect/Description: Sometimes, even the Soutenir can end up alone, and cornered by enemies of the Legion.  A Guardian relies not only on it's own power to protect, but on the power of its fellow Guardians as well.  Even the protector needs protection sometimes.  This is when this mastery has its use.  The Guardian first must have taken at least 1 damage to either mind or body.  This allows the Guardian Spirit to recognize it is in danger.  Next, the<BR>
+Soutenir will call upon great power on it's next turn, starting the masteries activation.  He will then pass out and be depleted of all mind points before his enemy.  This is when he has sent out his triumphant call, the one that will bring legion members to him.  This can call up to 5 legion members to aid the Soutenir, all of whom must be online at the time, or on a known screen name.  Otherwise, they are considered in dead zones.  No more than 5<BR>
+legion members can be called, even if 13 are online.  It is the Soutenir's choice of who is called.  The first round, they will disappear from wherever they are, into thin air, it seems.  The next round, they will appear at the end of the round, wherever the collapsed Soutenir body is, and appear there in whatever form they were in at the time of the call.  They can then roll initiative for the next round.  The Soutenir will not wake from their<BR>
+unconscious state until an hour later, after a mind point has been healed.<BR>
+<BR>
+<BR>
+The Watchful Eye   - 3 Soul to use.  (##Watchful Eye <Target>##)<BR>
+Experience Point Cost: 100<BR>
+System/Duration: 2d6+Will v.s. 2d6+Will / 1 hour; Instant<BR>
+Effect/Description: The Guardians must protect in anyway they can in some instances, especially personal ones.  Also, Soutenir's may need to make sure their Legion members are doing their job.  They must first make eye contact with the target.  Next they will seemingly pour some of their essence into them.  1-15 minutes later, the Guardian may completely start the mastery.  Often, they will go to a safe location, or change into stone form.  Once they<BR>
+have decided it will start (Which must be within 15 minutes after the roll has succeeded), the Soutenir can barely move on their own.  They will start to see, hear, taste, smell, and to some extent feel everything the target feels for the next hour.  They cannot control the target in anyway, or communicate with it.  They are only observing to learn information, on either how better to protect a person, whether or not they are behaving within the<BR>
+guidelines of guardianship, or to learn their enemy better.  The Guardian does not take damage when the target does, but does feel it.  The Soutenir can snap out of this on its own, or if the target dies or goes unconscious it will immediately lose effect.<BR>
+<BR>
+Direct Command - 2 Soul to use.  (##DirCom<Legion Member>##) <BR>
+Experience Point Cost: 75<BR>
+System/Duration: 2d6+Will+X vs victim's 2d6+Will / See below; Instant.<BR>
+Effect/Description: While it is rare, a legion member may become out of line, or refuse to protect, and the Soutenir may have to take action.  They will use this power to control them.  Eye contact is not required, as it is a command shouted out.  They then both roll their will.  The Soutenir gets a bonus depending on how close the bond is, +3 for one of their Crusaders, +2 for one of their Crusader's knights, and +1 for one of their knight's<BR>
+squires.  Any further down the line, and the mastery can not be used on them.  If the Guardian wins, the legion member will not resist an order that was already stated, for the next 3 hours.  If the Guardian wins by 5 or more, the legion member will not resist the order for the next day.  For 10 or more, the next week, by 15 or more, the next 2 weeks, and by 20 or more the next month.  This mastery cannot be used on the same legion member while the<BR>
+mastery is still in effect for the same order.  The effects must wear off, often given the most rebellious crusaders a small amounjt of time to do what they wanted to.<BR>
+<BR>
+Next is the is the Breed Leader Application.  If you meet the requirements simply cut and paste the following information to this Email, fill it out and send it and we'll take care of it from there.<BR>
+<BR>
+Black Bayou Breed Leader Application<BR>
+<BR>
+~ Guardian Soutenir ~<BR>
+<BR>
+Player's Screenname:<BR>
+Character's Real Name:<BR>
+Legion Name:<BR>
+Name of Soutenir:<BR>
+Date Applied:<BR>
+Date Accepted: N/A<BR>
+<BR>
+Legion Members:<BR>
+<BR>
+Please list all those in your legion below.  For each member please state who sired them and if the sire is still alive.  Below is an example of how I want it done.  Please do not include in final application.<BR>
+<BR>
+<BR>
+	Ex)	Soutenir (Sired by past Soutenir - Dead)<BR>
+			Crusader  1 (Sired by Soutenir - Alive)<BR>
+			Crusader  2 (Sired by Soutenir - Alive)<BR>
+				Knight 1 (Sired by Crusader  2 - Alive)<BR>
+			Crusader   3 (Sired by Soutenir - Alive)<BR>
+			Crusader  4 (Sired by Soutenir - Alive)<BR>
+			Crusader  5 (Sired by Past Soutenir - Dead)<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=4 PTSIZE=12>Nick Galian<BR>
+Dead girls don't say no<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+</HTML>

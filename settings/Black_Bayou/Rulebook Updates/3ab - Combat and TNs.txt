@@ -1,0 +1,186 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10><B>    </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16>Combat in the Bayou</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B>^v^</I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>The Actual Fight</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I>   <BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>The First Phase of Combat</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Initiative:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Initiative judges the reaction speed of a character's mind and body when introduced to a stressful situation.  This phase determines the order in which all combatants take their actions.  This is the one roll that can never be failed or won. Initiative is a place marker that the Storyteller uses to determine who acts when.  The character with the highest score goes first, while those with the lowest go last.  It is the job of both the Storyteller and the players to keep track of lost Statistics when calculating their Initiative.  Lost Body and spent Soul are to be subtracted from your Quickness modifier, should these Statistics have changed during the course of the previous Turn.<BR>
+<B>System:</B>  roll 2d6 + Quickness Modifier + Reflexes Skill Level.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>The Second Phase of Combat</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+After initiative has been rolled and the order of action has been determined, the first player gets to take an action.  Usually, this is to attack.  However, any action that would require 3-6 seconds or less may be attempted, at the Storyteller's discretion.  No dice rolls are needed unless there is a chance that their proposed action could possibly fail.  Should the ST feel that the action might fail, it is their job to set forth the requirements for success (i.e., the roll that will be used by the character).  For instance, opening a door would not require a dice roll and could take place during one turn.  Alternatively, leaping over a car to grab for a weapon might require a Body+Athletics roll to see if the character was able to make the jump and land with some semblance of grace.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Attack:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> The first thing to do when attacking is to figure out the attacker's total attack modifier.  This number is figured out by adding the skill level being used (if any) to the attacker's base attack modifier.  Then, a die roll is made, adding the total attack modifier to the result of that roll.  If the opponent does not, or cannot, dodge, the attack is then successful.  If the defender chooses to dodge the attack, see "Defense" below.  The attacker must have a higher number total than his/her target in order to hit their target.  If a tie ever occurs between attacked and defender, the defender is always successful.<BR>
+<B>System: </B>roll 2d6 + Attack Modifier + Appropriate Combat Skill Level<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Defense:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> If a character is under attack and wishes to not be hit, the best solution is to dodge the attack.  This can be anything from a simple sidestep, dropping to the ground, ducking or leaping out of range.  The defender must figure out what their character's defense modifier is.  To do this, the player adds the character's Quickness modifier and evasion skill (if applicable) together.  This total represents the defense modifier for that character.  Then, the players rolls dice and adds their defense modifier to the result of that roll.  The defense score in then compared to the attacker's total.  If the defender's score is higher, or in the event of a tie, the attack has been avoided.<BR>
+<B>System:</B> roll 2d6 + Quickness Modifier + Evasion Skill Level<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Defending Multiple Attacks:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Occasionally a character may be engaged in combat with more than one opponent.  When the character attempts to dodge the attacks on multiple opponents, the character suffers a -2 to any dodge roll after the first.  This -2 penalty is cumulative with every attacker.  For instance, if a character is defending against three attackers, the first defense roll is made normally.  The second dodge would suffer a -2 penalty.  The third attempt at avoiding an attack would be at -4.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Defensive Stance:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> A character who has gained initiative over their opponent(s) for that round may choose to take a defensive stance as their action.  This means that the character may not attack, move or activate a mastery for the remainder of the round.  The character then receives a +4 bonus to all defensive actions for the duration of the round.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Damage:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> The damage caused by an attack is simply the base damage of the weapon the character attacks with.  A Glock 9 mm would do 3 Body points of damage as it falls under the category of small arms.  A knife would do 1 Body damage because it is a small melee weapon.  A Ninjitsu Throat Stab would do 2 points of Body damage due to the fact that it is a trained fighting style.  This physical damage reduces the Current Body statistic of the victim.  Once a character has been reduced to 0 Current Body, they will fall to the ground unconscious.  Further attacks upon that character can reduce the Current Body statistic below 0.  If a character's Current Body ever falls to their Base Body statistic in the negative, and they are a Mortal based breed, they will die.  If the character is a breed that requires Lore and Faith to be killed (any Non-Mortal breed), then the character will die if a successful Faith roll is made (see the Faith skill and the appropriate breed for details).  If the appropriate Lore and Faith are not used, the character will simply be unconscious, regardless of the amount of damage they have taken.  This damage will all heal overnight according to the healing powers of the breed.  For instance, if a character's Base Body is 8, they would fall unconscious at 0 Body, and die at -8 Body if they were a Mortal based breed.  If the character was of any Non-Mortal based breed, and the proper Faith roll was used after bringing them to -8 Body, they would be dead as well.<BR>
+<BR>
+It is also possible to take Mind damage.  There are many ways that a character might suffer mental damage.  Tasers, pepper spray and several masteries are all examples.  Mental damage works the same way as physical damage except the damage is subtracted from the character's Base Mind statistic.  When the character's Mind statistic falls to 0 or below, the character will collapse to the ground unconscious.  Any character that takes mental damage will recover one point of Mind for each half hour of undisturbed rest, up to their Base Mind statistic.</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=4 PTSIZE=12><B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12>How Damage Affects Die Rolls: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+Body damage taken is subtracted from the character's Attack and Quickness Modifiers.<BR>
+Mind damage taken is subtracted from the character's Attack and Will Modifiers.<BR>
+Soul use is subtracted from the character's Will and Quickness Modifiers.<BR>
+</FONT><FONT  SIZE=4 PTSIZE=12><B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12>Special Actions or Effects</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Archery:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> While staking an unconscious vampire that is right in front of you is relatively easy, only an expert archer can attempt such a feat at a distance.  An Archery skill of no less than level 8 must be possessed in order to try for a ranged staking.  In addition, the marksman must also aim for a minimum of 1 round before firing.  Once these requirements have been met, the character makes a standard attack roll of 2d6 + Attack + Archery, with a -4 penalty.  The vampire in question then makes a standard dodge roll, (the vampire is not actually "dodging," this is just to accurately gauge the shot and it's aim), of 2d6 + Dodge.  If the shot is successful, the attacker makes a Faith roll as normal.  The vampire that is to be staked in this manner -must- be unconscious and at negative Body statistic prior to the use of Faith.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Disarm:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> If a character's weapon skill exceeds level 4, they have mastered the skill well enough to disarm their foes.  The attacking character makes a normal attack roll (2d6 + Attack + Weapon Skill).  Their victim must then roll 2d6 + Quickness Modifier + Weapon Skill.  If the defender wins the roll, he/she maintains possession of their weapon.  Should the attack succeed, the character may either take the weapon from the opponent (if the disarm was attempted by hand) or cause the weapon to fly off in a random direction.  No damage is dealt with this sort of attack.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Escaping:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> If, while in combat, a character comes to the startling conclusion that they are going to lose the fight, they may attempt to flee the area.  The fleeing character may take -no- other action, save for running.  The character may cease fleeing at any given time, should the need arise.  If they manage to dodge every damaging attack that is directed at them for two full rounds, the character has escaped.  Defensive stances may not be attempted, as the character's sole thought is that of escape, not evading incoming attacks.  When the time comes for the character to dodge an attack that has been directed at him/her, they roll 2d6 + Quickness to avoid the attack.  If they receive any damage during the two rounds of fleeing, they must begin anew.  A character that is fleeing, and RPs that they are ducking, dodging, weaving or generally making themselves a more erratic target to hit, will gain a +6 to their defensive rolls.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Firing Into a Crowd:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> When a character fires a small or heavy arms weapon, bow or crossbow, or thrown weapon at a target that is currently engaged in hand-to-hand or melee combat with another (or more than one other character), there is a chance that any miss will result in another individual being struck.  Once the original target has been missed, all others that fall into the area of effect must then roll standard dodge (2d6 + Quickness + Evasion) against the attacker's original roll (minus any aiming and Sure Shot bonuses).  Should all of the characters succeed in dodging, nothing further happens.  Should one or more characters fail to avoid the projectile, the one that failed by the largest amount is struck for half the damage that the weapon normally inflicts (rounded down).  The Storyteller has final say over whether or not a character is in position to be struck by an errant ranged attack.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Grappling:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Should a character wish to grab hold of another, and restrain him/her, they are considered to be grappling.  The combatants must be within arm's length in order to attempt a grapple roll.  The attacking character then rolls 2d6 + Body + Attack vs target's 2d6 + Body + Quickness to determine if a grab has been made.  If the defender wins the roll, he/she has not been held and is free to go about their action.  Should the attacker be victorious, their opponent is held fast in his/her grasp, and numerous effects occur.  Both characters have a -4 to defensive rolls as they are locked together, making movement difficult.  Neither combatant may attack anyone else, they may -only- inflict damage upon each other.  In order for the character held to break free, he/she must succeed in a Body vs Body roll.  The grappler may release his/her hold at any time.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Immobilization:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Any time that a character is held, restrained, tied up or otherwise unable to move freely, they are considered to be immobilized.  All dodge attempts made by an immobilized character are at -6 to the defensive roll.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Knocked Down:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Anytime a character finds themselves on the ground, either by choice or by being thrown/knocked/pushed down, he/she will suffer a -4 to defensive rolls unless the character has any level of Athletics Skill. <BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Prone:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> </B></I>A prone character is one that is sleeping, unconscious or otherwise -totally- unable to move at all.  No attack rolls are required when attacking a prone target since they have no way to avoid the attack.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Stunning:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> If a character's mind goes into shock, that character is considered stunned.  A stunned character is unable to take any action except for defensive maneuvers, and these defensive rolls are all at -4.  Some breeds have masteries that are able to stun their opponents, but this is not the only way for a stun to occur.  If a character takes more than half their Current Mind or more in mental damage in one round, they are stunned as well.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Targeting:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> It is possible to hit a specific location on a target.  However, the difficulty of such a shot increases with where the attacker wishes to strike.  No additional time is required to make a "called shot."  Attacking a defender's body up in such a way has varied effects, depending on where the attacker hits.  Damage is not the only thing that is affected by a called shot, effectiveness of the attack can also be reduced or increased.  Keep in mind that the torso is the default area for all shots that are not specified.  The charts below are seperated into different damage levels to reflect the fact that smaller weapons don't cause nearly as much trauma to the body as larger weapons do. Any skills not mentioned cannot be used to target locations.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Firearms & Melee Targeting Locations:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> These are the modifications for various locations when using any sort of Melee weapon or Firearms.  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Throwing & Archery (1 Body & 2 Body)<BR>
+Fist Loads & Small Melee (1 Body & 2 Body)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Arms: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, -1 Damage (minimum of 1 Body Damage) ; Causes the victim to drop anything that was carried in that arm/hand.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Legs: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-0 Attack, +0 Damage; Causes the victim to move at a decreased speed.  3 rounds are needed to escape combat.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Vitals/Head: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-6 Attack, +0 Damage; Causes the victim to automatically be stunned, forcing them to miss their next action.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Wings: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, +0 Damage; Causes the victim to fly at half speed.  3 rounds are needed to escape combat by air.  If both wings are damaged in such fashion, flight speed is now at a quarter until healed.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Small Arms & Heavy Arms (3 Body & 4 Body)<BR>
+Medium Melee & Large Melee (3 Body & 4 Body)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Arms: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, -1 Damage m of 1 Body Damage) ; Causes the victim to drop anything that was carried in that arm/hand.  Victims suffers an additional -4 penalty to all further attacks until the damage is healed.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Legs: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-0 Attack, +0 Damage; Causes the victim to move at a decreased speed.  4 rounds are needed to escape combat, and all defensive rolls are made at -2 until the damage is healed.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Vitals/Head: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-6 Attack, +2 Damage; Causes the victim to automatically be stunned, forcing them to miss their next action.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Wings: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, +0 Damage; Causes the victim to fly at half speed.  4 rounds are needed to escape combat by air.  If both wings are damaged in such fashion, flight is no longer possible until the damage is healed.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Hand-to-Hand Targeting Locations:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> These are the modifications for various locations when using any sort of Unarmed Attack.</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><BR>
+<BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I>Street-Fighting (1 Body)<BR>
+Natural Weapons (1 Body)</FONT><FONT  SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Arms: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack; Causes the victim to drop anything that was carried in that arm/hand.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Legs: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-0 Attack; Causes the victim to move at a decreased speed.  3 rounds are needed to escape combat.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Vitals/Head: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-6 Attack; Causes the victim to automatically be stunned, forcing them to miss their next action.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Wings: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack; Causes the victim to fly at half speed.  3 rounds are needed to escape combat by air.  If both wings are damaged in such fashion, flight speed is now at a quarter for the next 4 rounds.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Trained Fighting (2 Body)<BR>
+Fighting Mastery (3 Body)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9><BR>
+</B></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Arms: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, -1 Damage m of 1 Body Damage) ; Causes the victim to drop anything that was carried in that arm/hand.  Victims suffers an additional -4 penalty to all further attacks for the next 4 rounds.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Legs: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-0 Attack, +0 Damage; Causes the victim to move at a decreased speed.  4 rounds are needed to escape combat, and all defensive rolls are made at -2 for the next 4 rounds.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Vitals/Head: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-6 Attack, +2 Damage; Causes the victim to automatically be stunned, forcing them to miss their next action.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Wings: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I>-2 Attack, +0 Damage; Causes the victim to fly at half speed.  4 rounds are needed to escape combat by air.  If both wings are damaged in such fashion, flight is not possible for the next 4 rounds.</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Missile Weapon Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+Just as vision and distance can affect the chances of succeeding at many actions, there are other circumstances that make the use of firearms more difficult.  The Storyteller is in charge of assigning these bonuses or penalties depending on both the character's actions and the situation at hand.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Aiming:</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I> Aiming a firearm is a way to improve the accuracy of a shot.  There are numerous ways to aim, some of which include: Bracing against an object, using two hands on a small caliber firearm or using a tripod for heavy arms.  It takes one complete round to aim, and in doing so the character is granted a +2 bonus to their Attack roll for the next shot that they take.  The character may choose to aim for more than one round, and for each additional round that is taken to aim, another +2 is given to the Attack roll.  The maximum bonus that can be received is +10 to Attack, or 5 rounds of Aiming.  While Aiming, no other actions can be taken, including defensive actions such as dodging.  Furthermore, if the character takes an action, or is damaged physically or mentally, they will immediately lose all Aiming bonuses, and must begin again.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B><I>Movement: </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I>When either the attacker or defender is moving rapidly, the victim makes a much more difficult target to hit.  The attack is made at a -4 penalty.  This -4 is cumulative.  If both attacker -and- defender are moving, it would be a -8 attack penalty.</FONT><FONT  COLOR="#408080" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> The ST will make the final decision of whether or not one, or both, of the combatants fulfill the requirements for this penalty. </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B>Other Systems</FONT><FONT  COLOR="#000080" SIZE=5 PTSIZE=16> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+The number of different types of actions that can be attempted are virtually limitless.  Trying to make rules or lists for each and every possible action would be simply impossible.  We have, however, devised a list of several TNs which are requested quite often by the playing mass which are listed below for both the Storytellers and players to use.  If a particular action does not require, or is not affected by any type of random chance, then the action can be assumed to be automatically successful.  As always, the Storyteller determines what action do or do not require a roll.  When a character attempts an action that the ST determines requires a die roll to succeed, the Storyteller will assign a die roll and a Target Number.  If the TN isn't in the charts below, further down is the process used by Storytellers to produce a TN for these situations.  <BR>
+<BR>
+<B>Jumping: </B>(Body + Athletics):  All TNs are for distances are listed as horizontal / vertical.<BR>
+<BR>
+<U>Distance</U>		<U>TN</U><BR>
+  6 feet/ 3 feet	12<BR>
+  10 feet/ 5 feet	16<BR>
+  14 feet/ 7 feet	20<BR>
+  18 feet/ 9 feet	24	<BR>
+  22 feet/ 11 feet	28<BR>
+  26 feet/ 13 feet	32<BR>
+<BR>
+ Jumps over 26 feet are not clearable (for mortal based breeds) without the aid of an auto success.  These TNs are for running broad jumps or standing vertical jumps.  If no room to get a small running start is available, increase TN difficulties by +2 for horizontal jumps.<BR>
+ Jumping is also possible onto and off of moving vehicles, albeit very dangerous.  Should a character attempt such a feat, a +4 difficulty will be added to the TN.  Bear in mind that environmental conditions may add or decrease from the TNs, based upon the STs or GMs decision.<BR>
+<BR>
+<B>Shooting</B>  (Body + Appropriate Firearms skill)<BR>
+<BR>
+<U>Target</U>			<U>TN</U><BR>
+  Windows		14<BR>
+  Tires			20<BR>
+  Fuel Tank		26<BR>
+<BR>
+ Keep in mind that even though the character might hit the fuel tank, there no chance that an explosion would ever occur, due to the fact that fuel tank do not keep the contents under pressure.<BR>
+ As with firing at a character, a moving target is always more difficult to hit.  Should either the target or attacker be moving, a +4 penalty to the TN will be added.  If -both- attacker and target are in motion, a +8 penalty will be added.<BR>
+ Environmental circumstances might add or decrease the TNs.  The Storyteller or Game Master has final say.<BR>
+<BR>
+<B>Climbing</B>  (Body + Athletics)<BR>
+<BR>
+<U>Surface Type</U>	<U>TN</U><BR>
+  Tree			8<BR>
+  Rope			14<BR>
+  Rough Wall	22<BR>
+  Smooth Wall	28<BR>
+<BR>
+ If attempting to climb any sort of wall without the proper tools to do so (ropes, hammer, spikes, etc.) a +4 penalty will be added to the final TN.<BR>
+ Failure to hit the desired TN does not automatically assume that the character has fallen, merely that he/she cannot move further up or down the surface without another roll.  Should two rolls in succession be failed, the character has slipped and fallen.<BR>
+ Environmental conditions may hinder or aid the character in their climb.  GMs and STs have final say over target numbers.<BR>
+<BR>
+<B>Escaping Bonds </B> (Body Roll) <BR>
+<BR>
+<U>Restraint</U>				 	<U>TN</U><BR>
+  Handcuffs					12<BR>
+  Police Issue Handcuffs		14<BR>
+  Federal Issue handcuffs	18<BR>
+  Shackles/Leg Irons		22<BR>
+<BR>
+<B>Breaking Things</B>  (Body Roll)<BR>
+<BR>
+<U>Object</U>							<U>TN</U><BR>
+  Thin Door, Wood				6<BR>
+  Solid Door, Wood				10<BR>
+  Thin Door, Metal				14<BR>
+  Solid Door, Metal				18<BR>
+  Cell Door, Prison				22<BR>
+  Cell Door, High Security		26<BR>
+<BR>
+ The addition of a dead bolt, or similar device, makes the target number slightly more difficult.  A +2 will be added to the TN.<BR>
+<BR>
+  Car Window, Passenger	8<BR>
+  Car Window, Windshield	14<BR>
+<BR>
+ Most vehicle windows today are designed to not shatter apart when broken.  Rather, they remain intact and allow the object to push through, carrying with it a whole piece of glass that is held together by a clear adhesive.  This adhesive coating prevents major cuts that would be prevalent in plate glass windows breaking.</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B>Theft </B>(Mind Roll)<B><BR>
+</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>Stealing a car  TN: 12<BR>
+  Stealing a car with an alarm system TN: 16<BR>
+<BR>
+  Pickpocketing someone: body + athletics vs mind + willpower (speed vs vision)<BR>
+<BR>
+<B>Vehicular Chasing</B><BR>
+<BR>
+  In high speed chases, the person who wins an athletics roll wins the chase.  If it is police related, each subsequent car added to the chase gives the person fleeing a -2 (Cumulative for each additional car) to their roll.<BR>
+<BR>
+<B>Generic Target Numbers</B><BR>
+<BR>
+ There are some TNs that a Storyteller may have to make which aren't provided above.  Any number of possible TNs may be necessary actually, and under these circumstances the Storyteller will use the following basic guidelines in deciding the proper TN.  When the Storyteller decides the TN for a particular feat, they will use the charts above when deciphering exactly what Easy, Moderate, Difficult and Almost Impossible are.  The Storyteller will next decide which of the two charts to use provided below, then the ST will decide exactly how difficult the action would be based on the circumstances surrounding the character.  This process will conclude with a precise TN produced by the ST in order for the player to attempt whichever feat they requested.<BR>
+<BR>
+<U>Statistic Roll Target Numbers</U> (Mind/Body/Soul + 2D6)<BR>
+<B>Easy</B> = 12 and under<BR>
+<B>Moderate </B>= 12 - 18 <BR>
+<B>Difficult</B> = 19 - 23<BR>
+<B>Almost Impossible</B> = 24 and up<BR>
+<BR>
+<U>Modifier Roll Target Numbers</U> (Mind/Body/Soul + Skill Modifier + 2D6)<BR>
+<B>Easy</B> = 16 and under<BR>
+<B>Moderate </B>= 17 - 23<BR>
+<B>Difficult</B> = 24 - 29<BR>
+<B>Almost Impossible</B> = 30 and up<BR>
+<BR>
+</HTML>

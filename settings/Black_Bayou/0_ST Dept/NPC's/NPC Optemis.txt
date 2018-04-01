@@ -1,0 +1,79 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>   </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Demonic Spirit<BR>
+Lvl 3 NPC</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname: HOST ANT Aradia or Host ANT Paradox<B> <BR>
+</B>Character's Real Name: Optemis<B> <BR>
+</FONT><FONT  SIZE=3 PTSIZE=10></B>   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>0</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul  ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</P><P ALIGN=LEFT></I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>31	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Steel Will							9<BR>
+   	<B>1)</B> Demon Lore 						1<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Liars Ears</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><I> </I>- 0 Soul to use.  (##LiarsEars##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 22 / 10 minutes; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  A demon, being a part of the lord of lies is capable of picking out any attempts of deception directed at it.  This is effective against anyone who attempts to lie to the demon.  They must immediately IM the demon's player with the truth behind their lie.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 0 Soul to use.  (>>::target of Mindspeak:: message<<)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the demon is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within view of the demon attempting to communicate in this fashion.  Mindspeak can only be used to speak to one individual at a time.</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Spirit Body</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> 0 soul / - 1 Soul to Manifest  (##Manifest##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 30 to Manifest / Constant; Scene if Manifested - 1 round to act.<BR>
+<B>Effect/Description:</B> This power is similar to the Lamia spell in the fact that the entity is Non-Corporeal, the only difference is that when a will roll vs. TN 30 is made the entity can manifest in the physical plane.  Even through minfestation they cannot affect anything physical, but they can be smelled, seen, and heard.  When a Spirit isn't manifested they cannot be the target of MS or any other sight required masteries.  A Spirit may drop it's manifestation at any time.  Others with Spirit Form or Transcended can affect the Spirit, but it cannot be killed, it can however affect them with it's masteries as well.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Chill the Man Body</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 1 Soul to Use  (##Chill##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Mind vs Victims 2d6+Body / Scene; 1 round to activate<BR>
+<B>Effect/Description:</B> Everyone knows that the presence of spirits causes mankind to get chills.  With this power the Spirit can send icy chills through the victim causing them to be distracted and spooked.  The Chills will eventually work their way to the mind of the victim causing them to grow increasingly paranoid and terrified.  While this mastery is in effect the victim is at a -2 penalty to all rolls.<U><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Shroud</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 1 Soul  (##Shroud##)<BR>
+System/Duration: </B> roll 2d6+Will  vs TN 26 / 4 rounds or 2 minutes; takes 1 round to cast.<BR>
+<B>Effect/Description: </B> By using this trick, the Spirit creates a radius of silence that has a maximum radius of ten feet.  No one can hear anything that goes on within the radius, whether it be talking, yelling or gunshots, unless they pass through the invisible barrier.  Nor can those inside hear what transpires on the other side of the barrier, unless they pass through themselves.  The Shroud also effects Mindspeak.  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Poltergeist</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><I> </I>- 1 Soul to use.  (##Poltergeist <object>##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN (see below) / 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  By concentrating on an object for a few moments, the Spirit is able to focus his inner strength, lifting and moving the object.  The difficulty of such feats depends on the object being lifted.  Objects may only be lifted and moved.  Guns cannot be made to fire with only the mind, however, you could "summon" the gun to your hand, and then fire.  The player may move any object about.  There is not enough control to use this to attack someone.  For example, with a knife.  The distance moved per round is 10 yards.  TN's are:  For every ten pounds (rounded up) the object weighs, increase the difficulty by one from a base of 10.  Thus a 15 pound object would require a TN of 11, while a 260 pound object would require a TN of 35.  If the Spirit attempts to pick up a living...or undead creature, the roll will be vs. the victims 2d6+Will.  If the target 'wants' to be lifted or moved, then the roll is based on the targets weight.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Terror</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 1 Soul to use.  (##Terror <target>##)</B><BR>
+<B>Generation Cost:</B> 5<B> </B>/<B> Experience Cost: </B>25<BR>
+<B>System/Duration:  </B>roll 2d6+Will vs 2d6+Will / 4 rounds or 2 minutes; takes 1 round to activate.<BR>
+<B>Effect/Description: </B>By making eye contact, the demon can exert its demonic will over a victim, paralyzing it with fear.  If successful, the victim will be at -4 to Attack and Quickness for the duration of the mastery.  The victim snaps out of this stunning fear as the instinct for survival kicks in when the duration expires.  The Spirit Must Be manifested in order for this Mastery to work.<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+<B>Breed:</B> Demonic Spirit<B><BR>
+Height: </B>NA<BR>
+<B>Weight: </B> NA<B><BR>
+Hair Color:</B> NA<BR>
+<B>Eye Color: </B>NA <BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>  True Spirits don't have any one set form, but most often manifest looking either as they did when they were alive or at the moment of their death.<BR>
+<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>Optemis never had a nice life; when he was mortal that is. People back stabbed him and angered him quite often. Soon he used his magic, that he had inherited and developed, to strike back at those who had hurt him. Not after long, the "Dark Forces" learned of him... They send another Demon to bring him to the Underworld.<BR>
+	Soon after he arrived, he met with the Dark Father. He asked him if he enjoyed to hurt those who hurt him, and of course Optemis replied with a "yes". He liked to make it slow, and painful. An eye for an eye was what he lived for; and whatever it was that had hurt him, he would make it ten times worse. <BR>
+	The Dark Father "blessed" him, and he lived for the next 100 years in the Underworld. [In reality, that wasn't nearly as long as Earth days. Hell's time goes faster than the Underworld's time.] The treatment he received hardened him, made him almost completely emotionless. The way that the Dark Father wanted him. The Dark Father was not satisfied with him wandering the shadows, slaughtering anyone who cast him a glance. <BR>
+	Then Marcus arrived, and told the Dark Father [who had a close connection with] that his daughter Sidney was young enough to corrupt, and not confuse at the same time. The Dark Father took this oppurtunity to test Optemis' understanding of what kind of Demon he was, what was expected of him. The best way to do this was to make him teach and ready another under his ways. Sidney.<BR>
+	By the time Sidney was assigned the anti-guardian angel Optemis, she was almost 14. He came to her at night, moving through the shadows which he so loved. He gave her the instructions; and from that point on he would "teach" her the ways of a Revenge Demon. Sometimes, just for fun, he would haunt her dreams with vivid and morbid scenes of some of his victims' deaths. He had a sick obsession with how many he could kill - it was almost as if he were bragging.<BR>
+  <BR>
+</P><P ALIGN=CENTER><BR>
+</P></HTML>

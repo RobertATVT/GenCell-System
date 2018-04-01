@@ -1,0 +1,27 @@
+<HTML><FONT  COLOR="#400040" SIZE=5 PTSIZE=14>Close Quarters Weapon Skills</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Fist-loads</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> (Body)   Damage:</B> 1 Body<BR>
+<B>Generation Cost: </B>1 points per level<BR>
+<B>Experience Point Cost:</B> Next Level x 2<BR>
+<B>System:</B> roll 2d6+Attack Modifier+Fist-loads Level<BR>
+<B>Description:</B>  Those that enjoy pounding someone into submission with their fists often use accessories to cause more damage with each blow.  Brass knuckles exist today in many different forms, but are not the only type of fist-loads available.  Metal gauntlets, large metal rings, etc., are also available.  These weapons can be hidden in a pocket or larger type of cover.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Small Melee</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> (Body)   Damage:</B> 2 Body<BR>
+<B>Generation Cost:</B> 1 point per level<BR>
+<B>Experience Point Cost:</B> Next level x 3<BR>
+<B>System:</B> roll 2d6+Attack Modifier+Small Blade Level<BR>
+<B>Description:</B>  Sometimes your bare hands just aren't enough fun.  Knives, small clubs, kitchen utensils, ice picks, screwdrivers, etc., are occasionally within easy reach and make functional weapons in times of need.  These weapons are small enough to be hidden is a pocket or larger type of cover.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Large Melee</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  (Body)   Damage:</B> 3 Body<BR>
+<B>Generation Cost: </B>3 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 4<BR>
+<B>System:</B> roll 2d6+Attack Modifier+Large Melee level<BR>
+<B>Description:</B>  Close combat can be brought to a new level when the weapons include swords, axes, police batons, baseball bats, large tree branches, etc.  A wooden stake, whether used for stabbing or clubbing is always considered to be a large melee weapon</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10>.  </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>This is the ability to use/wield these larger weapons more easily.  These large weapons may only be concealed by a trench coat or other type of large cover.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Great Melee</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  (Body)   Damage:</B> 4 Body<BR>
+<B>Generation Cost: </B>4 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 5<BR>
+<B>System:</B> roll 2d6+Attack Modifier+Great Melee level<BR>
+<B>Description:</B>  The use of melee weapons the require two hands, such as Claymores, Battle Axes, Flails, and most smaller vehicles.  Great weapons cause massive amounts of physical trauma and can usually kill in one single strike.  Great Weapons cannot be concealed in any fashion they are far to large to fit under any kind of clothing.<BR>
+<BR>
+</HTML>

@@ -16,7 +16,8 @@
 function create_tables() {
     global $wpdb;
     require_once(ABSPATH . 'wp-admin/includes/upgrade.php');
-    $table_name = 'gencell_characters';
+	$current_prefix = $wpdb->base_prefix;
+    $table_name = $current_prefix.'gencell_characters';
     $charset_collate = $wpdb->get_charset_collate();
     if ($wpdb->get_var("SHOW TABLES LIKE '".$table_name."'") != $table_name) {
         $sql = "CREATE TABLE ".$table_name." (

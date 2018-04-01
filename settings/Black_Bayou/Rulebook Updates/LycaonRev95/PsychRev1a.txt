@@ -1,0 +1,68 @@
+<HTML><FONT  SIZE=3 PTSIZE=10>Subj:	<B>Re: RB UD ~ Announcement ~ 05/09/00</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	5/9/00 10:12:47 PM Eastern Daylight Time<BR>
+From:	Psyche O Path<BR>
+To:	HOST ANT Cloud, HOST ANT Lycaon, HOST ANT Coma<BR>
+To:	HOST ANT Pagan, Aylyai, Aurora L DuBois<BR>
+Sent on:	AOL 5.0 for Windows<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>First off, we have our list of skills in alphabetical order. I'd like to see a second listing posted which categorizes skills by what they can be used for. Skills may be listed in more then one category. For instance: Acting, Special Effects, and Fasttalk may all be listed under a "Personna / Espionage" Category.</FONT><FONT  COLOR="#400000" SIZE=3 PTSIZE=10></B><I><BR>
+</P><P ALIGN=CENTER><BR>
+^v^</FONT><FONT  SIZE=5 PTSIZE=16></I> </FONT><FONT  COLOR="#800040" SIZE=5 PTSIZE=16>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Step: 3   Non-Combat Skills </FONT><FONT  COLOR="#800040" SIZE=5 PTSIZE=16></B></I>   </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><I>^v^</I><BR>
+</P><P ALIGN=LEFT><BR>
+<B>NOTE: </B>Unless otherwise specified or obvious, all Skill durations are 'scene'.  Such Skills include Fast Talk, Music, Theology, Tracking, etc. <BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>This needs to change. This could easily be read as meaning, if someone uses Fasttalk on you and convinces your character of something, once you leave the scene you suddenely realize you've been lied to because the duration is over when the scene ends. We should instead limit the effect to 1 single action or to a single group of actions which would still be consider the same activity. For instance, Fasttalk would apply to only a single lie, regardless of how many were told during a conversation (each would have to be re-rolled), but Special Effects would be in effect until the person changed their clothes.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>We need to explain each of the Acting effects better.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Acting</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  (Body)</B><BR>
+<B>Generation Cost: </B>2 points per level<B><BR>
+Experience Point Cost: </B>Next Level x 2<B><BR>
+System: </B>roll 2d6+Body+Acting Skill Level vs TN (see below)<B><BR>
+Description: </B>Acting has been a part of mortal society since it's very foundations.  From the bright lights of Broadway to the silver tongue of the street rat, acting has become a part of everyday life.  This skill makes it easier for someone to lie, feign death, pretend to be someone else, etc. (Note: You will be unable to <U>completely</U> mimic a player unless you achieve a TN of 30 with this skill and a TN of 30 with the Special Effects skill)<BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Type of Acting:                	Target Number</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+<B>Faking Death (Motionless)		16</B><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8>This allows the character to lay motionless in situations where they would normally run for their lives. This does not mean your physical state is mimicing death, it simply means you can go without reacting to outside physical disctractions. Must be re-rolled with a +3 modifier to the TN each time something sudden occurs which may cause the person to react instinctively such as a gunshot or a scream.</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><B>Voice change					20</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8></B><BR>
+This allows the character to change their accent, tone of voice, etc to something other then their own natural voice and continue to speak with the desired accent, etc for extended periods of time. This includes phsyical neuansces used while talking, such as facial expressions. This does not allow a character to mimic another IC character's voice.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B><BR>
+Acting Other Personalities		23<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8></B>This allows the character to change their personality to something other then their own natural personality. When this TN is acheived it includes a Voice Change and that does not need to be rolled separately. This does not allow a character to mimic another IC character.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><B><BR>
+Voice Mimicry					25<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8></B>This allows the character to take on the accent, tone of voice, etc of another IC character. This includes phsyical neuansces used while talking, such as facial expressions. The character using this must have known or at least hear the target characters voice for extended periods of time (having or listening in on numerouse hour-long conversations).</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<B>Behavioral Mimicry		     	30</B><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8>This allows the character to behave the same way another IC character normally behaves.  This is limited to how well the character knows the target character. If the character's have only met in club situations, then they would have no idea how the character bhaves at home. When this TN is acheived it includes a Voice Mimicry of the target character and that does not need to be rolled separately.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Athletics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>   (Body)</B><BR>
+<B>Generation Cost:</B> 2 point per level<BR>
+<B>Experience Point Cost:</B> Next level x 3<BR>
+<B>System: </B>roll 2d6+Body+Athletics Skill Level vs TN see below<BR>
+<B>Description:</B>  The body is capable of many feats and actions.  Athletic people have a better chance of performing many physical actions than non-athletic people.  These actions include swimming or running long distances, climbing, jumping, and any other non-combat physical roll not covered by another skill.  The Room Host, Storyteller or Game Master is responsible for setting an appropriate target number. </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>If one character is running away from another, an Athletics Roll vs. Athletics Roll can be performed to determine whether or not the character gets away.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Example of feat:                	Target Number</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+Running, Jumping			<B>		16</B><BR>
+Tree Climbing, Swimming		<B>	20<BR>
+</B>Arobics			<B>					22<BR>
+</B>Basic Acrobatics			<B>		25<BR>
+</B>Advanced Acrobatics		<B>		30<BR>
+</B>Performing Multiple Feats	<B>		35<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=2 PTSIZE=8></B>This does not allow a character to perform two actions. It allows a character to perform an athletic feat as well as something else at the same time, for example, sliding across the hood of a car while holding their arm outstretched and firing a gunshot.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><Breed type> Lore</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>  (Mind)  [Maximum of level 3]</B><BR>
+<B>Generation Cost:</B> 5 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 10<BR>
+<B>Cost For Your Own Breed:</B> Next Level x 6<BR>
+<B>System: </B>see specific breed description<BR>
+<B>Description: </B>Do you know about the things that go bump in the night?  The myths and legends of all the different breeds are out there, ready to be found.  You must purchase lore separately for each breed you wish your character to know about.  The exact descriptions of each level of lore is in the description for each individual breed.  To learn additional levels of breed Lore, you must have an in-character source of information about that particular breed.  When you become a new breed, you automatically gain level 1 in that breed's lore.  Breed Lore acquired during character generation must be explained in the character's background.  If your character does not possess the Breed Lore, then they do not know anything about the existence of the breed. </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>All characters begin with level 0 Lore for all breeds until they buy more advanced levels either at Generation or during an Update. DO NOT ADD THIS TO YOUR CS. There is no need. Level 0 Lore is assumed. Level 0 Lore is defined as anything from a total disbeleif in the breed to a complete beleive that a certain breed exists. The difference between Level 0 Lore and Level 1 Lore is the differnce between beleif and knowledge or experience. Most people beleive humans have visited the moon, but relatively few can explain how or say they've actually been there.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>What kind of cut and paste crap did they use on the "Win by / Effect" section? Geeze.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Fast-Talk</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I> (Mind)</B><BR>
+<B>Generation Cost:</B> 2 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 2<BR>
+<B>System:</B> roll 2d6+Mind+Fast-Talk Skill Level vs victim's 2d6+Mind+Steel Will Skill Level<BR>
+<B>Description:</B>  The savior of drunk drivers and tool of salespeople everywhere.  A silver tongued individual finds it easy to convince others of nearly anything, depending on how well they beat their opponent's roll.  A character cannot be persuaded to do something that they'd never do, like give up a family heirloom, dance naked on a table, drop their gun after being shot.  Talking a cop out of giving a character a ticket is a prime example of this skill.  It is not mind control.  It is orally talking someone into something.  Only a Room Host, Storyteller or Game Master can decide how convinced a person is that the explosion of words is truth.  <BR>
+<B>If the roll is won by ..        					Effect </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>(Victim will beleive something...)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10><B>	1-2 points     		they were pretty sure was true anyway, but not positive<BR>
+    	3-5 points             	they were hoping was true, even if they didn't think it was.<BR>
+   	6-10 points            	that's told to them by a trusted friend, regardless of what it is.<BR>
+   *11-15 points             even when they are sure it's a lie.<BR>
+*(Does not apply to a Victim which severely distrusts or hates the character).<BR>
+   	16+ points            	regardless of who or what it is (unless they actually have proof it's a lie.</B>)</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</HTML>

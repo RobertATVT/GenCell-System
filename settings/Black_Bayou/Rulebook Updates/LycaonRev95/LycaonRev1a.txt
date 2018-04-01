@@ -1,0 +1,110 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>Lycaon: RB UD rev 1a</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	5/4/00 8:40:45 AM Eastern Daylight Time<BR>
+From:	HOST ANT Lycaon<BR>
+To:	HOST ANT Coma, HOST ANT Cloud, HOST ANT Lycaon<BR>
+To:	HOST ANT Pagan, Aylyai, Psyche O Path<BR>
+To:	Aurora L DuBois<BR>
+Sent on:	AOL 5.0 for Windows<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#0000ff" SIZE=5 PTSIZE=14 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B>Non-Combat Skill Changes/Additions</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12>Instruction</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><I> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>(Mind)</B><BR>
+<B>Generation Cost:</B>  2 points per levelh<BR>
+<B>Experience Point Cost:</B>  Next Level X 3<BR>
+<B>System:  </B>2d6+Mind+Instruction Skill VS TN of 18<BR>
+<B>Description:</B>  Many people have the innate ability to teach to others what they know.  This stems from mankind's need to understand the world around them and to pass this knowledge on to others.  When one player wants to teach another a skill that they have learned over the ages they need to speak in a language their student can understand.  In order for the instructor to do this they must make the required Instruction roll.  If the instructor is successful he is then capable of teaching another a skill.  Instruction can only be attempted once every 24 hours on any one characters.  The 'student' character can only raise one skill an UD by one level with the reduces cost  of one level of XP.  The teacher must have a higher skill level than the student, and the teaching can not exceed the level the teacher has.  Furthermore a minumum of level 4 in the skill being taught is required.  For instance, Evan Walker is teaching Victor Martel the art of Lycanitsu or otherwise known as the Werewolf Fighting Mastery, Evan would make the roll to teach this skill to Victor.  If Evan is succsessful in teaching his student, then his student on his next UD can raise his Lycanitsu level from level 5 to level 6 at the reduced cost of Next level x 3 instead of Next level x 4.  (At least 2 levels of the skill is required to be able to instruct another within the game for this reduction)<BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12><B>Programming</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>  (Mind)</B><BR>
+<B>Generation Cost:</B> 3 points per level<BR>
+<B>Experience Point Cost: </B>Next Level x 3<BR>
+<B>System:</B>  roll 2d6+Mind+Programming vs TN (see below)<BR>
+<B>Description:</B> Programs are everywhere and can do just about anything.  From artificial intelligence and calculating the next shuttle launch to making sure your digital watch keeps time.  Their purposes are about as wide and varied as the types of jobs people have.  However, using a program and getting it to work right are two very different things.  These people are the brains behind the.. well.. brains.  There are two purposes for using this skill.  The first is the ability to create a marketable program to be sold to the mass public.  You gain a bonus to this month's Finance roll, depending on how well you roll.  </FONT><FONT  COLOR="#383430" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B>Your Roll:		Finance roll:	Program written</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+	16				+ 1      		</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Basic program: HTML, </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+	20				+ 2			</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Average program: Java, 1 - 3 file program</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+	26				+ 3			</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Intermediate program: Need help here...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+	34				+ 4			</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Advanced Program: Need help here...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+	40				+ 5			</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Complex multi-layered program: Need help here...</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+The second use of this skill involves security and protection.  With this skill, your character can write a security program to protect their own system or to sell to others.  When the programmer rolls 2d6 + Mind + Programming, the result is compared to the chart below and the bonus given is added to the base target number for the type of the system the program is protecting  (see the description of the Hacker Skill for details).  Programmers who also know how to hack systems themselves are able to put that knowledge to good use.  Characters with a programming skill equal or greater than their hacking skill may add those levels of hacking to their programming roll. <BR>
+<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B>If you roll a:       Bonus to Hacking Defense</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>	16					+ 1<BR>
+	20					+ 2<BR>
+	26					+ 3<BR>
+	34					+ 4<BR>
+	40					+ 5<BR>
+<BR>
+A maximum of 5 points may be added to the Hacking defense per month.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12><B>Law</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><I> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I>(Mind)<BR>
+Generation Cost: </B>5 points per level (unless otherwise noted in an Occupation)<BR>
+<B>Experience Point Cost: </B>Next level x 5 (unless otherwise noted in your Occupation.)<BR>
+<B>System: </B>roll 2d6+Mind+Law Skill vs DA's 2d6+Mind+Law Skill<B><BR>
+Description: </B> Some people know the law and other know how to bend it.  A character that knows the law can attempt to weasel their way out of the situation.  This takes place in the courts since cops don't usually listen to slick talk of law.  "Tell it to the judge," they say.  If arrested and the character goes to court (in email), a Storyteller will be made available to witness the roll above.  </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>If this roll is needed against more than one charge at a time, the players must roll for each charge seperatly.  Both the District Attorney as well as the Defense Attorney will make their law rolls, the one that wins out over the other one has the ability to effect the change of the charges.  If the District Attorney is capable of beating out the Defense Attorney then the charge sticks and the suspect is found guilty of that charge.  If the Defense Attorney wins the rolls however the charges will be dropped by one level for every two points the Defense wins out over the DA.  </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+	<B>List of Charges<BR>
+	</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10></B>Capital Felony<BR>
+	1st Degree Felony<BR>
+	2nd Degree Felony<BR>
+	3rd Degree Felony<BR>
+	Class A Misdemeanor<BR>
+	Class B Misdemeanor<BR>
+	Weapons Charges</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>As a note the way the law rolls would be handled is that the judge will recieve the arrest reoprt in an email from the arresting officer.  The judge will then send out an email to all suspects regarding their arrest and how they plea.  Once that is recieved the judge will issue a court date.  The court date is the date in which the rolls made by both Attorneys must be submitted to the judge.  Both attorneys will have to roll for each charge listed on the arrest report.  They will roll in order of the highest ranking charge down to the lowest and then submit the log to the judge, having NOT yet posted it to the boards.  Both attorney's do not have to make the rolls together, but simply must have an ST witness the rolls and then submit them to the judge.  On the date the judge issued as the court date he will post both of these rolls to the bourd with the subject:<BR>
+		<B>Court Case <Suspect SN> <Date><BR>
+</B>Then any ST's who witnessed the rolls will be contacted to place their marks on the boards.  All ST rolls musbt be emailed to: <Judge SN>, HOST ANT Lycaon, HOST ANT Paradox<BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B><BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12>Music</FONT><FONT  SIZE=3 PTSIZE=10>  </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>(Mind)</B><BR>
+<B>Generation Cost: </B>2 points per level<BR>
+<B>Experience Point Cost:</B>  Next level x 2<BR>
+<B>System:</B>  roll 2d6+Music Skill Level vs </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>TN 16 to write </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+		  roll 2d6+Music Skill Level vs </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>TN 12 to play</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<B>Description:</B>  The ability to compose and play music is not the easiest form of employment, but can certainly be satisfying to the individual.  The music skill itself is a rather broad skill, but musicians the world over have learned multitudes of instruments and most can play more than one.  In other words, if you own the Musician Occupation you do not have a limit on your instrument choice.  If you do not have this Occupation, you must choose one style of musical talent to strive for - writer or musician.  In parenthesis next to your Music Skill, list which type of music talent you are as well as what instrument you use, or the word 'writer'.  Success of a writing roll allows the character to write a musical piece that others enjoy and want to listen to.  Successfully making a play roll represents the characters ability to perform a musical composition well by utilizing voice or more mechanical instrument, not making mistakes, and generally impressing those who listen.<BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12><B>Writing</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> (Mind)</B><BR>
+<B>Generation Cost: </B>2 points per level<BR>
+<B>Experience Point Cost:</B> Next level x 2<BR>
+<B>System:</B>  roll 2d6+Writing Skill Level vs </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>TN 16 for speech</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+		roll 2d6+Writing Skill Level vs</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> TN 12 to write </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<B>Description: </B>All people have some form of writing talent, however, there are a select few who have such skill that they are able to affect peoples beliefs and possibly even change some of them.  From short stories to novels, writing can be an invaluable skill.  When writing, for each roll 3 higher than </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>TN 14</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> the player gains 1 to their Finance roll that night.  When writing a speech, for each roll 2 higher than TN 18, the player reading the speech gains 1 to their Fast Talk or Theology skill that night.  A person may only make one writing roll per night, working on the same story.</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14>Combat Skill Changes/Additions</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12>Throwing</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>  (Body)  Damage:</B> 1 Body<BR>
+<B>Generation Cost:</B> 1 point per level<BR>
+<B>Experience Point Cost:</B> Next Level x 2<BR>
+<B>System:</B> roll 2d6+Attack Modifier+Throwing Skill Level<BR>
+<B>Description:</B>  Special weapons designed for throwing can be used to damage an opponent from afar.  Knives, throwing spikes or stars, and other small weapons may be used in this manner.  These weapons are small enough to be hidden is a pocket or larger type of cover. </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10> This distance one can throw a such weapons may be effected due to wind, sight, terrain, ect.  Final say on the distance one can throw will be determained by an ST or GM.</FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14>Fighting Style ChangesAdditions</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+Lycanitsu:</B> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10> This is a wicked martial art that uses a Werewolves' astounding strength and feroscity to over power and rend their victims.  Their animal instincts and beastly strength rips through their victims, thearing them to bloody stumps.  </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>This skill is not capable of being used when within the confines of the Werewolves' wolf form.</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12><B>Changing Styles</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+At times, it may become necessary to learn a new martial art.  One that might cause a conflict with the limitations.  This most commonly occurs due to a change in Breed.  When you have a Fighting Mastery and you change breeds, the procedure is rather simple.  You remove the old fighting mastery and replace it with the new fighting mastery after dividing the previous level in half (rounded up).  If you choose to drop a fighting style so you may pick up one, you may do so.  </FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Keep in mind, you will not receive any rebate in the form of XP or levels of another fighting skill for dropping these levels.  Likewise should you wish to go back to a fighting style that you once had but dropped you will need to pay the XP all over again.<BR>
+<BR>
+</FONT><FONT  COLOR="#000080" SIZE=4 PTSIZE=12><B>The Limitations</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B><BR>
+You are limited by the number of fighting styles your character knows, depending on which fighting skills you have purchased.  Here is the breakdown:<BR>
+2 Street Fighting styles<BR>
+1 Street Fighting Style and 1 Trained Fighting style<BR>
+1 Fighting Mastery style.<BR>
+<BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10>Fighting Skills cannot be used while in the following forms: Werewolves' Wolf, Vampires Wolf, Vampires Bat, any Lamia animal form.  In these cases the only skill capable of being used is Natural Weapons.  The only fighting skill that will effect any of these is wrestling and the ability to add +1 to damage for every 4 rounds of the skill to hand - to - hand combat damage.<BR>
+</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=10><B>Note:</B> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>The bonuses granted with these styles apply to directly what they say.  A + to the attack modifier is to the modifier in general, and not only for when that skill is used, unless otherwise noted in the form description.  For instance, damage bonuses only apply during hand-to-hand fighting, not when attacking with firearms or melee weapons.</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#0000ff" SIZE=3 PTSIZE=10><B>~ HOST ANT Lycaon ~</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B>Black Bayou Storyteller Advisor<BR>
+And reciver of everyone's horse and/or cow manure!<BR>
+<I>- As noted by DepKarrde -</I><BR>
+</FONT><FONT  COLOR="#ff0000" SIZE=3 PTSIZE=10 FACE="Wingdings" LANG="0">W	W	W	W	W	W	W	W	W</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><U><BR>
+</U>Breed Leader Coordinator<BR>
+Head ST and GM Trainer<BR>
+Keyword: <A HREF="aol://4344:1192.bbcoll.9374943.519821752">Bayou</A></FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><BR>
+<BR>
+<BR>
+<BR>
+</P></HTML>

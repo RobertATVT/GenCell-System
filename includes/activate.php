@@ -23,28 +23,28 @@ function gencell_activate_plugin() {
     if(! is_dir($upload_dir_images)) {
         mkdir($upload_dir_images, 0755);
     }
-    $upload_dir_forms = $upload_dir.'/sheets';
-    if(! is_dir($upload_dir_forms)) {
-        mkdir($upload_dir_forms);
+    $upload_dir_sheets = $upload_dir.'/sheets';
+    if(! is_dir($upload_dir_sheets)) {
+        mkdir($upload_dir_sheets);
     }
-    $upload_dir_forms_home = $upload_dir_forms.'/logs';
-    if(! is_dir($upload_dir_forms_home)) {
-        mkdir($upload_dir_forms_home);
+    $upload_dir_logs = $upload_dir.'/logs';
+    if(! is_dir($upload_dir_logs)) {
+        mkdir($upload_dir_logs);
     }
     
     //Checks to make sure that the groups plugin is active and if it is then it makes sure the required groups are available
     if( is_plugin_active('groups/groups.php')) {
-        $gencell-host = Groups_Group::read_by_name('Host');
+        $gencell_host = Groups_Group::read_by_name('Host');
         if ($business_manager == null) {
             $map = array('name' => 'Host', 'description' => 'Game Host');
             Groups_Group::create($map);
         }
-        $gencell-rules-coordinator = Groups_Group::read_by_name('Rules Coordinator');
+        $gencell_rules_coordinator = Groups_Group::read_by_name('Rules Coordinator');
         if ($FAL == null) {
             $map = array('name' => 'Rules Coordinator', 'description' => 'Rules Coordinator Position');
             Groups_Group::create($map);
         }
-        $gencell-player = Groups_Group::read_by_name('Player');
+        $gencell_player = Groups_Group::read_by_name('Player');
         if ($FAC == null) {
             $map = array('name' => 'Player', 'description' => 'Player Group');
             Groups_Group::create($map);

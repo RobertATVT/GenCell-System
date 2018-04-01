@@ -1,0 +1,66 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=4 PTSIZE=12><B>U </FONT><FONT  SIZE=3 PTSIZE=10>S I N G </B>.<B> T H E </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> C</FONT><FONT  SIZE=3 PTSIZE=10> H A T </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> R</FONT><FONT  SIZE=3 PTSIZE=10> E S T R I C T I O N </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> T</FONT><FONT  SIZE=3 PTSIZE=10> O O L</B><BR>
+C h a t . H o s t i n g<BR>
+______________________<BR>
+<BR>
+</P><P ALIGN=LEFT>The chat restriction tool is activated by a "command" that you type to the chat room screen. The member you wish to silence (or "gag") must be in the room at the time the command is issued. For this reason, you issue the command <B>before</B> you issue an on-screen warn (OSW). By issuing the gag command before the OSW, you are ensuring that the disruptive member is silenced immediately.<BR>
+<BR>
+When you restrict a member's chat, it will also affect their ability to chat on any screen name on their account for the length of time you have set. This prohibits members from returning in a different screen name to disrupt the room. It will not affect a member's use of Instant Messages or e-mail. <BR>
+<BR>
+The command to activate the chat restriction tool and silence a member is:<BR>
+<BR>
+=qpermagag screen_name duration<BR>
+<BR>
+Where screen_name is the exact screen name of the member you need to silence and where duration is a number from 1 to 60 indicating length of time in minutes that the member will be silenced. The command (=qpermagag) is case sensitive and must be typed in lowercase. The screen name cannot contain spaces, but is not case sensitive and may be in uppercase or lowercase. You may not silence a member for longer than 60 minutes for any one instance of unacceptable behavior. Also note that if you silence a member for a length of time between 16 and 60 minutes you are required to officially report the warn to CAT.<BR>
+<BR>
+<B>Example</B><BR>
+Let's imagine that you are hosting a chat and <B>123 Member</B> violates TOS. Your attempts to educate without warning have failed and you need to silence the member for the benefit of the others in the room. To do this you would type the following command to the chat room screen:<BR>
+<BR>
+=qpermagag 123member 5<BR>
+<BR>
+If you typed in the command successfully, you would then see the OnlineHost confirm the command and respond like this:<BR>
+<BR>
+OnlineHost:  Set permagag to 1 for '123 Member', duration 5 min<BR>
+<BR>
+<B>Explanation</B><BR>
+In this example we have indicated that we are restricting the chat of <B>123 Member</B> for a duration of 5 minutes. Notice that:<BR>
+<BR>
+1. The command begins flush with the left margin<BR>
+2. There is a space between the command and the screen name<BR>
+3. The space between the number <I>3</I> and the letter <I>M</I> in the screen name has been removed<BR>
+4. There is a space between the end of the member's screen name and the number of minutes for duration<BR>
+5. The duration is indicated by a number only. You do not add the word "minutes."<BR>
+<BR>
+<B>Error Messages You May Receive</B><BR>
+If you type the command incorrectly or the member has left the room before you issue the command, you may receive an error message. The error message will only be visible to you and not any other members in the chat room. The following is a list of possible error messages you may receive:<BR>
+<BR>
+<I>Error Message</I>:<BR>
+OnlineHost: Unknown =Q command <BR>
+<I>What it means</I>:<BR>
+You either do not yet have the tool enabled for your screen name or you have a typo in the "=qpermagag" command. This typo could include typing any letters in uppercase.<BR>
+<BR>
+<I>Error Message</I>:<BR>
+OnlineHost: Usage: =qpermagag screen_name duration <BR>
+<I>What it means</I>:<BR>
+You have an error in the formatting. For example, a space in the member's screen name.<BR>
+<BR>
+<I>Error Message</I>:<BR>
+OnlineHost: 123member not found to gag<BR>
+<I>What it means</I>:<BR>
+The member you are trying to silence left the room before you issued the command or you typed the screen name incorrectly.<BR>
+<BR>
+<B>Ungagging a Member</B><BR>
+Finally, if you make a mistake when issuing the chat restriction command, you can reverse the command and "ungag" the member. The command to ungag a member is:<BR>
+<BR>
+=qunpermagag screen_name<BR>
+<BR>
+Where screen_name is the screen name (without spaces) of the member that was gagged in error.<BR>
+<BR>
+<BR>
+_________________________________<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>Confidential: Do not distribute.<BR>
+Compiled By: Community Leader Education<BR>
+Update History:<BR>
+ * v1.00 - 11/11/99<BR>
+ * v1.01 - 12/05/99<BR>
+ * v1.11 - 04/10/00<BR>
+ * v1.21 - 07/23/00 included note about command being case sensitive</HTML>

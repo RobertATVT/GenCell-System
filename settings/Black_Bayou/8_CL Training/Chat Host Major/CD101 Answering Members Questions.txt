@@ -1,0 +1,164 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=4 PTSIZE=12><B>A</FONT><FONT  SIZE=3 PTSIZE=10> N S W E R I N G </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> M</FONT><FONT  SIZE=3 PTSIZE=10> E M B E R </B>.</FONT><FONT  SIZE=4 PTSIZE=12><B> Q</FONT><FONT  SIZE=3 PTSIZE=10> U E S T I O N S</B><BR>
+C h a t . H o s t i n g<BR>
+______________________<BR>
+</P><P ALIGN=LEFT><BR>
+Members look to Community Leaders for the answers to all kinds of questions. Knowing how to answer basic questions and where to direct members for information will make your task easier. <BR>
+<BR>
+Some most frequently asked questions are:<BR>
+<BR>
+How do I create a new screen name?<BR>
+How do I create a profile?<BR>
+How can I change my password?<BR>
+What is my e-mail address?<BR>
+How can I find out about my bill?<BR>
+How can I stop junk mail?<BR>
+How do I send an IM?<BR>
+How do I get to the web?<BR>
+<BR>
+You already know the answers to these questions, but do you know how to answer them quickly, clearly, and concisely in a busy chat room?<BR>
+<BR>
+<B>Answering Questions Quickly</B><BR>
+You can answer questions quickly by preparing in advance. Learn the answers and have them handy in a text document from which you can copy and paste to the chat room or as a macro in an AOL add-on program.<BR>
+<BR>
+Know your own forum. Most members in your chat room will ask questions about where to find things in your forum.<BR>
+<BR>
+If a member is asking about an area of interest, try it as a Keyword. If a member says they are interested in boating, try Keyword: BOATS. It's one of the quickest ways to find an area of interest online.<BR>
+<BR>
+<B>Answering Questions Clearly</B><BR>
+Answer questions clearly by using standard online conventions.<BR>
+<BR>
+1. We always capitalize the letter <I>K</I> in Keyword so it stands out as an AOL go to Keyword.<BR>
+<BR>
+2. The word <I>Keyword</I> is followed by a colon to further emphasize that you are about to give an AOL Keyword.<BR>
+<BR>
+3. The Keyword itself is typed in uppercase to avoid confusion with any following words.<BR>
+<BR>
+For example, the following sentence can be interpreted as typing "keyword Notify" or "Notify" or "Notify AOL" or "Notify AOL now" in the Keyword box:<BR>
+<BR>
+Use keyword Notify AOL now to report that to the Community Action Team.<BR>
+<BR>
+Using the correct format helps set off the elements of the sentence:<BR>
+<BR>
+Use Keyword: NOTIFY AOL now to report that to the Community Action Team.<BR>
+<BR>
+It is acceptable to use proper uppercase and lowercase when the Keyword is a hyperlink, since the hyperlink serves to set off the Keyword:<BR>
+<BR>
+Use Keyword: <A HREF="aol://1722:NOTIFYAOL">Notify AOL</A></FONT><FONT  COLOR="#400080" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>now to report that to the Community Action Team.<BR>
+<BR>
+Paths to areas or documents are given like this:<BR>
+<BR>
+Keyword: WEB HELP > World Wide Web > Using Other Browsers with AOL.<BR>
+<BR>
+When the member gets to Keyword: WEB HELP, he should see something that reads: "World Wide Web;" it could be the text under a button, the text on a graphic, or the title of a document in a list box. When the member clicks on "World Wide Web," he should see something that reads: "Using Other Browsers with AOL." Many members will look for the exact text and will completely miss finding what they need if you leave out a word.<BR>
+<BR>
+While it's acceptable to send a preformatted promo to the screen in answer to common questions, the preferred method of answering a direct question by a member is to address that member in the answer. For example, in answer to the question, "How do I get a home page?"<BR>
+<BR>
+"Use Keyword: MY FTP SPACE" is not a clear answer because it could be the answer to anything. The member may not realize this is the answer to their question.<BR>
+<BR>
+"Member Screen Name, use Keyword: MY FTP SPACE" is a better answer.<BR>
+<BR>
+A preformatted promo that includes text from the question is also acceptable:<BR>
+<BR>
+For information on making<BR>
+home pages, check out<BR>
+Keyword: MY FTP SPACE.<BR>
+<BR>
+<B>Answering Questions Concisely</B><BR>
+You answer questions concisely by giving the shortest path to an area and by not adding extra information. Here are two possible answers -- formatted to fit the chat room window -- to the question: How do I create a screen name?<BR>
+<BR>
+Possible answer number one:<BR>
+<BR>
+NewMember, on your master screen name, <BR>
+go to Keyword: NAMES and follow the <BR>
+directions there.<BR>
+<BR>
+Possible answer number two:<BR>
+<BR>
+NewMember, each account may have up to <BR>
+five screen names, of which the master <BR>
+screen name is permanent; all others <BR>
+may be created and deleted whenever <BR>
+you want. To add or delete a screen name, <BR>
+go to Keyword: NAMES on your master <BR>
+screen name (the name you originally <BR>
+chose when you signed on to AOL).  <BR>
+Click on Create Screen Name (or Delete <BR>
+Screen Name). To create a screen name,  <BR>
+type in the name, select a password <BR>
+(you will have to enter this twice), <BR>
+then set the desired Parental Controls <BR>
+for that name.<BR>
+<BR>
+Which answer do you think is better? While answer number two may be more complete, it is much too long for a chat room. If you had to type it, it would take your attention away from the chat for more than a minute. Since you wouldn't be the only one typing and sending lines of chat, your answer would get mingled with chat from other members. This would make it difficult to read. Few members will remember everything you've typed. It's too much information and will get lost in a busy chat room.<BR>
+<BR>
+The second answer assumes questions which haven't yet been asked. Be careful to answer only the direct question. Get the member to step one and let them take it from there. If the member needs more information, she will ask more questions.<BR>
+<BR>
+If you take too long to answer a question, a helpful room member will probably answer it for you. If the helpful room member answered correctly, be sure to thank the member on-screen. Helpful room members appreciate that you acknowledge their assistance and the other room members are assured the answer is correct. Remember, members look to <B>you</B> for the right answers.<BR>
+<BR>
+If the helpful room member answered incompletely, thank them on-screen and add the extra information. For example:<BR>
+<BR>
+NewMember: How do I create a screen name?<BR>
+<BR>
+HelpfulRoomie: NewMember, use your master screen name to create or delete screen names.<BR>
+<BR>
+NewMember: Thanks!!!<BR>
+<BR>
+YouTheHost: Thanks HelpfulRoomie! :)<BR>
+YouTheHost: Also, NewMember, use Keyword: NAMES.<BR>
+<BR>
+If the helpful room member answered incorrectly, provide the correct answer. There is no need to embarrass the helpful room member by directly pointing out that their answer was wrong. Never get into an argument with a member who insists their wrong answer is correct or their answer is better. Let your answers stand on their own merit.<BR>
+<BR>
+Most questions have multiple correct answers. How to create a screen name for example can be answered:<BR>
+<BR>
+Use Keyword: NAMES<BR>
+Use Keyword: SCREEN NAMES<BR>
+Click "My AOL" on the toolbar, then select "Screen Names" from the drop down menu.<BR>
+<BR>
+If a helpful room member gave one of the longer answers, you can leave it at that or offer the shorter answer:<BR>
+<BR>
+NewMember: How do I create a screen name?<BR>
+<BR>
+HelpfulRoomie: NewMember, click "My AOL" on<BR>
+HelpfulRoomie: the toolbar, then select "Screen<BR>
+HelpfulRoomie: Names" from the drop down menu.<BR>
+<BR>
+NewMember:  Thanks!!!<BR>
+<BR>
+YouTheHost: Thanks HelpfulRoomie! :)<BR>
+YouTheHost: NewMember, or you can use Keyword: NAMES.<BR>
+<BR>
+When hosting a chat room, you must use the most concise answer. You will find concise, formatted answers to many questions in our library. These can also be used as promotions. Promoting AOL features and functionality is part of building a strong community. You do not have to wait until a question is asked. Be proactive and let members know about various AOL features. You will often see the response, "Cool! I didn't know that!"<BR>
+<BR>
+<B>Directing Members to Help</B><BR>
+If you can't answer a question in a short three or four lines, direct the member to the online area where they can find the information themselves.<BR>
+<BR>
+For general AOL questions, send members to Member Services at Keyword: HELP. The better you know this area, the more helpful you can be to your members. It is always best to direct members right to the topic or sub-topic that contains the information they need. Be sure to give the member the entire path in the proper format. For example, if the member needs help with downloading an attached file, send them to Keyword: HELP > E-mail > E-mail Attachments > Downloading attached files. The member can then print the article, save it and send it, or if more help is needed, click on the "Ask the Staff" link for help via chat, telephone, or e-mail.<BR>
+<BR>
+To get help in a chat room from a Community Leader, send the member to Keyword: HELP COMMUNITY > Explore AOL Help Community. This area contains Help Community Chat (for tips and tricks), AOL for Windows Help Room, AOL for Mac Help Room, AOL Online Help Room (open when the Windows and Mac help Rooms are closed), and  AOL Upgrade Chat.<BR>
+<BR>
+For questions related to platform, send members to Keyword: PC HELP or Keyword: MAC HELP. Both areas feature nightly help chats hosted by a Community Leader.<BR>
+<BR>
+For questions related to operating systems, send members to Keyword: WIN or Keyword: APPLE.<BR>
+<BR>
+For questions about home pages, send members to Keyword: MY FTP SPACE.<BR>
+<BR>
+Members who are new to computers and AOL might be interested in structured learning. There are new member classes at Keyword: HELP CLASS. These classes are part of the Help Community and are taught by volunteers. Visit this area occasionally to see which classes are offered.<BR>
+<BR>
+Members can also find classes on AOL basics at Keyword: BASICS or on a variety of subjects at Keyword: ONLINE CLASSROOM.<BR>
+<BR>
+<B>Safety and Security Issues</B><BR>
+While being a leader means you need to assist members, remember the safety and security issues you have learned. Do not respond to requests for assistance that make you uncomfortable or risk the security of your account. For example, a member heard you were a programming guru, so the member sends you an attached file asking for your assistance with this program they are writing. It could be a genuine request for help or it could be someone stroking your ego to get you to download their password sniffer. Why take the chance? Assisting with this type of problem is not part of your leadership duties. You can safely direct this member to online areas for assistance.<BR>
+<BR>
+A member sends you an Instant Message and asks for help with using e-mail. You direct them to Keyword: HELP > E-mail, but they insist they cannot find what they need. Can you meet them in a private room and help them later? Do not get pulled into this situation. Stay away from private rooms while on duty or in your Community Leader screen name. Remember that you can direct this member to interactive assistance in the help rooms. They can call AOL's member assistance telephone number. They have several options for assistance; asking a chat host to help them in a private room is not one of them.<BR>
+<BR>
+<BR>
+<BR>
+<BR>
+_________________________________<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>Confidential: Do not distribute.<BR>
+Compiled By: COST Education<BR>
+Update History:<BR>
+ * v1.00 - 07/21/99<BR>
+ * v1.10 - 12/23/99<BR>
+ * v1.20 - 05/30/00 added references to Help Community</FONT><FONT  COLOR="#400080" SIZE=3 PTSIZE=10><BR>
+</HTML>

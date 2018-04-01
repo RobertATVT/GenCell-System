@@ -1,0 +1,94 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Bartender-Guru Level 6 NPC</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname: NPC (HOST ANT <?>)<B> <BR>
+</B>Character's Real Name:<B> Arturo Bravo<BR>
+</B>Name of [Bartender]  Sire:<B> Dionysus<BR>
+</B>Date of Character Creation<B>: The Dawn of time<BR>
+</B>Date of Last Update:<B> Is beyond such troubles</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</FONT><FONT  SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (??) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>25</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>27	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>23 	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>39</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>39</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT>Special Form Bonus (??)</I><BR>
+<BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name		     Level 		Damage		Misc			XP Cost		</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+   	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Chi				12				3		+3A, +6I, +6D</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1) </B>Reflexes			8 </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8>   	<B>2)</B> Evasion			8<BR>
+	<B>3)</B> Shotgun			6<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Bartending							10<BR>
+	<B>1)</B> Athletics							4<BR>
+	<B>2)</B> Law								3<BR>
+	<B>3)</B> Gaming							5<BR>
+	<B>4)</B> Steel Will							6<BR>
+	<B>5)</B> Computer Programming				1<BR>
+ <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>	Name 						    Level 						XP Cost		<BR>
+</B></I></U>	All Breeds 							1</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT>   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Bartender</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</B></I>Who doesn't trust their 'tender?  An icon from 80s television and classic movies, the bartender has become someone we believe in, someone we confide in...well, let's face it, someone we spill our guts to.  And someone we've trusted when they stood in front of us, pouring drinks as we made scandalous deals with dark figures.  What do they know?  What could they bring down on us if they just bothered to find reason?<BR>
+<B>Advantage: </B> Bartenders have a trained ear for picking up conversations over the din of a crowd.  Assume that you can hear any conversation in any room your character is in regardless of how quietly it is spoken.  Mindspeak cannot be overheard in this fashion.<BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>Adrenaline</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> - 0 Soul to use. (##Adrenaline##)</B><BR>
+<B>System/Duration:  </B>NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +8 (must be stated to the ST which roll before use, may not be used to add to mental roll, such as a will roll).  This mastery may only be used once per night.<BR>
+<B><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8>Luck<I> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I>- 0 Soul to use.  (##LuckRe-roll##)</B><BR>
+<B>System/Duration:</B>  NA / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is, regardless of the result.  The mortal can only enact this mastery twice per night.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B>The Gift</B> </FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8>- 0 Soul to use. (no room command needed) <BR>
+System/Duration:  NA / NA<BR>
+Effect/Description:  Everyone has that little something they just seem naturally gifted at.  Whether it be juggling, mathematics, or knife throwing, it's there, and it's just waiting to be found.  The player may gain 1 skill at level 3 for no cost, except Lore.  However, they may not use other points to build upon the skill at generation, only later with updates.  This skill must have an * by its name to denote which skill is the Gift.  Should you purchase an Occupational Training type that grants a non-combat skill bonus that you have chosen for your Gift, the bonus levels add to the ones granted by the Gift.  You may only use a skill from the non-combat skill list as your Gift if an occupation gives you additional levels in it during character generation. <U>(Note, Evasion, Reflexes and Sure Shot are classified as Combat Skills)</U>.  If you ever change breeds, you do not lose the levels of the gift unless they interfere with another rule.  For example, if you have Chi it is automatically replaced with the fighting style of the new breed at half its current level.  The levels are still halved as normal, even if it was the Gift.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Healing</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>-  0 Soul to use. (no room command needed)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> Art has an incredible natural healing ability.  Any wound caused to him will heal at the rate of 1 Body per hour the character rests.  If the character takes any strenuous action, the healing is disrupted and the hour starts over.  A Room Host must be notified when you claim your Body point back.  Wounds from fire heal at the rate of 1 Body per day and only when the character sleeps.  If the character is woken up before the day is over, the healing process is disrupted and they do not regain their point (which means they cannot role-play until the damage is healed).  The damage from an attack that removes a limb heals at the normal rate, but the player must role-play the limb slowly growing back.  (Length of time for the limb to regenerate is determined by the <A HREF="mailto:BBSTMail?subject=Limb Regeneration Time (Attn: FD)">Forum Director</A></FONT><FONT  COLOR="#000080" SIZE=2 PTSIZE=8>.)</FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT> <BR>
+</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+<B>Breed: Bartender</B> <B><BR>
+Height: </B><BR>
+<B>Weight:</B> <B><BR>
+Hair Color:</B> <BR>
+<B>Eye Color:</B> <BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>   <B><BR>
+<U>Form Description</FONT><FONT  SIZE=3 PTSIZE=10><I><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+<BR>
+<BR>
+</B></I></U></P></HTML>

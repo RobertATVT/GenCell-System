@@ -1,0 +1,51 @@
+<HTML></P><P ALIGN=CENTER><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><I><BR>
+^v^</I> <B>Black Bayou NPC Sheet </B><I>^v^<B></I> <BR>
+   <BR>
+</FONT><FONT  SIZE=5 PTSIZE=14>   </B><I><U>Sheriff's Department K9</FONT><FONT  SIZE=2 PTSIZE=8></I></U><BR>
+   <BR>
+   <B>Player's Screen Name: Room Host, ST and GM<BR>
+AND approved SD Deputies<BR>
+   Characters  Name: (Sheriff's Department K9)<BR>
+   <BR>
+  </B> (SD K9 units are only allowed to be used by the appropriate SD Deputies and Approved Staff.  K9's are only accessible to the K9 unit in the SD including Narcotics.  Should the K9 unit need to be called in to a scene they will arrive with the rest of the units.  As of right now there are only two K9 units.  Deputy Units: Deputy S Walker, Zach Morningstar)<B><BR>
+   </B><BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Statistics</I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+ ~Body:         ~Mind:        ~Soul:<BR>
+ 9                 7                 5<BR>
+   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Modifiers</I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B>  <BR>
+~Attack		 ~Will		~Quick		~Inits	~Dodge<BR>
+16			12			14			19		19<BR>
+   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Skills</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+ <B>Name					    Level		Damage/System</B><BR>
+ 1) Evasion (body)				5          	+5 to dodge<BR>
+ 2) Reflexes (body)                      	5              +5 to Inits<BR>
+ 3) Athletics (body)				3		2d6+body+athletics vs TN<BR>
+ 4) Tracking (mind)				5		2d6+mind+tracking vs TN<BR>
+ 5) Natural Weapons			9		1 body damage<BR>
+</P><P ALIGN=CENTER>   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Special Abilities</FONT><FONT  SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I>Enhanced Senses ~ Smell</I> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9>- 0 Soul to use. (##ES:Smell##)</B><BR>
+<B>Generation Cost:</B> Innate<I><BR>
+<B></I>System/Duration: </B> roll 2d6+Body vs TN 16 / Scene; Instant<BR>
+<B>Effect/Description:</B>  A K9's sense of smell is so strong and acute, that their sense of smell can sometimes compensate for their sense of sight.  K9's that utilize their sense of smell can effectively "see" in complete darkness.  It can distinguish between the many different scents around it and can pinpoint their exact location.  This allows the K9 to ignore any penalties due to vision.  Strong winds or powerful smells can throw the K9 off.  The nuances are up to the room host, ST or GM.</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+<BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Masteries<BR>
+</FONT><FONT  COLOR="#0000a0" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+   </FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER>   <B><I><U>Physical Description</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+K9 units are teams that consist of a Deputy and a trained K9.  Both the dog and the Deputy spend most of their work time together.  The deputy is present during all stages of the dogs training and as in charge of the well being of the animal during it's time on the force.  The dog lives with the Deputy and is often times though of as family to the Deputy.  These K9's are of the German Shepherd breed.<BR>
+   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=10><B><I><U>Roleplaying Notes<BR>
+ <BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=2 PTSIZE=8></B></I></U>K9's main job is to track down suspects, narcotics, evidence from scenes, bombs, you name it they track it.  The only time a K9 will attack a suspect is when their Deputy gives them the command, and then the force is simply to pressure the suspect to surrender to the Deputies.  In order for the K9 to scent and track the animal must first find the scent using it's Enhanced Masteries (Mastery) once the animal has the scent it can then track the scent down with a TN of 18 in ALL instances of scent tracking.</FONT><FONT  COLOR="#000080" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><BR>
+</HTML>

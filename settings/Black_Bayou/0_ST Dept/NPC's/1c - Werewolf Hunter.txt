@@ -1,0 +1,129 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Level 5 Hunter NPC<BR>
+</FONT><FONT  SIZE=4 PTSIZE=11>Silver Future GWSL ~ Psychic Werewolf Hunter</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname:<B> JustynEads<BR>
+</B>Character's Real Name:<B> Justyn Eads<BR>
+</B>Date of Character Creation<B>: NA<BR>
+</B>Date of Last Update:<B> NA</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>10</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>        <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>25</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>36	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>22		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>31</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>24</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level       Damage                    Misc                     XP Cost               </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+   	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Small Arms      		6		   3						 	   	Next Level x 3</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1)</B> Sure Shot*			4										Next Level x 5<BR>
+   	<B>2)</B> <BR>
+	<B>3)</B> Reflexes          		3       									Next Level x 2<BR>
+	<B>4)</B> Evasion			2										Next Level x 3<BR>
+	<B>5)</B> <BR>
+	<B>6)</B> 6th Sense			12		   3		(+3 Attack, +6 Will, +6 Inits)	Next Level x 4<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level                                   Misc                     XP Cost                	<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Faith           	    		3        									Next Level x 2<BR>
+	<B>1) </B>Tracking         		3     										Next Level x 2<BR>
+	<B>2)</B> Athletics          		2										Next Level x 2<BR>
+	<B>3)</B> Income            		1										Next Level x 4<BR>
+	<B>4)</B> Finance 			1										Next Level x 3<BR>
+	<B>5)</B> Steel Will			10										<BR>
+	<B>6)</B> <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>      Name                                                    Level                                            XP Cost            	<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></U>	Werewolf Lore						3							NA</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT>   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Hunter</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</I>Bonus Skills       Level        Skill Cost<BR>
+</B>Faith               		3        	Next Level x 2<BR>
+Heavy Arms     	3        	Next Level x 4<BR>
+Reflexes          	3       	Next Level x 2<BR>
+Small Arms      	3 	   	Next Level x 3<BR>
+Tracking         		3     		Next Level x 2<BR>
+Athletics          	2          	Next Level x 2<BR>
+<Breed> Lore  (see below)	Next Level x 6<BR>
+Income            	1        	Next Level x 4<BR>
+Finance 			1		Next Level x 3<BR>
+<B>Advantage:</B>  A hunter may choose a single level of Lore, free of charge.  They also receive a +2 to any mastery resistance roll granted by having level 2 lore in the breed of their aggressor, and +4 to any mastery resistance roll by having level 3 lore in the breed of their aggressor.   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Empathy</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 0 Soul to use.  (##Empathy <target>##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Mind vs. TN 16 / Instant; takes 1 round to activate.<BR>
+<B>Effect/Description: </B> Psychics have learned to read the facial expressions and body language of others.  These insightful individuals can occasionally pinpoint someone else's emotional state just by observing them for a few seconds.  The victim must IM the mortal, describing their emotional state.  Angry, aroused, excited, and distraught are only examples.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Meditation</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 0 Soul to use.  (##Meditation##)</B><BR>
+<B>System/Duration:</B>  NA / see below; takes 15 minutes to activate.<BR>
+<B>Effect/Description:</B>  In order to center themselves and replenish their mental energies after utilizing the power of the mind, a psychic needs to shut themselves off from the world around them and meditate.  By sitting alone and relaxing, concentrating on a candle flame, or some sort of talisman while chanting, the psychic can slowly restore their soul.  They must meditate in the main room.  If they are interrupted (legitimately) for even a moment, the meditation must begin anew.  1 Soul Point may be regained each quarter-hour, going no higher than the original level.  <BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mind Shield</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 0 Soul to use.  (##MindShield##)</B><BR>
+<B>System/Duration:</B>  roll 2d6+Will vs TN 18 / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  It is difficult for a Psychic to keep their wits about them, and even more difficult when outside forces try to penetrate their mind.  By blocking everything out, they can prevent anyone from manipulating their mind, thus adding +3 to their defensive Will rolls.  Because the psychic is so mentally adept, no concentration is necessary to keep this mastery active.  It may only be used once per Scene, but psychics can use any other mastery they own or act as they wish while this one is active.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 0 Soul to use.  (>>::target of Mindspeak:: message<<)</B><BR>
+<B>System/Duration:</B>  NA/NA<BR>
+<B>Effect/Description:</B> By concentrating on a chosen target, the psychic is capable of speaking directly to the creature's mind.  Mortals are unable to return the thoughts.  The target must be within view of the psychic attempting to communicate in this fashion.  Mindspeak can only be used to speak to one individual at a time.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>   </FONT><FONT  SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mental Blast</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use.  (##MentalBlast <victim>##)</B><BR>
+<B>Generation Cost:</B> 15 /<B> Experience Cost:</B> 75<BR>
+<B>System/Duration:  </B>roll 2d6+Will vs victim's 2d6+Will / Instant; takes 1 round to activate.<BR>
+<B>Effect/Description: </B> A few Psychics have found another way to use mindspeak.  By increasing the telepathic flow toward a subject, they can over load their mind.  If this is kept up, or if it is powerful enough, then the target may eventually fall unconscious.  This buildup causes intense feedback, like white noise dealing 5 points of Mind damage.  Due to the great mental force and Psychic energy put into the attack, a Psychic may not perform any masteries the round following a Mental Blast.  The victim must be within line of sight. <BR>
+</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+<B>Breed:</B> Psychic<B><BR>
+Height: </B>(Please Fill in)<BR>
+<B>Weight:</B> (Please Fill in)<B><BR>
+Hair Color:</B> (Please Fill in)<BR>
+<B>Eye Color:</B> (Please Fill in)<BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>   <B><BR>
+(Please Fill in)</FONT><FONT  SIZE=3 PTSIZE=10><I><U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I></U>	<U>Where Spent                Skill/Attribute/Mastery                   Level                       Cost<BR>
+</P><P ALIGN=LEFT></U>       		 <I>Attributes (30) </B></I>:		Body (-1 for Psychic)				9				10<BR>
+							Mind	(+2 for Psychic)				12				10<BR>
+							Soul	(+1 for Psychic)				11			<U>        10</U><BR>
+																			<B><I>30</B></I><BR>
+<BR>
+		<B><I>Skills (80) :</B></I>			Hunter Occupation					free				free<BR>
+								Faith               					3        			free<BR>
+								Reflexes          				3				free<BR>
+								Small Arms      				6				free<BR>
+								Tracking         					3     				free<BR>
+								Athletics          				2				free<BR>
+								Werewolf Lore  				3				free<BR>
+								Income            					1				free<BR>
+								Finance 						1				free<BR>
+							6th Sense						12				36<BR>
+							Steel Will							10				20<BR>
+							Sure Shot						Gift +1			5<BR>
+							Mental Blast						Mastery			15<BR>
+							Evasion							2				4<BR>
+																		<U>		</U><BR>
+																			<B>80<BR>
+</B></HTML>

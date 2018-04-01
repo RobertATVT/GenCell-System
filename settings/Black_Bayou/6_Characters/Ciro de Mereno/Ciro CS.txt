@@ -1,0 +1,113 @@
+^v^     Black Bayou     ^v^
+Mortal
+
+						Player's Screen Name:		Ciro de Moreno
+						Character's Real Name:		Ciro y Dario de Moreno
+						Date of Character Creation:	11/25/01
+						Date of Last Update:		NA
+
+
+^v^    Statistics   ^v^
+
+Body:		5	Mind:		6	Soul:		4
+
+
+^v^    Modifiers   ^v^
+
+
+Attack:          11       Will:               16       Quickness:    9       Initiative:        14     Dodge:          14
+(Body+Mind)	    (Mind+Soul)	      (Soul+Body)     (Q+Reflexes)	   (Q+Evasion)
+
+
+^v^    Skills   ^v^
+
+Name                        Level            Damage                                                                   XP Cost     
+Finance			         3			                                                                         Next Level x 3 
+Income     			 3			                                                                         Next Level x 3 
+Steel Will*			 6			                                                                         Next Level x 2 
+Writing				 4			                                                                         Next Level x 1 
+Lamia Lore			 2			                                                                         Next Level x 6 
+Small Arms			 1			                                                                         Next Level x 3 
+Evasion    			 5			                                                                         Next Level x 3 
+Reflexes  			 5			                                                                         Next Level x 3 
+
+^v^    Occupation   ^v^
+
+Scolar 
+Generation Cost: 18  / Experience Cost: 54 
+Oh yes, I know what it is you speak of.  I've studied them all my life.  Crazy?  No....not at all.  Maybe a bit eccentric in my beliefs and studies, but that doesn't make me any different then you. 
+Bonus Skills             Level                    Skill Cost     
+Finance			         3			Next Level x 3 
+Income     			 3			Next Level x 3 
+Steel Will				 3			Next Level x 2 
+Writing				 3			Next Level x 1 
+<Breed> Lore			 2			Next Level x 6 
+Small Arms			 1			Next Level x 3 
+Advantage: The premise of the scholar is education.  Intelligence far outweighing the physical combat.  These individuals receive a +3 to all Lore rolls made.
+
+^v^    Special Abilities   ^v^
+
+Adrenaline [0 Soul] 
+Room Command: (##Adrenaline##)
+Range: Self
+Roll System: None Required
+Duration/Activation: Instant;takes 0 rounds to activate.
+Effect/Description:  In intense situations, the human body is known to perform above and beyond normal levels.  Stories abound of mothers lifting cars to save their children, or people reacting fast enough to cut in front of a speeding car to save a life.  Seemingly impossible feats brought on by a simple little hormone called adrenaline.  Any one physical roll is made at +8 (must be stated to the ST which roll before use, may not be used to add to mental roll, such as a will roll).  This mastery may only be used once per night.
+
+Luck [0 Soul]
+Room Command: (##LuckRe-roll##)
+Range: Self
+Roll System: None Required
+Duration/Activation: Instant; takes 0 rounds to activate.
+Effect/Description: What is it about mortals that seems to always get them out of trouble at just the right moment?  Whatever it is, this is the tendency for things to fall in place at just the right time.  The user may re-roll any 1 dice roll.  It may not be used to re-roll the same dice roll more than once, and the user must take whatever the second roll is,regardless of the result.  The mortal can only enact this mastery twice per night 
+
+The Gift [0 Soul]
+Room Command: (no room command needed) 
+Range: NA
+Roll System: None Required
+Duration/Activation: NA; takes 0 rounds to activate.
+Effect/Description:  Everyone has that little something they just seem naturally gifted at.  Whether it be juggling, mathematics, or knife throwing, it's there, and it's just waiting to be found.  The player may gain 1 skill at level 3 for no cost, except Lore.  However, they may not use other points to build upon the skill at generation, only later with updates.  This skill must have an * by its name to denote which skill is the Gift.  Should you purchase an Occupational Training type that grants anon-combat skill bonus that you have chosen for your Gift, the bonus levels add to the ones granted by the Gift.  You may only use a skill from the non-combat skill list as your Gift if an occupation gives you additional levels in it during character generation.  If you ever change breeds, you do not lose the levels of the gift unless they interfere with another rule.  For example, if you have Chi it is automatically replaced with the fighting style of the new breed at half its current level.  The levels are still halved as normal, even if it was the Gift. 
+
+^v^    Masteries   ^v^
+
+
+  
+^v^    Physical Despcription   ^v^
+
+Ciro is six foot three inches and he weighs 215 lbs.  He has dark hair and crystal blue eyes that look like thay are frosted over.  He has no tongue and thus cannot speak except through hand language.
+
+
+^v^    Backgrounds   ^v^
+
+
+	Ciro de Moreno, not an uncommon name for his homeland.  The northern regions of Spain held true to the old things in the world.  On the surface Ciro was a normal child, playful, joyful, everything that seemed right in a child.  Upon deeper inspection however, one would see certain odd characteristics of the child.  His eyes were colder than the rich sea blue that ran in his family.  His eyes were like chips of glacial ice, cold and calculating, not warm and inviting like the family trait that had held true for generations.  This was discounted though, certainly this meant he was special, but was it a good thing?
+
+	Ciro was named for the meaning in his name, Bringer of Light, his family training on the small boy's odd eyes.  Through adolescance Ciro had been a quiet child, highly educated,  and pampered.  He never spoke more than a few sentances a day, and when possible he went off to read or spend time alone.  His family attributed it to his "quiet contemplative nature", little did they know that they were almost correct there.  His mind worked unlike others of his age, two or three times his age even.
+
+	He grew older and still his demeanor remained like ice, his heart  distant and lacking warmth.  The rest of his physical qualities grew parallel with that of his family, he grew tall, his skin a deep incredible bronze, and his hair black as the night.  He was physically well shaped, perfectly built in every way.  
+
+	As he grew he was a soul split, great power crackled at his fingertips, if he could only control and harness it, and his eyes were the portal into a darker soul, like his body was filled with some light eating blackness.  It was time... his parents found him that morning in the corner of his room cuddled into a corner, holding something small in his hand, small rivulets of crimson trailed to pool at the floor under him... his head down as he stared off into worlds his parents would never know.  As they called out to him and rushed to his side he looked up... his face was smeared red, deep hateful stains across his bronzed flesh.  His father cried out and grasped his wrist, forcing open his hand as a deep menacing laughter broke from the boy.  He held his tongue clutched in his palm, blood flowing from the fresh tears in the tender pink flesh.  The boy laughed to the skies as his parents faded from consciousness.  He would be on his own... he would free his other half... and his secret would suffer unspoken as long as he lived.
+
+	When he was 12 he had found some strange books in his room, they were filled with an unusual writing.  Recipes and formulae were meticulously written here, and as the years passed he had learned to read most of it.  They were spells, words of power and recipes for rituals and other brews and tinctures.  The books seemed hundreds of years old and one had an label stamped in them.  From some place in the Americas... Some small Island named Voletta. 
+
+	After his parents passed out he had recalled the address, and made his way to his room packing them up and getting plenty of money to live off of for a while.  Who knows what future his road held for him, but he would meet it head on with his silent vigilance, and he would find the cure for his mind.
+
+
+^v^    Experience Point Records   ^v^
+
+XP To Spend:
+Remaining XP After Update:
+
+Type of Experience Earned                                                            DateEarned:
+
+
+
+
+
+Date of Update           Where Spent                       Level                   Total Cost:
+
+
+
+
+
+

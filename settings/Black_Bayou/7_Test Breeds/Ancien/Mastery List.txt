@@ -1,0 +1,56 @@
+<HTML><FONT  COLOR="#804000" SIZE=3 PTSIZE=10 FAMILY="SERIF" FACE="Book Antiqua" LANG="0"><B><U>Anciens</B></U><BR>
+Meditation				(Lamia)<BR>
+Conjure Element		(Ancien)<BR>
+Control Element		(Ancien)<BR>
+Weave Sight			(Ancien)<BR>
+<BR>
+<B><U>General</B></U><BR>
+Animae				(Ancien)<BR>
+Whispers				(Ancien)<BR>
+Far Whispers			(Ancien)<BR>
+Whispers of the Sect		(Ancien)<BR>
+Hive Mind				(Ancien)<BR>
+Unravel				(Ancien)<BR>
+Restructure Flesh		(Ancien)<BR>
+Elemental Shielding 	(Lamia Shield)<BR>
+Animal Mimicry		(Lamia)<BR>
+Raiment				(Lamia)<BR>
+Hat Trick 				(Lamia)<BR>
+Lay Element			(Lamia Charge)<BR>
+Elemental Hand		(Lamia Shock)<BR>
+Elemental Bolt			(Lamia Lightning)<BR>
+<BR>
+<B><U>Earth</B></U><BR>
+Tremors				(Lamia)<BR>
+Burial<BR>
+Mothers Breath<BR>
+Sanctuary<BR>
+<BR>
+<B><U>Air</B></U><BR>
+Whisp				(Spirit Form Lamia)<BR>
+Flight				(Lamia)<BR>
+Stasis				(Lamia)<BR>
+Eyes of the moon<BR>
+<BR>
+<B><U>Fire</B></U><BR>
+Immolation<BR>
+Shroud<BR>
+Fires Kiss			(Lamia)<BR>
+<BR>
+<B><U>Water</B></U><BR>
+Healing<BR>
+Waters Dance<BR>
+Fog<BR>
+Circle of Protection<BR>
+Soul Scrye<BR>
+<BR>
+<B><U>Necromancer</B></U><BR>
+Blight<BR>
+Dark Channels<BR>
+Soul Coffin<BR>
+Rigormortis<BR>
+Necrosis<BR>
+Invoke Spirit<BR>
+<BR>
+<BR>
+</HTML>

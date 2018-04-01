@@ -1,0 +1,50 @@
+<HTML><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0">Subj:	<B>ST Test</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+Date:	08/14/2000 12:50:03 PM Eastern Daylight Time<BR>
+From:	<A HREF="mailto:HOST ANT Bizaro">HOST ANT Bizaro</A><BR>
+To:	<A HREF="mailto:HOST ANT Paradox">HOST ANT Paradox</A><BR>
+Sent on:	AOL 5.0 for Windows sub 119<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=5 PTSIZE=14>ST Trainer test</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=LEFT><BR>
+I know that some of you may not like the idea of having a test to take to become an ST, but this is a list of rules questions that I have had in the last few weeks alone.  This test will be expanded as time goes and eventually newer questions will be compiled and sent to the ST's as spot tests to keep the ST's up with the current game problems so they can deal with them all on a similar wavelength.  For the most part I have confidence that most of you should be on the same length here... but to be sure and avoid the old "Well this ST said it works this way...." type of scenario (which I am confident will still occur) I am going to try this out.<BR>
+<BR>
+#1) If a group of players just entered into a Pause and a PC Police Officer begins RPing their Patrol what Response time do they use? <B>Depends.  If they began their RP after the pause had occured, I would treat as though it were an Officer not on Patrol which would be 4-8 Rounds.  If the they had already RPed going to the cruiser, etc.. I would treat it as Officer -on- patrol which would reduce the response time to 2-4 Rounds.<BR>
+</B><BR>
+#2) Modify these Statistics and Modifiers to reflect a Vampire going into Bat Form:<BR>
+<BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (2) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>6</B></I> </FONT><FONT  SIZE=3 PTSIZE=9>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (9) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>			</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (9) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>8</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>               <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>11</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>17	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12 	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10>#3) What Fighting Style can be used to assist in Grappling an opponent?  <B>By name, Wrestling should, however, by Rulebook, any Style which benefits attack would assist. <BR>
+</B><BR>
+#4) What will you name your ST log if you ST'd a fight on 3/28/99 at 5:21pm?  <B>032899ST1Biz</B><BR>
+<BR>
+#5) What's the TN to carry a person?  <B>Body vs TN 10 (Although it could vary depending on the size of the person)</B><BR>
+<BR>
+#6)  What's the TN To kick down a steel rimmed wooden door?  <B>Body vs TN 10</B><BR>
+<BR>
+#7) Two people are fighting in the woods, it's overcast and the ground is wet.  On top of all that it's getting to be around Dusk.  What Penalties would they have?  <B>-4 to attack and Dodge because of the overcast and the trees obscuring light.  <BR>
+</B><BR>
+#8) Same as above, but it's winter and the ground is heavily iced over?  <B>-2 to attack and dodge for the slippery nature of the scenery.</B><BR>
+<BR>
+#9) A Vampire is standing 6 feet from another PC and wishes to use Hypnosis, the other character has their back to him/her.  What does the vampire have to do in order to use the mastery? <B>Roll Mind vs Body in a Forced Eye Contact Roll. </B><BR>
+<BR>
+#10) Can non Active CS's take part in an ST'd event?  If so under what circumstances?<BR>
+	<B>Yes.  The Player in question would be given a generic NPC Model CS.  </B><BR>
+#11) A Werewolf is using Scent Recognition and fails the first roll.  Can they use the mastery again to get a second try?  If they can what are the penalties to that second roll.  Is there a third try?  What modifiers can be put onto the use of Scent recognition?<BR>
+	<B>A Scent Recongition Roll can be attempted as many times as Soul allows.  Because the modifiers used for SR are Mind and Body no penalty would be applied.  Situation: William Werewolf is memorizing the Scent of Michael Mortal.  William Failed has a total of 5 Soul points and failed the first attempt at the roll.  This would put William at - 1 to Soul.  William can continue to attempt the SR until he runs out of Soul. </B><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</FONT><FONT  SIZE=3 PTSIZE=10><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#008000" SIZE=7 PTSIZE=36 FAMILY="SERIF" FACE="Webdings" LANG="0">s</FONT><FONT  COLOR="#800000" SIZE=6 PTSIZE=24 FAMILY="SERIF" FACE="Poor Richard" LANG="0"><B>HOST ANT Bizaro</FONT><FONT  COLOR="#008000" SIZE=7 PTSIZE=36 FAMILY="SERIF" FACE="Webdings" LANG="0"></B>s</FONT><FONT  SIZE=7 PTSIZE=48><BR>
+</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=18 FAMILY="SERIF" FACE="Times New Roman" LANG="0">Not the Riddler, but still confusing.<BR>
+</FONT><FONT  COLOR="#0000ff" BACK="#fefefe" SIZE=2 PTSIZE=8 FAMILY="SANSSERIF" FACE="Arial" LANG="0"><B>HOST ANT Chai:	</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B> </FONT><FONT  COLOR="#800000" BACK="#FFFFFF" SIZE=3 PTSIZE=10>You are soooooo wacked. </FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=18 FAMILY="SERIF" FACE="Times New Roman" LANG="0"><BR>
+</FONT><FONT  SIZE=5 PTSIZE=16 FAMILY="SANSSERIF" FACE="News Gothic MT" LANG="0"><B>~Room Host~ ~Background Assisstant~</FONT><FONT  SIZE=3 PTSIZE=10 FAMILY="SANSSERIF" FACE="Arial" LANG="0"></B><BR>
+</P><P ALIGN=LEFT></HTML>

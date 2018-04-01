@@ -1,0 +1,130 @@
+<HTML></P><P ALIGN=CENTER><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I><BR>
+^v^</FONT><FONT  COLOR="#a0a0a8" SIZE=3 PTSIZE=10></I> </FONT><FONT  COLOR="#800040" SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10>   </FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Black Bayou</FONT><FONT  COLOR="#000000" SIZE=5 PTSIZE=16> </FONT><FONT  SIZE=3 PTSIZE=10></B></I>    </FONT><FONT  COLOR="#808080" SIZE=3 PTSIZE=10><I>^v^</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I><BR>
+</FONT><FONT  COLOR="#400040" SIZE=5 PTSIZE=16><B><I>Level 5 Hunter NPC<BR>
+</FONT><FONT  SIZE=4 PTSIZE=11>Silver Future GWSL ~ Ghoul Psychic Hunter</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></B></I><BR>
+</P><P ALIGN=LEFT>   <B><BR>
+</P><P ALIGN=CENTER></FONT><FONT  SIZE=2 PTSIZE=8></B>Player's Screenname: <B>C Witherson<BR>
+</B>Character's Real Name:<B> C Witherson<BR>
+</B>Date of Character Creation<B>: NA<BR>
+</B>Date of Last Update:<B> NA</FONT><FONT  SIZE=3 PTSIZE=10></B><BR>
+   <BR>
+   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Statistics</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9><I> </FONT><FONT  SIZE=2 PTSIZE=8>Body (??xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>12</B></I>	</FONT><FONT  SIZE=2 PTSIZE=8><I>Mind (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		</FONT><FONT  SIZE=2 PTSIZE=8><I>Soul (?? xp) ~</FONT><FONT  SIZE=3 PTSIZE=9></I> </FONT><FONT  SIZE=5 PTSIZE=14><B><I>9</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=LEFT><I>        <BR>
+</I>   <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Modifiers</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=10></I></U><BR>
+   </FONT><FONT  SIZE=2 PTSIZE=8></B><BR>
+</FONT><FONT  SIZE=3 PTSIZE=9>Attack ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>24</FONT><FONT  SIZE=3 PTSIZE=9></B></I>		Will ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>18	</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Quickness ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>21		</FONT><FONT  SIZE=3 PTSIZE=9></B></I>Initiative ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>31</FONT><FONT  SIZE=3 PTSIZE=9></B></I>	Dodge ~ </FONT><FONT  SIZE=5 PTSIZE=14><B><I>28</FONT><FONT  SIZE=2 PTSIZE=8></B></I><BR>
+<I>(Body+Mind)		(Mind+Soul)		(Soul+Body)		(Q+Reflexes)		(Q+Evasion)<BR>
+</P><P ALIGN=LEFT></I><BR>
+</P><P ALIGN=CENTER>   <BR>
+</FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level       Damage                    Misc                     XP Cost               </FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+   	</FONT><FONT  SIZE=2 PTSIZE=8><B>0)</B> Small Arms      		12		   3						 	   	</FONT><FONT  SIZE=3 PTSIZE=9><BR>
+    </FONT><FONT  SIZE=2 PTSIZE=8>	<B>1)</B> Sure Shot			4					<BR>
+   	<B>2)</B> <BR>
+	<B>3)</B> Reflexes          		6       									<BR>
+	<B>4)</B> *Evasion*			3<BR>
+	<B>5)</B> <BR>
+	<B>6)</B> Chi				12		   3		(+3 Attack, +6 Inits, +6 Dode)	Next Level x 4<BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Non - Combat Skills</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>        Name                 Level                                   Misc                     XP Cost                	<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U>   	<B>0)</B> Faith           	    		3        									Next Level x 2<BR>
+	<B>1) </B><BR>
+	<B>2)</B> Athletics          		2										Next Level x 2<BR>
+	<B>3)</B> <BR>
+	<B>4)</B> <BR>
+	<B>5)</B> <BR>
+	<B>6)</B> <BR>
+<BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Lores</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+   	</FONT><FONT  COLOR="#400040" SIZE=3 PTSIZE=9><B><I><U>      Name                                                    Level                                            XP Cost            	<BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></U>	Lamia Lore							3							NA</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=LEFT>   </FONT><FONT  SIZE=2 PTSIZE=8><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Occupation</FONT><FONT  COLOR="#000000" SIZE=3 PTSIZE=9></B></I></U><BR>
+</P><P ALIGN=LEFT></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Hunter</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8><BR>
+</I>Bonus Skills       Level        Skill Cost<BR>
+</B>Faith               		3        	Next Level x 2<BR>
+Reflexes          	3       	Next Level x 2<BR>
+Weapon of Choice 	6 	   	Next Level x 3<BR>
+Tracking         		3     		Next Level x 2<BR>
+Athletics          	2          	Next Level x 2<BR>
+<Breed> Lore  (see below)	Next Level x 6<BR>
+Income            	1        	Next Level x 4<BR>
+Finance 			1		Next Level x 3<BR>
+<B>Advantage:</B>  A hunter may choose a single level of Lore, free of charge.  They also receive a +2 to any mastery resistance roll granted by having level 2 lore in the breed of their aggressor, and +4 to any mastery resistance roll by having level 3 lore in the breed of their aggressor.   <BR>
+   </FONT><FONT  SIZE=3 PTSIZE=9><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Special Abilities</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</P><P ALIGN=JUSTIFY></FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Confidence</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 2 Soul to use.  (##Confidence##)</B><BR>
+<B>System/Duration: </B> roll 2d6 + Mind vs TN: 16 / Scene; takes 1 turn to activate.<BR>
+<B>Effect/Description:</B>  The ghoul is a confident creature in most situations, almost to the point of arrogance.  This confidence, when firmly believed in can strengthen the Will of the ghoul, granting it a bonus of +3 Will.  This confidence is removed the moment the ghoul fails to avoid an attack or mastery for the rest of the night, or fails any other dice roll, as its confidence is now shaken.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Mindspeak</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> - 1 Soul to use. (>>::master:: message<<)</B><BR>
+<B>System/Duration: </B> NA / Scene; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  The Ghoul and their Vampire master have created a blood bond.  With this bond, the Ghoul has a very limited form of Mindspeak.  They may only communicate with their master, and only when within sight.  The Ghoul may only transmit mental thoughts, and only to their master, and only while under the effects of ghouling.  <BR>
+  </FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I><BR>
+Night Vision</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use.  (no room command needed)</B><BR>
+<B>System/Duration:  </B>NA / Scene; takes 1 round to activate.<BR>
+<B>Effect/Description:  </B>The ghoul can see twice as far as a normal human can.  In addition, when the lighting is low, or near total darkness, the vision of the ghoul takes on the effects of infrared-vision.  Unable to make out detail, the ghoul can discern between animate and inanimate objects, sensing their red or blue glow, respectively.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Recovery</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 1 Soul to use.  (no room command necessary)</B><BR>
+<B>System/Duration:</B>  roll 2d6 + Soul vs. TN 10 / Instant; takes 0 rounds to activate.<BR>
+<B>Effect/Description: </B> A ghoul will recover from damage taken in battle in a most unique way.  When taken to 0 Body, a ghoul can summon one last burst of energy.  After they spend the point of soul, the player makes the roll listed above.  For every point above the target number they score, their character regains 1 point of Body.  No character may raise their Body higher than it's normal maximum.  This ability may only be used once per night.<BR>
+<BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Speed of the Cobra</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8> </I>- 2 Soul to use. (##CobraSpeed##)</B><BR>
+<B>System/Duration:</B>  roll 2d6 + Body vs TN 16 / Scene; this mastery takes 1 round to activate.<BR>
+<B>Effect/Description:</B>  The body of the ghoul posses a supernatural quickness which allows it to react faster than normal.  This mastery adds +3 to all defensive rolls (i.e. Evasion and Reflexes).<BR>
+</P><P ALIGN=LEFT></FONT><FONT  SIZE=3 PTSIZE=10>   </FONT><FONT  SIZE=2 PTSIZE=8><U><BR>
+</P><P ALIGN=CENTER></FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I>Masteries</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+</FONT><FONT  COLOR="#400040" SIZE=2 PTSIZE=8><B><I>Ambidextrous</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I> -1 Soul each use.  (##Ambidex##)<BR>
+Generation Cost: </B>20<B> / Experience Cost </B>100<B><BR>
+System/Duration: </B> NA / Scene; takes 0 rounds to activate.<BR>
+<B>Effect/Description:</B>  To some, nature bestows special gifts.  These people have the unique ability of using both hands equally well.  The character may take 2 attacks per round, one with each hand.  These attacks are limited to small bladed, small arms, non-lethal attacks and hand-to-hand fighting, as the rest of the skills tend to require the use of two hands.  The attack made with the regular hand is rolled normally and the attack made with the second hand is made with -4 to attack.  The defender is allowed to dodge normally, taking a -2 penalty for each attack after the first for the round.  i.e. If DavisMason is dodging this mortal as his first dodge for the round, he dodges the first attack normally.  The dodge for the second attack is at -2.  Each dodge after that suffers a -2 penalty as normal.<BR>
+</FONT><FONT  SIZE=3 PTSIZE=10> </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U><BR>
+</P><P ALIGN=CENTER>Physical Description</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT>   <BR>
+<B>Breed:</B> Angel<B><BR>
+Height: </B>(Please Fill in)<BR>
+<B>Weight:</B> (Please Fill in)<B><BR>
+Hair Color:</B> (Please Fill in)<BR>
+<B>Eye Color:</B> (Please Fill in)<BR>
+   <BR>
+<B><U>Physical Description<BR>
+</B></U>   <B><BR>
+(Please Fill in)</FONT><FONT  SIZE=3 PTSIZE=10><I><U><BR>
+</FONT><FONT  SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Background<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></B></I></U><BR>
+</P><P ALIGN=LEFT><BR>
+  <BR>
+</P><P ALIGN=CENTER>   </FONT><FONT  COLOR="#400040" SIZE=4 PTSIZE=12><B><I><U>Experience Point Record<BR>
+<BR>
+</FONT><FONT  COLOR="#000000" SIZE=2 PTSIZE=8></I></U>	<U>Where Spent                Skill/Attribute/Mastery                   Level                       Cost<BR>
+</P><P ALIGN=LEFT></U>       		 <I>Attributes (30) </B></I>:		Body (+2 for Ghoul)				12				10<BR>
+							Mind	(-1 for Ghoul)					9				10<BR>
+							Soul	(-1 for Ghoul)					9			<U>        10</U><BR>
+																			<B><I>30</B></I><BR>
+<BR>
+		<B><I>Skills (80) :</B></I>			Hunter Occupation					free				free<BR>
+								Faith               					3        			free<BR>
+								Reflexes          				3				free<BR>
+								Small Arms      				6				free<BR>
+								Sure Shot       					4     				free<BR>
+								Athletics          				2				free<BR>
+								Demon Lore  					3				free<BR>
+							Chi								12				36<BR>
+							Large Melee						+6				18<BR>
+							Ambidextrous						Mastery			20<BR>
+							Reflexes 							+3				6<BR>
+							*Evasion* 						3			<U>       free       </U><BR>
+																			<B>80<BR>
+<BR>
+</B></HTML>
