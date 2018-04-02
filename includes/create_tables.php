@@ -17,9 +17,39 @@ function create_tables() {
     global $wpdb;
     require_once(ABSPATH . 'wp-admin/includes/upgrade.php');
 	$current_prefix = $wpdb->base_prefix;
-    $table_name = $current_prefix.'gencell_characters';
+    $table_name = 'gencell_characters';
     $charset_collate = $wpdb->get_charset_collate();
     if ($wpdb->get_var("SHOW TABLES LIKE '".$table_name."'") != $table_name) {
+        $sql = "CREATE TABLE ".$table_name." (
+        FZVFORG_OWNER varchar(2) NOT NULL,
+        FZVFORG_ORGN_CODE varchar(6) NOT NULL,
+        FZVFORG_ORGN_TITLE varchar(35) NOT NULL,
+        FZVFORG_LOCN_CODE varchar(9) NOT NULL,
+        FZVFORG_ROOM varchar(35) NOT NULL,
+        FZVFORG_BLDG varchar(35) NOT NULL,
+        FZVFORG_SORT_ROOM varchar(40) NOT NULL,
+        FZVFORG_PTAG varchar(9) NOT NULL,
+        FZVFORG_MANUFACTURER varchar(35) NOT NULL,
+        FZVFORG_MODEL varchar(30) NOT NULL,
+        FZVFORG_SERIAL_NUM varchar(40) NOT NULL,
+        FZVFORG_DESCRIPTION varchar(60) NOT NULL,
+        FZVFORG_CUSTODIAN varchar(4000) NOT NULL,
+        FZVFORG_PO varchar(8) NOT NULL,
+        FZVFORG_ACQ_DATE varchar(20) NOT NULL,
+        FZVFORG_AMOUNT decimal(13,2) NOT NULL,
+        FZVFORG_OWNERSHIP varchar(35) NOT NULL,
+        FZVFORG_SCHEV_YEAR  varchar(2) NOT NULL,
+        FZVFORG_TAG_TYPE varchar(6) NOT NULL,
+        FZVFORG_ASSET_TYPE varchar(2) NOT NULL,
+        FZVFORG_CONDITION varchar(10) NOT NULL,
+        FZVFORG_ATYPE_TITLE varchar(20) NOT NULL,
+        FZVFORG_LAST_INVENTORY_DATE varchar(30) NOT NULL,
+        PRIMARY KEY  (FZVFORG_PTAG)
+        ) ".$charset_collate.";";
+        require_once ( ABSPATH . 'wp-admin/includes/upgrade.php' );
+        dbDelta( $sql );
+    }		
+/*    if ($wpdb->get_var("SHOW TABLES LIKE '".$table_name."'") != $table_name) {
         $sql = "CREATE TABLE ".$table_name." (
         CHR_ID INT NOT NULL AUTO_INCREMENT,
 		GENCELL_PLAYER varchar(128) NOT NULL,
@@ -106,5 +136,5 @@ function create_tables() {
         ) ".$charset_collate.";";
         require_once ( ABSPATH . 'wp-admin/includes/upgrade.php' );
         dbDelta( $sql );
-    }
+    }*/
 }
