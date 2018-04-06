@@ -2,7 +2,7 @@
 /*
 * Plugin Name: Antagonist Games Gen-Cell System
 * Plugin URI: http://antagonistgames.com
-* Description: The OFficial Antagonist Games, Inc. Gen_CelL System Plugin for a live rulebook and character sheet generator.
+* Description: The Official Antagonist Games, Inc. Gen-Cell System Plugin for a live rulebook and character sheet generator.
 * Version: 0.01
 * Author: Robert Vaughan
 * Author URI: http://antagonistgames.com
