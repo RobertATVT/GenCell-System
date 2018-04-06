@@ -4,6 +4,25 @@ body {
 
 }
 
+.entry-header {
+    margin-bottom: 0px !important;
+}
+.entry-content {
+    margin-top: 0px !important;
+}
+.entry-wrap {
+    padding: 10px !important;
+    border-radius: 2px;
+}
+.x-container.max {
+    max-width: 100% !important;
+}
+.x-container.width {
+    width: 100% !important;
+}
+.x-container.offset {
+    margin: 0px auto !important;
+}
 
 /*==========  Mobile First Method  ==========*/
 
