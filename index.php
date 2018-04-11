@@ -66,7 +66,7 @@ register_activation_hook( __FILE__, 'gencell_activate_plugin' );
 //Shortcode
 //add_shortcode( 'causfa', 'causfa_load_employee_view'); //shortcode for the main page of the app
 //add_shortcode( 'causfa_test', 'causfa_groups_FAL'); //shortcode for a dev space to test functionality
-add_shortcode( 'gencell', 'gencell_load_app'); //shortcode for the main page of the app
+add_shortcode( 'gencell', 'gencell_load_view'); //shortcode for the main page of the app
 add_shortcode( 'gencell-test', 'gencell-load-test'); //shortcode for a dev space to test functionality
 
 

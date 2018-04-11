@@ -6,8 +6,8 @@
 
     <title>Your page title</title>
     
-    <link href="css/paradox.css" rel="stylesheet" type="text/css">
-    <link href="css/style.css" rel="stylesheet" type="text/css">
+    <link href="Paradox-Grid/paradox.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/style.css" rel="stylesheet" type="text/css">
 	
 
 </head> 
@@ -18,8 +18,8 @@
 				<div id="sidenav-top" class="cl t24 h7-text charcoal pl15" style="line-height: 59px;">[PLAYER NAME]</div>
 			</div>
 			<ul style="margin: 0px; padding: 2px;">
-				<li class="lh40 pl15 ubuntu">Player Profile</li>
-				<li class="lh40 pl15 ubuntu">Character Sheets</li>
+				<li class="lh40 pl15 ubuntu" id="loadPlayer">Player Profile</li>
+				<li class="lh40 pl15 ubuntu" id="loadCharacters">Character Sheets</li>
 				<li class="lh40 pl15 ubuntu">Games</li>
 				<li class="lh40 pl15 ubuntu">Settings</li>
 			</ul>
@@ -32,22 +32,23 @@
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadPlayer()" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></a>
+					<!--<button onclick="loadPlayer()" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></button>-->
+                    <button id="loadPlayer-button" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadCharacters()" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-file-alt"></i></a>
+					<button id="loadCharacters-button" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-file-alt"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadGames()" class="side-icons dk-grey lh40"><i class="fas fa-users"></i></a>
+					<button id="loadGames" class="side-icons dk-grey lh40"><i class="fas fa-users"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadSettings()" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-globe"></i></a>
+					<button id="loadSettings" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-globe"></i></button>
 				</div>
 			</div>
 		</div>
@@ -111,22 +112,19 @@
 					<div class="cl t24 p5">
 						<div class="rw card-container b-white p5">
 							<div class="cl t24 card-header t-blue ubuntu">Rulebook</div>
-							<div class="cl t24 card-body p10">
-							</div>
+							<div id="main-content" class="cl t24 card-body p10"><div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
-	
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-	<script src="js/paradox.js"></script>
-	<script src="js/main.js"></script>
-	<script src="js/waves.js"></script>
+	<script src="Paradox-Grid/paradox.js"></script>
+	<script src="Paradox-Grid/waves.js"></script>
+    <script src="assets/js/main.js"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <script src="https://unpkg.com/tippy.js@2.4.1/dist/tippy.all.min.js"></script>
 
