@@ -10,7 +10,7 @@
 */
 
 function gencell_load_view (){
-	if (isset($_SESSION['gencell_view']) {
+	if (isset($_SESSION['gencell_view'])) {
         switch ($view){
             case "home":
                 return gencell_load_home();
@@ -39,7 +39,7 @@ function gencell_load_view (){
  * This function is linked to the [causfa] shortcode. This function loads an individuals asset view
  * and connects the javascript functions for modal and toggle functionality
  */
-function gencell_load_app($page) {
+function gencell_load_app() {
     global $wpdb;
     $current_user = wp_get_current_user();
     $_SESSION['user'] = $current_user->user_nicename;
@@ -49,7 +49,8 @@ function gencell_load_app($page) {
 //        return causfa_new_custodian_dialog();
 //    } else {
 //    $output = apply_filters('gencell_header', $result_user);
-    $output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates\gencell-index.html', true ));
+    $output = (file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates\gencell-index.html', true ));
+	$output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates\gencell-modal.html', true));
 //    $results_assets = $wpdb->get_results('SELECT * FROM causfa_banner WHERE FZVFORG_CUSTODIAN = "'.$result_user->Name.'";');
 //    $value_total = 0.00;
 //        $missing_total = 0.00;
@@ -82,7 +83,7 @@ function gencell_load_app($page) {
 //    }
 }
 
-function gencell_load_player($page) {
+function gencell_load_player() {
     global $wpdb;
     $current_user = wp_get_current_user();
     $_SESSION['user'] = $current_user->user_nicename;

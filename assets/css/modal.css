@@ -1,0 +1,64 @@
+.modal {
+    width: 45% !important;
+    margin:0 auto;
+    display: none;
+    border: none;
+    border-radius: 3px !important;
+    position: fixed;
+    left: 0;
+    right:0;
+    top: 50% !important; 
+    overflow-y: visible !important;
+
+    -webkit-transform:translateY(-50%);
+    -moz-transform:translateY(-50%);
+    -ms-transform:translateY(-50%);
+    -o-transform:translateY(-50%);
+    transform:translateY(-50%) !important;
+}
+.modal .modal-content {
+    padding: 0px !important;
+}
+.faa-modal-content {
+    background: #efefef;
+    border: 1px solid #333;
+    border-radius: 5px;
+    padding: 0px;
+}
+.faa-modal-title {
+    background: #333;
+    line-height: 35px;
+    color: #fff;
+    padding: 10px;
+    margin-bottom: 0px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+}
+.faa-modal-header{
+    padding: 0px;
+    border-top-left-radius: 3px;
+}
+.faa-modal-header button {
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    padding: 5px;
+    color: #fff;
+    background: rgba(0,110,255,1);
+    border-radius: 0px;
+    opacity: 1;
+}
+.faa-modal-body {
+    padding: 30px;
+    padding-bottom: 0px;
+}
+.faa-modal-info {
+    border: 1px solid #aaa; 
+    padding: 10px; 
+    background: #fff; 
+    border-radius: 0px;
+}
+.modal .modal-footer {
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}

@@ -1,5 +1,7 @@
 @charset "utf-8";
 
+@import 'modal.css';
+
 body {
 
 }
@@ -22,6 +24,11 @@ body {
 }
 .x-container.offset {
     margin: 0px auto !important;
+}
+.side-icons {
+	background: none;
+	border: none;
+	outline: none;
 }
 
 /*==========  Mobile First Method  ==========*/

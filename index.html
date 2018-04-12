@@ -8,7 +8,6 @@
     
     <link href="Paradox-Grid/paradox.css" rel="stylesheet" type="text/css">
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-	
 
 </head> 
 <body>
@@ -66,7 +65,9 @@
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" onclick="characterModalRequested()">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
@@ -112,7 +113,7 @@
 					<div class="cl t24 p5">
 						<div class="rw card-container b-white p5">
 							<div class="cl t24 card-header t-blue ubuntu">Rulebook</div>
-							<div id="main-content" class="cl t24 card-body p10"><div>
+							<div id="main-content" class="cl t24 card-body p10"></div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
@@ -120,6 +121,51 @@
 			</div>
 		</div>
 	</div>
+	<div id="characterModal" class="modal">
+		<div class="modal-content">
+			<h4 class="center faa-modal-title">Asset Transfer</h4> 
+			<div class="rw" style="padding: 10px; margin-bottom: 0px;">
+				<div class="rw faa-modal-info" style="margin-bottom: 0px;">
+					<div class="cl m3 t20 info-title" style="padding: 0px;">VT Tag Number:</div>
+					<div class="cl m6 t20"><span class="asset-tag"></span></div>
+					<div class="cl m3 t20 info-title" style="padding: 0px;">Description: </div>
+					<div class="cl m8 t20"><span class="asset-description"></span></div>
+				</div>
+			</div>
+			<div class="rw" style="padding: 10px;margin-bottom: 0px; margin-top: -10px;">
+				<div class="rw faa-modal-info" style="margin-bottom: 0px">
+					<form autocomplete="off">
+						<div class="center cl t20 form-group" style="padding: 0px;">
+							<label for="recipient-name" class="form-control-label info-title" style="font-size: 150%; text-align: center;">RECEIVER NAME</label>
+							<input type="text" class="awesomplete" id="recipient-name" list="PIDs"-+>
+							<datalist id="PIDs"></datalist>
+							<input type="hidden" id="transferIndex" value="" />
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="rw" style="margin-bottom: 0px;padding: 10px; margin-top: -10px;">
+				<div class="cl m20 faa-modal-info" style="padding: 10px;padding-bottom: 0px;">
+					<p class="center info-title">Please enter the PID of the person that you wish to transfer this asset to and then click Submit to alert your IT and Fixed Assets Liaison to facilitate the transfer.</p>
+				</div>
+			</div>
+		</div>
+		<div class="modal-footer">
+			<div class="rw">
+				<div class="center cl t10 hide-medium-up">
+					<button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
+				</div>
+				<div class="center cl t10 hide-medium-up">
+					<button type="button" class="btn btn-secondary modal-close">Cancel</button>
+				</div>
+				<div class="cl m20 hide-small-down">
+					<button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
+					<button type="button" class="btn btn-secondary modal-close">Cancel</button>
+				</div>
+			</div>
+		</div>
+	</div>	
+	
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 	<script src="Paradox-Grid/paradox.js"></script>

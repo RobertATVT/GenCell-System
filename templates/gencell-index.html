@@ -4,8 +4,8 @@
 				<div id="sidenav-top" class="cl t24 h7-text charcoal pl15" style="line-height: 59px;">[PLAYER NAME]</div>
 			</div>
 			<ul style="margin: 0px; padding: 2px;">
-				<li class="lh40 pl15 ubuntu">Player Profile</li>
-				<li class="lh40 pl15 ubuntu">Character Sheets</li>
+				<li class="lh40 pl15 ubuntu" id="loadPlayer">Player Profile</li>
+				<li class="lh40 pl15 ubuntu" id="loadCharacters">Character Sheets</li>
 				<li class="lh40 pl15 ubuntu">Games</li>
 				<li class="lh40 pl15 ubuntu">Settings</li>
 			</ul>
@@ -18,28 +18,29 @@
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadPlayer()" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></a>
+					<!--<button onclick="loadPlayer()" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></button>-->
+                    <button id="loadPlayer-button" class="side-icons dk-grey lh40" ><i class="fas fa-user"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadCharacters()" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-file-alt"></i></a>
+					<button id="loadCharacters-button" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-file-alt"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadGames()" class="side-icons dk-grey lh40"><i class="fas fa-users"></i></a>
+					<button id="loadGames" class="side-icons dk-grey lh40"><i class="fas fa-users"></i></button>
 				</div>
 			</div>
 			<div class="rw">
 				<div class="cl t24">
-					<a onclick="loadSettings()" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-globe"></i></a>
+					<button id="loadSettings" class="side-icons dk-grey lh40" style="font-size:18px;"><i class="fas fa-globe"></i></button>
 				</div>
 			</div>
 		</div>
 		<div id="main-body" class="p10 b-grey-l2" onclick="">
 			<div class="rw">
-				<div class="cl t24 p5 h1-text center text3d pb20">GEN-Cell Player Dashboard</div>
+				<div class="cl t24 p5 h1-text center text3d pb20">GEN-Cell System Dashboard</div>
 				<div class="cl t24 lh10" style="border-top: 2px solid rgba(0,0,0,.1)">&nbsp;</div>
 			</div>
 			<div class="rw">
@@ -51,7 +52,9 @@
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" onclick="characterModalRequested(this)">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
@@ -97,14 +100,11 @@
 					<div class="cl t24 p5">
 						<div class="rw card-container b-white p5">
 							<div class="cl t24 card-header t-blue ubuntu">Rulebook</div>
-							<div class="cl t24 card-body p10">
-							</div>
+							<div id="main-content" class="cl t24 card-body p10"></div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
 				</div>
-
 			</div>
 		</div>
 	</div>
-	
