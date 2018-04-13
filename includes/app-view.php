@@ -49,8 +49,8 @@ function gencell_load_app() {
 //        return causfa_new_custodian_dialog();
 //    } else {
 //    $output = apply_filters('gencell_header', $result_user);
-    $output = (file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates\gencell-index.html', true ));
-	$output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates\gencell-modal.html', true));
+    $output = (file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates/gencell-index.html', true ));
+	$output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'templates/gencell-modal.html', true));
 //    $results_assets = $wpdb->get_results('SELECT * FROM causfa_banner WHERE FZVFORG_CUSTODIAN = "'.$result_user->Name.'";');
 //    $value_total = 0.00;
 //        $missing_total = 0.00;
