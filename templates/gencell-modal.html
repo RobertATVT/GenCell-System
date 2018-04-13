@@ -1,18 +1,18 @@
 <div id="characterModal" class="modal">
     <div class="modal-content">
-        <h4 class="center faa-modal-title">Asset Transfer</h4> 
+        <h4 class="center faa-modal-title">Character Creation</h4> 
         <div class="rw" style="padding: 10px; margin-bottom: 0px;">
             <div class="rw faa-modal-info" style="margin-bottom: 0px;">
-                <div class="cl m3 t20 info-title" style="padding: 0px;">VT Tag Number:</div>
-                <div class="cl m6 t20"><span class="asset-tag"></span></div>
-                <div class="cl m3 t20 info-title" style="padding: 0px;">Description: </div>
-                <div class="cl m8 t20"><span class="asset-description"></span></div>
+                <div class="cl m4 t24 info-title" style="padding: 0px;">VT Tag Number:</div>
+                <div class="cl m7 t24"><span class="asset-tag"></span></div>
+                <div class="cl m4 t24 info-title" style="padding: 0px;">Description: </div>
+                <div class="cl m9 t24"><span class="asset-description"></span></div>
             </div>
         </div>
         <div class="rw" style="padding: 10px;margin-bottom: 0px; margin-top: -10px;">
             <div class="rw faa-modal-info" style="margin-bottom: 0px">
                 <form autocomplete="off">
-                    <div class="center cl t20 form-group" style="padding: 0px;">
+                    <div class="center cl t24 form-group" style="padding: 0px;">
                         <label for="recipient-name" class="form-control-label info-title" style="font-size: 150%; text-align: center;">RECEIVER NAME</label>
                         <input type="text" class="awesomplete" id="recipient-name" list="PIDs"-+>
                         <datalist id="PIDs"></datalist>
@@ -22,20 +22,20 @@
             </div>
         </div>
         <div class="rw" style="margin-bottom: 0px;padding: 10px; margin-top: -10px;">
-            <div class="cl m20 faa-modal-info" style="padding: 10px;padding-bottom: 0px;">
+            <div class="cl m24 faa-modal-info" style="padding: 10px;padding-bottom: 0px;">
                 <p class="center info-title">Please enter the PID of the person that you wish to transfer this asset to and then click Submit to alert your IT and Fixed Assets Liaison to facilitate the transfer.</p>
             </div>
         </div>
     </div>
     <div class="modal-footer">
         <div class="rw">
-            <div class="center cl t10 hide-medium-up">
+            <div class="center cl t12 hide-medium-up">
                 <button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
             </div>
-            <div class="center cl t10 hide-medium-up">
+            <div class="center cl t12 hide-medium-up">
                 <button type="button" class="btn btn-secondary modal-close">Cancel</button>
             </div>
-            <div class="cl m20 hide-small-down">
+            <div class="cl m24 hide-small-down">
                 <button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
                 <button type="button" class="btn btn-secondary modal-close">Cancel</button>
             </div>

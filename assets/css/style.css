@@ -31,6 +31,45 @@ body {
 	outline: none;
 }
 
+/* MATERIALIZE CHANGES */
+
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea {
+    background-color: #f6f6f6;
+    border: 1px solid #9e9e9e;
+    border-bottom: 2px solid #9e9e9e;
+    height: 2rem;
+    text-align: center;
+}
+input:not([type]):focus:not([readonly]), input[type=text]:not(.browser-default):focus:not([readonly]), input[type=password]:not(.browser-default):focus:not([readonly]), input[type=email]:not(.browser-default):focus:not([readonly]), input[type=url]:not(.browser-default):focus:not([readonly]), input[type=time]:not(.browser-default):focus:not([readonly]), input[type=date]:not(.browser-default):focus:not([readonly]), input[type=datetime]:not(.browser-default):focus:not([readonly]), input[type=datetime-local]:not(.browser-default):focus:not([readonly]), input[type=tel]:not(.browser-default):focus:not([readonly]), input[type=number]:not(.browser-default):focus:not([readonly]), input[type=search]:not(.browser-default):focus:not([readonly]), textarea.materialize-textarea:focus:not([readonly]) {
+    border-bottom: 2px solid #E87722;
+    -webkit-box-shadow: 0 1px 0 0 #E87722;
+    box-shadow: 0 1px 0 0 #E87722;
+}
+input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea {
+    height: 1.5rem !important;
+    border: 1px solid #ccc !important;
+    width: 80% !important;
+}
+select {
+    display:inherit !important;
+    background-color: #f6f6f6;
+    border: 1px solid #9e9e9e;
+    border-bottom: 2px solid #9e9e9e;
+    height: 1.5rem !important;
+    text-align: center;
+    padding: 0px !important;
+    width: 95% !important;
+}
+select:focus {
+    outline: 1px solid #75787B;
+}
+
+select#org option:hover {
+    background-color: #ED8B00 !important;
+    box-shadow: 0 0 10px 100px #1882A8 inset !important;
+}
+
+
 /*==========  Mobile First Method  ==========*/
 
 /* Custom, iPhone Retina */ 

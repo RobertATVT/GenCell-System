@@ -17,13 +17,26 @@ jQuery(document).ready(function($){
 	$("#loadPlayer-li").on("click", function(){
 		$("#main-content").load("./settings/Black_Bayou/1a_Intro.html");
 	});
-	$("#loadCharacters").on("click", function(){
-		document.getElementById("main-content").innerHTML='';
-	});
 	$("#loadCharacters-button").on("click", function(){
 		document.getElementById("main-content").innerHTML='';
 	});
+	$("#loadCharacters-li").on("click", function(){
+		document.getElementById("main-content").innerHTML='';
+	});
 });
+
+function adjustCPL(adjCPL) {
+    var setCPL = document.getElementById("valueBPs").value;
+    var adjustCPL = adjCPL.value;
+    var newCPL = document.getElementById("valueBPs").value;
+    var newCPL = newCPL - adjustCPL;
+    document.getElementById("valueBPs").value = newCPL;
+}
+
+function setCPL(valCPL) {
+    var valueCPL = valCPL.value;
+    document.getElementById("valueBPs").value = valueCPL;
+}
 
 // JavaScript Document
 function characterModalRequested(elementID) {
@@ -34,13 +47,13 @@ function characterModalRequested(elementID) {
         action: 'causfa_set_session',
         Name: 'ptag',
         Input: tag
-    };*/
+    };
     jQuery.post(gencell_action_obj.ajax_url, form, function(data) {});
 	characterModalLoad();
     document.getElementById('recipient-name').value = '';
     jQuery('#characterModal').find('#transferIndex').val(id);
     jQuery('#characterModal').find('.asset-tag').html(tag);
-    jQuery('#characterModal').find('.asset-description').html(desc);
+    jQuery('#characterModal').find('.asset-description').html(desc);*/
     jQuery('#characterModal').modal();
     jQuery('#characterModal').modal('open');
 
