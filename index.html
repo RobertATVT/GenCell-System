@@ -8,7 +8,8 @@
     
     <link href="Paradox-Grid/paradox.css" rel="stylesheet" type="text/css">
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
-    <link href="assets/css/materialize.css" rel="stylesheet" type="text/css">
+    <!--<link href="assets/css/materialize.css" rel="stylesheet" type="text/css">-->
+	<link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css">
 
 </head> 
 <body>
@@ -60,51 +61,57 @@
 			<div class="rw">
 				<div class="cl m5 t24">
 					<div class="cl t24 p5">
-						<div class="rw card-container b-white p5">
+						<div class="rw card-container b-white">
 							<div class="cl t24 card-header b t-blue ubuntu">CHARACTER INFORMATION</div>
 							<div class="cl t24 card-body p10">
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
 								<div class="cl t24 text-right">
-									<button class="btn primary" onclick="characterModalRequested()">CREATE NEW CHARACTER</button>
+									<button class="btn primary" data-toggle="modal" data-target="#characterModal">CREATE NEW CHARACTER</button>
 								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
 					<div class="cl t24 p5">
-						<div class="rw card-container b-white p5">
+						<div class="rw card-container b-white">
 							<div class="cl t24 card-header b t-blue ubuntu">CHARACTER INFORMATION</div>
 							<div class="cl t24 card-body p10">
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" data-toggle="modal" data-target="#characterModal">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
 					<div class="cl t24 p5">
-						<div class="rw card-container b-white p5">
+						<div class="rw card-container b-white">
 							<div class="cl t24 card-header b t-blue ubuntu">CHARACTER INFORMATION</div>
 							<div class="cl t24 card-body p10">
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" data-toggle="modal" data-target="#characterModal">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
 					</div>
 					<div class="cl t24 p5">
-						<div class="rw card-container b-white p5">
+						<div class="rw card-container b-white">
 							<div class="cl t24 card-header b t-blue ubuntu">CHARACTER INFORMATION</div>
 							<div class="cl t24 card-body p10">
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" data-toggle="modal" data-target="#characterModal">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
@@ -112,7 +119,7 @@
 				</div>
 				<div class="cl m19 t24">
 					<div class="cl t24 p5">
-						<div class="rw card-container b-white p5">
+						<div class="rw card-container b-white">
 							<div class="cl t24 card-header t-blue ubuntu">Rulebook</div>
 							<div id="main-content" class="cl t24 card-body p10"></div>
 							<div class="cl t24 card-footer"></div>
@@ -123,76 +130,82 @@
 		</div>
 	</div>
     
-    <div id="characterModal" class="modal">
-        <div class="modal-content">
-            <h4 class="center modal-title b-blue-d3 ubuntu">Character Creation</h4> 
-            <div class="rw" style="padding: 10px; margin-bottom: 0px;">
-                <div class="rw modal-info" style="margin-bottom: 0px;">
-                    <div class="cl m4 t24 info-title" style="padding: 0px;">Setting:</div>
-                    <div class="cl m7 t24 left">
-                        <select id="settingSelect">
-                            <option value="Antitrust">Antitrust</option>
-                            <option value="Mists of Erluun">Mists of Erluun</option>
-                            <option value="Steamshot">Steamshot</option>
-                            <option value="Velvet Skies">Velvet Skies</option>
-                            <option value="other">Other setting not listed</option>
-                        </select>
-                    </div>
-                    <div class="cl m2 t24"></div>
-                    <div class="cl m4 t24 info-title" style="padding: 0px;">Campaign Power Level: </div>
-                    <div class="cl m7 t24">
-                        <select id="cplSelect" onChange="setCPL(this)">
-                            <option value="15">Normal Campaign</option>
-                            <option value="20">Strong Campaign</option>
-                            <option value="25">Powerful Campaign</option>
-                            <option value="30">Epic Campaign</option>
-                        </select>
-                    </div>
-                </div>
-            </div>
-            <div class="rw" style="padding: 10px;margin-bottom: 0px; margin-top: -10px;">
-                <div class="rw modal-info" style="margin-bottom: 0px">
-                    <form autocomplete="off">
-                        <div class="left cl m2 t12">BPs</div>
-                        <div class="left cl m2 t12"><input type="text" id="valueBPs" value="0"></div>
-                        <div class="cl m2 t12 center">Breed</div>
-                        <div class="cl m2 t12 center">
-                            <input type="number" id="cplBreed" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
-                        <div class="cl m2 t12 center">Attributes</div>
-                        <div class="cl m2 t12 center">
-                            <input type="number" id="cplAttributes" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
-                        <div class="cl m2 t12 center">Skills</div>
-                        <div class="cl m2 t12 center">
-                            <input type="number" id="cplSkills" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
-                        <div class="cl m2 t12 center">Talents</div>
-                        <div class="cl m2 t12 center">
-                            <input type="number" id="cplTalents" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
-                        <div class="cl m2 t12 center">Resources</div>
-                        <div class="cl m2 t12 center">
-                            <input type="number" id="cplResources" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
-                    </form>
-                </div>
-            </div>
-            <div class="rw" style="margin-bottom: 0px;padding: 10px; margin-top: -10px;">
-                <div class="cl t24 modal-info" style="padding: 10px;padding-bottom: 0px;">
-                    <p class="center info-title">Please enter the PID of the person that you wish to transfer this asset to and then click Submit to alert your IT and Fixed Assets Liaison to facilitate the transfer.</p>
-                </div>
-            </div>
-        </div>
-        <div class="modal-footer">
-            <div class="rw">
-                <div class="center cl t12 hide-medium-up">
-                    <button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
-                </div>
-                <div class="center cl t12 hide-medium-up">
-                    <button type="button" class="btn btn-secondary modal-close">Cancel</button>
-                </div>
-                <div class="cl t24 hide-small-down">
-                    <button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
-                    <button type="button" class="btn btn-secondary modal-close">Cancel</button>
-                </div>
-            </div>
-        </div>
+    <div class="modal fade" id="characterModal" tab-index="-1" role="dialog" aria-labelledby="characterCreationModal" aria-hidden="true">
+		<div class="modal-dialog modal-dialog-centered" role="document">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="center modal-title b-blue-d3 ubuntu">Character Creation</h4> 
+				</div>
+				<div class="modal-body">
+					<div class="rw" style="padding: 10px; margin-bottom: 0px;">
+						<div class="rw modal-info" style="margin-bottom: 0px;">
+							<div class="cl m4 t24 info-title" style="padding: 0px;">Setting:</div>
+							<div class="cl m7 t24 left">
+								<select id="settingSelect">
+									<option value="Antitrust">Antitrust</option>
+									<option value="Mists of Erluun">Mists of Erluun</option>
+									<option value="Steamshot">Steamshot</option>
+									<option value="Velvet Skies">Velvet Skies</option>
+									<option value="other">Other setting not listed</option>
+								</select>
+							</div>
+							<div class="cl m2 t24"></div>
+							<div class="cl m4 t24 info-title" style="padding: 0px;">Campaign Power Level: </div>
+							<div class="cl m7 t24">
+								<select id="cplSelect" onChange="setCPL(this)">
+									<option value="15">Normal Campaign</option>
+									<option value="20">Strong Campaign</option>
+									<option value="25">Powerful Campaign</option>
+									<option value="30">Epic Campaign</option>
+								</select>
+							</div>
+						</div>
+					</div>
+					<div class="rw" style="padding: 10px;margin-bottom: 0px; margin-top: -10px;">
+						<div class="rw modal-info" style="margin-bottom: 0px">
+							<form autocomplete="off">
+								<div class="left cl m2 t12">BPs</div>
+								<div class="left cl m2 t12"><input type="text" id="valueBPs" value="0"></div>
+								<div class="cl m2 t12 center">Breed</div>
+								<div class="cl m2 t12 center">
+									<input type="number" id="cplBreed" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
+								<div class="cl m2 t12 center">Attributes</div>
+								<div class="cl m2 t12 center">
+									<input type="number" id="cplAttributes" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
+								<div class="cl m2 t12 center">Skills</div>
+								<div class="cl m2 t12 center">
+									<input type="number" id="cplSkills" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
+								<div class="cl m2 t12 center">Talents</div>
+								<div class="cl m2 t12 center">
+									<input type="number" id="cplTalents" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
+								<div class="cl m2 t12 center">Resources</div>
+								<div class="cl m2 t12 center">
+									<input type="number" id="cplResources" min="1" max="5" step="1" value="2" onChange="adjustCPL(this)"></div>
+							</form>
+						</div>
+					</div>
+					<div class="rw" style="margin-bottom: 0px;padding: 10px; margin-top: -10px;">
+						<div class="cl t24 modal-info" style="padding: 10px;padding-bottom: 0px;">
+							<p class="center info-title">Please enter the PID of the person that you wish to transfer this asset to and then click Submit to alert your IT and Fixed Assets Liaison to facilitate the transfer.</p>
+						</div>
+					</div>
+				</div>
+				<div class="modal-footer">
+					<div class="rw">
+						<div class="center cl t12 hide-medium-up">
+							<button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
+						</div>
+						<div class="center cl t12 hide-medium-up">
+							<button type="button" class="btn btn-secondary modal-close">Cancel</button>
+						</div>
+						<div class="cl t24 hide-small-down">
+							<button type="button" class="btn btn-primary" id="transferButton" onclick="validateForm(this)">Transfer</button>
+							<button type="button" class="btn btn-secondary modal-close">Cancel</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
     </div>
 	
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
@@ -200,7 +213,8 @@
 	<script src="Paradox-Grid/paradox.js"></script>
 	<script src="Paradox-Grid/waves.js"></script>
     <script src="assets/js/main.js"></script>
-    <script src="assets/js/materialize.js"></script>
+    <!--<script src="assets/js/materialize.js"></script>-->
+	<script src="assets/js/bootstrap.js"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
     <script src="https://unpkg.com/tippy.js@2.4.1/dist/tippy.all.min.js"></script>
 

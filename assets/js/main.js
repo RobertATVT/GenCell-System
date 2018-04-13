@@ -55,7 +55,7 @@ function characterModalRequested(elementID) {
     jQuery('#characterModal').find('.asset-tag').html(tag);
     jQuery('#characterModal').find('.asset-description').html(desc);*/
     jQuery('#characterModal').modal();
-    jQuery('#characterModal').modal('open');
+    jQuery('#characterModal').modal('show');
 
 }
 function characterModalLoad(elementID) {
