@@ -299,7 +299,6 @@ abbr::after {
 	margin: -5px 10px 10px 0px;
 	padding-bottom: 4px;
 }
-
 #BreedSelector {
     background: #fff;
     color: #333;
@@ -315,62 +314,16 @@ abbr::after {
     font-weight: 700;
     align-content: center;
 }
-
-#characterName {
+.detailBox-Medium {
+    padding-left: 6px !important;
+    padding-right: 4px !important;
+}
+.detailBox-Large {
     padding-left: 0px !important;
     padding-right: 0px !important;
 }
-#characterBreed {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-#characterBreed > select {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-#playerName {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-#characterHeight {
-    padding-left: 5px !important;
-    padding-right: 6px !important;
-}
-#characterWeight {
-   padding-left: 6px !important;
-   padding-right: 4px !important;
-}
-#characterHair {
-   padding-left: 6px !important;
-   padding-right: 4px !important;
-}
-#characterEyes {
-   padding-left: 6px !important;
-   padding-right: 4px !important;
-}
-#characterBuild {
-   padding-left: 6px !important;
-   padding-right: 4px !important;
-}
-#characterAge {
-   padding-left: 6px !important;
-   padding-right: 4px !important;
-}
-#characterOccupation {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-#characterResidence {
-    padding-left: 0px !important;
-    padding-right: 0px !important;
-}
-
-.detailSmall {
-    width: 32%;
-}
-
 .detailMedium {
-    width: 100%;
+    width: 95%;
 }
 
 .detailLarge{
@@ -395,6 +348,14 @@ abbr::after {
     background: #777;
     color: #fff;
     text-align: center;
+}
+.SectionTitle{
+   border: 1px solid #777; 
+    background: #777; 
+    color: #fff; 
+    font-weight: 700; 
+    font-size: 18px; 
+    text-transform: uppercase;
 }
 .PhysiqueTitle {
     font-weight: 700; 
