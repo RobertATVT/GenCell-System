@@ -378,23 +378,43 @@ abbr::after {
 }
 
 .detailText{
-    border: 1px solid #999;
+    border: 1px solid #777;
     height: 14px; 
     padding-left: 5px;
     font-size: 12px;
     background: #fff;
 }
 .detailLabel{
-    border: 1px solid #999;
+    border: 1px solid #777;
     height: 10px;
     margin-top: 2px;
     padding-left: 5px;
     font-size: 10px;
     text-transform: uppercase;
     font-weight: 700;
-    background: #efefef;
+    background: #777;
+    color: #fff;
     text-align: center;
 }
+.PhysiqueTitle {
+    font-weight: 700; 
+    font-size: 16px; 
+    color: #C13; 
+    text-transform: uppercase;
+}
+.IntellectTitle {
+    font-weight: 700; 
+    font-size: 16px; 
+    color: #139; 
+    text-transform: uppercase;
+}
+.SpiritTitle {
+    font-weight: 700; 
+    font-size: 16px; 
+    color: #193; 
+    text-transform: uppercase;
+}
+
 
 #charLvl {width: 29px;}
 #youth {width: 90px;}
