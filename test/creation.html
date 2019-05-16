@@ -11,6 +11,10 @@
     <script src="Paradox-Grid/waves.js"></script>
 
     <script type="text/javascript">
+        $(document).ready(function() {
+            //Function call
+            ccInitialize();
+        });
         function titleChange(event) {
             document.title = $('#charName').val() + "";
         }
@@ -127,21 +131,59 @@
     <div class="rw">
         <div class="cl t1"></div>
         <div class="cl t22">
-            <div class="rw" style="border: 1px solid #888; margin: 5px auto; width: 99%;">
+            <div class="rw" style="border: 1px solid #888; margin: 5px auto; width: 99%;padding-top: 10px;padding-bottom: 10px;">
                 <div class="cl t8 center" id="characterPhysique">
                     <div class="rw">
-                        <span class="PhysiqueTitle">Physique</span>
+                        <div class="cl t24 center">
+                            <span class="PhysiqueTitle">Physique</span>
+                        </div>
+                    </div>
+                    <div class="rw">
+                        <div class="cl t8"></div>
+                        <div class="cl t8 center">
+                            <input type="text" id="physiqueValue" readyonly>
+                        </div>
+                        <div class="cl t8"></div>
                     </div>
                 </div>
                 <div class="cl t8 center" id="characterIntellect">
-                    <span class="IntellectTitle">Intellect</span>
+                    <div class="rw">
+                        <div class="cl t24 center">
+                            <span class="IntellectTitle">Intellect</span>
+                        </div>
+                    </div>
+                    <div class="rw">
+                        <div class="cl t8"></div>
+                        <div class="cl t8 center">
+                            <input type="text" id="intellectValue" readyonly>
+                        </div>
+                        <div class="cl t8"></div>
+                    </div>
                 </div>
                 <div class="cl t8 center" id="characterSpirit">
-                    <span class="SpiritTitle">Spirit</span>
+                    <div class="rw">
+                        <div class="cl t24 center">
+                            <span class="SpiritTitle">Spirit</span>
+                        </div>
+                    </div>
+                    <div class="rw">
+                        <div class="cl t8"></div>
+                        <div class="cl t8 center">
+                            <input type="text" id="spiritValue" readyonly>
+                        </div>
+                        <div class="cl t8"></div>
+                    </div>
                 </div>
             </div>
         </div>
-        <div class="cl t1"></div>
+        <div class="cl t1 center">
+            <div class="rw">
+                <div class="cl t24 center" style="padding-top: 15px;">
+                    AP's<br>
+                    <input type="text" id="apValue" readyonly>
+                </div>
+            </div>
+        </div>
     </div>
     <div class="rw" style="padding: 5px !important;"></div>
     <div class="rw" style="display: none;">

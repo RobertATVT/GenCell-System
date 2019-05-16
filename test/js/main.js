@@ -1,4 +1,3 @@
- 
 function hide (hideTarget){
   //console.log("hide: " + hideTarget);
   $("#" + hideTarget).addClass('hidden');
@@ -12,7 +11,16 @@ function show (showTarget){
   $("#hide" + showTarget).removeClass('hidden');
   $("#show" + showTarget).addClass('hidden');
 }
-
+function ccInitialize () {
+    var physiqueValue = 1;
+    var intellectValue = 1;
+    var spiritValue = 1;
+    var apValue = 12;
+    document.getElementById("physiqueValue").value = physiqueValue;
+    document.getElementById("intellectValue").value = intellectValue;
+    document.getElementById("spiritValue").value = spiritValue;
+    document.getElementById("apValue").value = apValue;
+}
 function showDesc (showTarget){
   //console.log("showTarget: " + showTarget);
   document.getElementById(showTarget).style.display = "block";
@@ -35,21 +43,39 @@ function populateBreedInfo (e){
     switch (breedSelected) {
         case "Mortal":
             document.getElementById("leaderBreed").value = "Mentor's Name";
+            document.getElementById("physiqueValue").value = 1;
+            document.getElementById("intellectValue").value = 1;
+            document.getElementById("spiritValue").value = 1;
             break;
         case "Fae":
             document.getElementById("leaderBreed").value = "Regent's Name";
+            document.getElementById("physiqueValue").value = 1;
+            document.getElementById("intellectValue").value = 1;
+            document.getElementById("spiritValue").value = 2;
             break;
         case "Construct":
             document.getElementById("leaderBreed").value = "Creator's Name";
+            document.getElementById("physiqueValue").value = 2;
+            document.getElementById("intellectValue").value = 1;
+            document.getElementById("spiritValue").value = 1;
             break;
         case "Vampire":
             document.getElementById("leaderBreed").value = "Elder's Name";
+            document.getElementById("physiqueValue").value = 2;
+            document.getElementById("intellectValue").value = 2;
+            document.getElementById("spiritValue").value = 0;
             break;
         case "Werewolf":
             document.getElementById("leaderBreed").value = "Alpha's Name";
+            document.getElementById("physiqueValue").value = 3;
+            document.getElementById("intellectValue").value = 0;
+            document.getElementById("spiritValue").value = 1;
             break;
         default:
             document.getElementById("leaderBreed").value = "";
+            document.getElementById("physiqueValue").value = 1;
+            document.getElementById("intellectValue").value = 1;
+            document.getElementById("spiritValue").value = 1;
             break;
     }
     /*if (breedSelected == "Mortal") {

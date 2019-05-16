@@ -363,11 +363,27 @@ abbr::after {
     color: #C13; 
     text-transform: uppercase;
 }
+#physiqueValue {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    margin: 0px auto;
+    color: #C13;
+}
 .IntellectTitle {
     font-weight: 700; 
     font-size: 16px; 
     color: #139; 
     text-transform: uppercase;
+}
+#intellectValue {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    margin: 0px auto;
+    color: #139;
 }
 .SpiritTitle {
     font-weight: 700; 
@@ -375,8 +391,22 @@ abbr::after {
     color: #193; 
     text-transform: uppercase;
 }
-
-
+#spiritValue {
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    font-size: 36px;
+    margin: 0px auto;
+    color: #193; 
+}
+#apValue {
+    width: 85%;
+    padding: 5px;
+    text-align: center;
+    font-size: 36px;
+    margin: 0px auto;
+    color: #999; 
+}
 #charLvl {width: 29px;}
 #youth {width: 90px;}
 #training {width: 90px;}
