@@ -23,6 +23,47 @@ function hideDesc (hideTarget){
   document.getElementById(hideTarget).style.display = "none";
 }
 
+function populateBreedInfo (e){
+    var breedSelected = $(e.target).val();
+    //console.log("populateRoleInfo roleSelected: " + roleSelected);
+    //modifiedSkill = modifiedSkill.replace('SkillRank', '');
+    var breedAbilities = [];
+    breedAbilities.push(breedSelected);
+    var jsonAbilities = JSON.stringify(breedAbilities);
+    //console.log("populateRoleInfo roleAbilities: " + roleAbilities);
+    //console.log("populateRoleInfo jsonAbilities: " + jsonAbilities);
+    switch (breedSelected) {
+        case "Mortal":
+            document.getElementById("leaderBreed").value = "Mentor's Name";
+            break;
+        case "Fae":
+            document.getElementById("leaderBreed").value = "Regent's Name";
+            break;
+        case "Construct":
+            document.getElementById("leaderBreed").value = "Creator's Name";
+            break;
+        case "Vampire":
+            document.getElementById("leaderBreed").value = "Elder's Name";
+            break;
+        case "Werewolf":
+            document.getElementById("leaderBreed").value = "Alpha's Name";
+            break;
+        default:
+            document.getElementById("leaderBreed").value = "";
+            break;
+    }
+    /*if (breedSelected == "Mortal") {
+        document.getElementById("leaderBreed").value = "Mentor's Name";  
+    } else if (breedSelected == "Fae") {
+      document.getElementById("leaderBreed").value = "Lord's Name"; 
+    } else if (breedSelected == "Construct") {
+      document.getElementById("leaderBreed").value = "Leader's Name"; 
+    } else if (breedSelected == "Vampire") {
+      document.getElementById("leaderBreed").value = "Elder's Name"; 
+    } else if (breedSelected == "Werewolf") {
+      document.getElementById("leaderBreed").value = "Alpha's Name"; 
+    }*/
+  }
 
 function saveCharacter (){
   var characterToSave = {
@@ -449,24 +490,6 @@ function proficiencyListManagement(attackType) {
     })
   }, 'json');
 }
-
-function populateBreedInfo (e){
-    var breedSelected = $(e.target).val();
-    //console.log("populateRoleInfo roleSelected: " + roleSelected);
-    //modifiedSkill = modifiedSkill.replace('SkillRank', '');
-    var breedAbilities = [];
-    breedAbilities.push(breedSelected);
-    var jsonAbilities = JSON.stringify(breedAbilities);
-    //console.log("populateRoleInfo roleAbilities: " + roleAbilities);
-    //console.log("populateRoleInfo jsonAbilities: " + jsonAbilities);
-    if (breedSelected == "Mortal"){
-        document.getElementById("leaderBreed").value = "Mentor's Name"; //data is the element
-      
-    }else if (breedSelected == "Fae"){
-      document.getElementById("leaderBreed").value = "Lord's Name"; //data is the element
-    }
-  }
-
 
 function populateExploitMenu(menuID) {
   var skills = [];

@@ -2,9 +2,9 @@
 <html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-    <title>Prae Character Sheet</title>
+    <title>Gen-Cell Basic Character Sheet</title>
     <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
-    <script src="js/newcharCreation.js"></script>
+    <script src="js/main.js"></script>
     <script src="js/jquery.sticky-kit.js"></script>
     <script src="js/jquery-ui.min.js"></script>
     <script src="Paradox-Grid/paradox.js"></script>
@@ -34,33 +34,41 @@
 
     </script>
 
-    <link rel="stylesheet" type="text/css" href="css/newCClayout.css">
-    <!-- <link rel="stylesheet" type="text/css" href="css/normailze.css"> -->
-    <link rel="stylesheet" type="text/css" href="css/d10general.css">
+    <link rel="stylesheet" type="text/css" href="css/cc-layout.css">
     <link rel="stylesheet" type="text/css" href="Paradox-Grid/paradox.css">
 
 </head>
 
 <body>
-<div id="main-container">
+<div id="main-container" style="border: 1px solid #888; width: 1280px; margin: 10px auto; padding: 10px;">
     <div class="rw">
-        <div class="cl t4"></div>
-        <div class="cl t16">
+        <div class="cl t24 center">
+            <span style="font-weight: 700;font-size: 30px;text-transform: uppercase;">gen-gell basic character creator</span><br>
+        </div>
+    </div>
+    <div class="rw">
+        <div class="cl t1"></div>
+        <div class="cl t22">
             <div class="rw">
                 <div class="cl t8 center" id="characterName">
-                    <input id="charName" class="detailText detailLarge" type="text" onchange="titleChange();"><br>
+                    <input id="breedLabel" class="detailText detailLarge" type="text"><br>
                     <input class="detailLabel detailLarge" type="text" value="Character Name" readonly>
                 </div>
-                <div class="cl t8 center" id="genTitle">
-                    <span style="">Gen-Cell Basic</span><br>
-                    <select id="BreedSelector" onchange="populateBreedInfo(event);">
-                            <option value=""></option>
-                            <option value="Mortal" class="bodyColor">Mortal Character Sheet</option>
-                            <option value="Fae" class="bodyColor">Fae Character Sheet</option>
-                            <option value="Construct" class="bodyColor">Construct Character Sheet</option>
-                            <option value="Vampire" class="bodyColor">Vampire Character Sheet</option>
-                            <option value="Werewolf" class="bodyColor">Werewolf Character Sheet</option>
+                <div class="cl t8 center" id="characterBreed">
+                    <div class="cl t24" style="padding-left: 6px !important; padding-right: 6px !important;">
+                        <select id="BreedSelector" onchange="populateBreedInfo(event);">
+                            <option value="">Choose Breed</option>
+                            <option value="Mortal" class="bodyColor">Mortal</option>
+                            <option value="Fae" class="bodyColor">Fae</option>
+                            <option value="Construct" class="bodyColor">Construct</option>
+                            <option value="Vampire" class="bodyColor">Vampire</option>
+                            <option value="Werewolf" class="bodyColor">Werewolf</option>
                         </select>
+                    </div>
+                    <div class="cl t24">
+                        <input id="charBreed" class="detailLabel detailLarge" type="text" value="Select Breed" style="text-align:center" readonly>
+                    </div>
+                    
                 </div>
                 <div class="cl t8 center" id="playerName">
                     <input id="charPlayer" class="detailText detailLarge" type="text"><br>
@@ -109,8 +117,14 @@
                     <input class="detailLabel detailLarge" type="text" value="Residence" readonly>
                 </div>
             </div>
-            <div class="rw" style="padding: 5px !important;"></div>
-            <div class="rw">
+        </div>
+        <div class="cl t1"></div>
+    </div>
+    <div class="rw" style="padding: 5px !important;"></div>
+    <div class="rw">
+        <div class="cl t1"></div>
+        <div class="cl t22">
+            <div class="rw" style="border: 1px solid #888; margin: 5px auto; width: 99%;">
                 <div class="cl t8 center" id="characterHair">
                     Physique
                 </div>
@@ -121,8 +135,11 @@
                     Spirit
                 </div>
             </div>
-            <div class="rw" style="padding: 5px !important;"></div>
-            <div class="rw">
+        </div>
+        <div class="cl t1"></div>
+    </div>
+    <div class="rw" style="padding: 5px !important;"></div>
+    <div class="rw" style="display: none;">
                         Level <input id="charLvl" class="charText" type="number" min="1" max="11" step="1" value="1" onkeyup="skillPoints(event); setAbilityAmount(event); setAttPoints(event);" onmouseup="skillPoints(event); setAbilityAmount(event); setAttPoints(event);">
                         Childhood <input id="childhood" class="charText" type="text">
                         Training <input id="training" class="charText" type="text">
@@ -258,7 +275,7 @@
                     </div>
                 -->
                         <button id="charSave" onclick="saveCharacter();">Save</button>
-                    </div>
+                    
 
                     <div class="secondaryAttributesWrapper">
                         <div class="flex">
@@ -1744,11 +1761,7 @@
                             </fieldset>
                         </div>
                     </div> <!-- End abilityWrapper -->
-            </div>
-        </div>
-        <div class="cl t4"></div>
-    </div>
+                </div>
 </div>
 </body>
-
 </html>
