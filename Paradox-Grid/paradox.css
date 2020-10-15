@@ -1,0 +1,330 @@
+@charset "utf-8";
+/* BEGIN PARADOX GRID SETUP */
+
+@import 'includes/normalize.css';
+@import 'includes/paradox-tiny.css';
+@import 'includes/paradox-small.css';
+@import 'includes/paradox-medium.css';
+@import 'includes/paradox-large.css';
+@import 'includes/paradox-xlarge.css';
+@import 'includes/paradox-xxlarge.css';
+@import 'includes/paradox-colors.css';
+@import 'includes/paradox-typography.css';
+@import 'includes/paradox-utilities.css';
+@import 'includes/paradox-elements.css';
+@import 'includes/paradox-sidenav.css';
+@import 'includes/waves.css';
+
+/*========== ROOT DEFINITIONS ==========*/
+
+:root {
+    --col-1: 4.1666666667%;
+    --col-2: 8.3333333333%;
+    --col-3: 12.5%;
+    --col-4: 16.6666666667%;
+    --col-5: 20.8333333333%;
+    --col-6: 25%;
+    --col-7: 29.1666666667%;
+    --col-8: 33.3333333333%;
+    --col-9: 37.5%;
+    --col-10: 41.6666666667%;
+    --col-11: 45.8333333333%;
+    --col-12: 50%;
+    --col-13: 54.1666666667%;
+    --col-14: 58.3333333333%;
+    --col-15: 62.5%;
+    --col-16: 66.6666666667%;
+    --col-17: 70.8333333333%;
+    --col-18: 75%;
+    --col-19: 79.1666666667%;
+    --col-20: 83.3333333333%;
+    --col-21: 87.5%;
+    --col-22: 91.6666666667%;
+    --col-23: 95.8333333333%;
+    --col-24: 100%;
+}
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+}
+ul:not(.browser-default) {
+  padding-left: 0;
+  list-style-type: none;
+}
+
+ul:not(.browser-default) > li {
+  list-style-type: none;
+}
+
+
+/* BASE GRID ROW/COLUMN STRUCTURE */
+#main-container {
+	padding: 0px;
+	margin: 0px auto;
+	z-index: 50;
+}
+
+.rw {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+.rw:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.cl {
+    float: left;
+    -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+    padding: 0px;
+    min-height: 1px;
+	margin: 0px;
+}
+
+/* SIDENAV SETTINGS */
+#main-body {
+	float: left;
+	position: relative;
+	width: 100%;
+	height: 100%;
+    padding-left: 37px;
+    padding-right: 0px;
+}
+#sidenav {
+	transition: left .3s;
+	float: left;
+	position: fixed;
+	width: 265px;
+	left: 0px;
+	margin: 0px;
+	-webkit-transform: translateX(-100%);
+		  transform: translateX(-100%);
+	height: 100%;
+	height: calc(100% + 60px);
+	height: -moz-calc(100%);
+	padding-bottom: 60px;
+	z-index: 998;
+	overflow-y: auto;
+	will-change: transform;
+	-webkit-backface-visibility: hidden;
+		  backface-visibility: hidden;
+
+}
+#sidenav >ul li:hover {
+	background-color: #efeff2;
+}
+#sidenav >ul li {
+	cursor: pointer;
+}
+#sidenav-toggle {
+	font-size: 30px;
+	line-height: 30px;
+	cursor: pointer;
+}
+.side-icons {
+	font-size: 15px;
+	line-height: 15px;
+	cursor: pointer;
+}
+#sidenav-small {
+	transition: left .3s;
+	float: left;
+	position: fixed;
+	left: 35px;
+	width: 35px !important;
+	-webkit-transform: translateX(-100%);
+		  transform: translateX(-100%);
+	height: 100%;
+	height: calc(100% + 60px);
+	height: -moz-calc(100%);
+	padding-bottom: 60px;
+	z-index: 999;
+	-webkit-box-shadow: 2px 0px 2px 0px rgba(0,0,0,.1);
+	-moz-box-shadow: 2px 0px 2px 0px rgba(0,0,0,.1);
+	box-shadow: 2px 0px 2px 0px rgba(0,0,0,.1);
+}
+.sidenav-overlay {
+	z-index: 900;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0,0,0,.3);
+}
+.card-container {
+	border: 1px solid #ccc; 
+	border-radius: 3px;
+	-webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.1);
+	-moz-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.1);
+	box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.1);
+}
+.card-header {
+	min-height: 25px;
+	border-radius: 3px 3px 0 0;
+	border-bottom: 1px solid #ddd;
+	line-height: 25px;
+	text-align: center;
+	font-size: 1.15rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	padding: 5px !important;
+	background: rgba(0,0,0,0.03);
+	
+}
+.card-body {
+	min-height: 30px;
+	border-radius: 0;
+	padding: 5px !important;
+}
+.card-footer {
+	min-height: 10px;
+	border-radius: 0 0 3px 3px;
+	border-top: 1px solid #ddd;
+	line-height: 10px;
+	text-align: center;
+}
+
+
+/* DEFAULT ALL SCREEN GRID */
+
+@media only screen and (min-width: 200px) {
+  	.hide-tiny {
+    	display: none !important;
+  	}
+	.hide-tiny-up {
+    	display: none !important;
+  	}
+	.hide-small-down, .hide-medium-down, .hide-large-down, .hide-xlarge-down, .hide-xxlarge-down {
+		display: none !important;
+	}
+}
+
+@media only screen and (min-width: 400px) {
+  	.hide-small {
+    	display: none !important;
+  	}
+	.hide-tiny-up, .hide-small-up {
+		display: none !important;
+	}
+	.hide-small-down, .hide-medium-down, .hide-large-down, .hide-xlarge-down, .hide-xxlarge-down {
+		display: none !important;
+	}
+}
+@media only screen and (min-width: 600px) {
+
+	.show-medium-up {
+    	display: block !important;
+  	}
+	.hide-medium {
+    	display: none !important;
+  	}
+	.hide-tiny-up, .hide-small-up, .hide-medium-up {
+		display: none !important;
+	}
+	.hide-large-down {
+		display: none !important;
+	}
+}
+@media only screen and (min-width: 992px) {
+	.show-large {
+		display: block !important;
+	}
+  	.hide-large {
+    	display: none !important;
+  	}
+	.hide-tiny-up, .hide-small-up, .hide-medium-up, .hide-large-up {
+		display: none !important;
+	}
+	.hide-large-down {
+		display: none !important;
+	}
+}
+@media only screen and (min-width: 1200px) {
+  	.hide-xlarge {
+    	display: none !important;
+  	}
+	.hide-tiny-up, .hide-small-up, .hide-medium-up, .hide-large-up, .hide-xlarge-up {
+		display: none !important;
+	}
+}
+@media only screen and (min-width: 1600px) {
+  	.hide-xxlarge {
+    	display: none !important;
+  	}
+	.hide-tiny-up, .hide-small-up, .hide-medium-up, .hide-large-up, .hide-xlarge-up {
+		display: none !important;
+	}
+}
+@media only screen and (max-width: 399px) {
+	.show-small {
+		display: block !important;
+  	}
+	.center-small {
+		text-align: center;
+  	}
+}
+@media only screen and (max-width: 599px) {
+	.show-small, .show-medium {
+		display: block !important;
+  	}
+	.center-small {
+		text-align: center;
+  	}
+}
+@media only screen and (max-width: 991px) {
+	.show-medium-down {
+    	display: block !important;
+  	}
+  	.hide-medium-down {
+    	display: none !important;
+  	}
+}
+@media only screen and (max-width: 1199px) {
+  .hide-large-down {
+    display: none !important;
+  }
+}
+@media only screen and (max-width: 1599px) {
+  .hide-xlarge-down {
+    display: none !important;
+  }
+}
+
+
+/* T Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 400px) {
+    
+}
+
+/* S Small devices (landscape phones, 576px and up) */
+@media (min-width: 401px) {
+    
+}
+
+/* M Medium devices (tablets, 768px and up) */
+@media (min-width: 601px) {
+
+}
+
+/* L Large devices (desktops, 992px and up) */
+@media (min-width: 993px) {
+    
+}
+
+/* XL Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1201px) {
+    
+}
+
+/* XXL Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1601px) {
+
+}
+
+/* END PARADOX GRID SETUP */

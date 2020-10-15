@@ -11,7 +11,7 @@
 function gencell_activate_plugin() {
     // Checks if the version of WordPress is 4.5 or higher
     if( version_compare( get_bloginfo('version'), '4.5', '<' )) {
-        wp_die(__('You must update WordPress to use this plugin', 'CAUS Fixed Assets Application'));
+        wp_die(__('You must update WordPress to use this plugin', 'Gen-Cell Application'));
     }
     $upload = wp_upload_dir();
     $upload_dir = $upload['basedir'];

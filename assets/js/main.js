@@ -38,22 +38,7 @@ function setCPL(valCPL) {
     document.getElementById("valueBPs").value = valueCPL;
 }
 
-// JavaScript Document
 function characterModalRequested(elementID) {
-/*    var id = elementID.split('-')[1];
-    var tag = document.getElementById(('asset-tag-' + id)).innerHTML ;
-    var desc = document.getElementById(('asset-desc-' + id)).innerHTML;
-    var form = {
-        action: 'causfa_set_session',
-        Name: 'ptag',
-        Input: tag
-    };
-    jQuery.post(gencell_action_obj.ajax_url, form, function(data) {});
-	characterModalLoad();
-    document.getElementById('recipient-name').value = '';
-    jQuery('#characterModal').find('#transferIndex').val(id);
-    jQuery('#characterModal').find('.asset-tag').html(tag);
-    jQuery('#characterModal').find('.asset-description').html(desc);*/
     jQuery('#characterModal').modal();
     jQuery('#characterModal').modal('show');
 

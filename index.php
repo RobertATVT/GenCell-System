@@ -23,7 +23,7 @@ define( 'GENCELL_PLUGIN_URL', __FILE__);
 //Includes
 include('includes/activate.php');
 include('enqueue/enqueue.php');
-include('includes/app-view.php');
+include('views/app-view.php');
 include('includes/functions.php');
 //include('process/filter-content.php');
 //include('includes/groups.php');
@@ -46,26 +46,9 @@ add_action( 'wp_enqueue_scripts', 'gencell_enqueue', 100);
 //add_action( 'wp_login', 'causfa_logger_login', 100, 2);
 register_activation_hook( __FILE__, 'gencell_activate_plugin' );
 //add_filter( 'gencell_header', 'gencell_filter_header', 10, 1);
-//add_filter( 'causfa_impact', 'causfa_filter_impact', 10, 4);
-//add_filter( 'causfa_asset_info', 'causfa_filter_asset_info', 10, 2);
-//add_action( 'wp_ajax_causfa_surplus', 'causfa_surplus');
-//add_action( 'wp_ajax_causfa_transfer_asset', 'causfa_transfer_asset');
-//add_action( 'wp_ajax_causfa_autocomplete_PID', 'causfa_autocomplete_PID');
-//add_action( 'wp_ajax_causfa_pending_action', 'causfa_pending_action');
-//add_action( 'wp_ajax_causfa_new_custodian', 'causfa_new_custodian');
-//add_action( 'wp_ajax_causfa_ajax_logger', 'causfa_ajax_logger');
-//add_action( 'wp_ajax_causfa_generate_form_Home', 'causfa_generate_form_Home');
-//add_action( 'wp_ajax_causfa_generate_form_Office', 'causfa_generate_form_Office');
-//add_action( 'wp_ajax_causfa_upload_image', 'causfa_upload_image');
-//add_action( 'wp_ajax_causfa_upload_form_home', 'causfa_upload_form_home');
-//add_action( 'wp_ajax_causfa_upload_form_office', 'causfa_upload_form_office');
-//add_action( 'wp_ajax_causfa_set_session', 'causfa_set_session');
-//add_action( 'wp_ajax_causfa_output_images', 'causfa_output_images');
-//add_action( 'wp_ajax_causfa_get_last_form', 'causfa_get_last_form');
+
 
 //Shortcode
-//add_shortcode( 'causfa', 'causfa_load_employee_view'); //shortcode for the main page of the app
-//add_shortcode( 'causfa_test', 'causfa_groups_FAL'); //shortcode for a dev space to test functionality
 add_shortcode( 'gencell', 'gencell_load_view'); //shortcode for the main page of the app
 add_shortcode( 'gencell-test', 'gencell-load-test'); //shortcode for a dev space to test functionality
 
