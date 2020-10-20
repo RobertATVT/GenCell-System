@@ -38,13 +38,13 @@
 				</div>
 			</div>
 		</div>
-		<div id="main-body" class="p10 b-grey-l2" onclick="">
+		<div id="main-body" class="p10 b-grey-d3" onclick="">
 			<div class="rw">
-				<div class="cl t24 p5 h1-text center text3d pb20">GEN-Cell System Dashboard</div>
-				<div class="cl t24 lh10" style="border-top: 2px solid rgba(0,0,0,.1)">&nbsp;</div>
+				<div class="cl t24 h1-text center thickFont dashboard-header gcRed-Font">GEN-Cell System Dashboard</div>
+				<div class="cl t24 lh10">&nbsp;</div>
 			</div>
 			<div class="rw">
-				<div class="cl m5 t24">
+				<div class="cl m5 t24" style="margin: 0px;">
 					<div class="cl t24 p5">
 						<div class="rw card-container b-white p5">
 							<div class="cl t24 card-header b t-blue ubuntu">CHARACTER INFORMATION</div>
@@ -53,7 +53,7 @@
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
 								<div class="cl t24 text-right">
-									<button class="btn primary" onclick="characterModalRequested(this)">CREATE NEW CHARACTER</button>
+									<button class="btn primary" onclick="gccModal('','characterCreation','',contentDialogs.characterCreation1)">CREATE NEW CHARACTER</button>
 								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
@@ -66,7 +66,9 @@
 								<div class="cl t8 lh40 h1-text">13</div>
 								<div class="cl t16 lh40 h8-text text-right">Number of Characters</div>
 								<div class="cl t24 lh10">&nbsp;</div>
-								<div class="cl t24 text-right"><button class="btn primary">CREATE NEW CHARACTER</button></div>
+								<div class="cl t24 text-right">
+									<button class="btn primary" onclick="characterModalRequested(this)">CREATE NEW CHARACTER</button>
+								</div>
 							</div>
 							<div class="cl t24 card-footer"></div>
 						</div>
@@ -108,3 +110,4 @@
 			</div>
 		</div>
 	</div>
+	<div id="gccModal" class="gccModal"></div>

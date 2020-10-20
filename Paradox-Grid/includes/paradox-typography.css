@@ -3,6 +3,7 @@
 /* SANS SERIF FONTS */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 /* MONOSPACE FONTS */
 @import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700');
@@ -29,6 +30,9 @@
 }
 .roboto {
 	font-family: 'Roboto', sans-serif;
+}
+.thickFont {
+	font-family: 'Montserrat', sans-serif;
 }
 .l {
 	font-weight: 300 !important;

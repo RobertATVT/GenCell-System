@@ -31,6 +31,31 @@ body {
 	outline: none;
 }
 
+.dashboard-header {
+	background: #f8b142;
+	border: 5px solid #000;
+	border-radius: 5px;
+}
+
+.gcRed-Font {
+	color: #c0232b !important;
+	font-size: 3em;
+	-webkit-text-stroke: 2px black;
+	text-transform: uppercase;
+}
+
+.gcRed-BG {
+	background-color: #c0232b !important;
+}
+
+.gcYellow-Font {
+	color: #f8b142 !important;
+}
+
+.gcYellow-BG {
+	background-color: #f8b142 !important;
+}
+
 /* MATERIALIZE CHANGES */
 
 input:not([type]), input[type=text]:not(.browser-default), input[type=password]:not(.browser-default), input[type=email]:not(.browser-default), input[type=url]:not(.browser-default), input[type=time]:not(.browser-default), input[type=date]:not(.browser-default), input[type=datetime]:not(.browser-default), input[type=datetime-local]:not(.browser-default), input[type=tel]:not(.browser-default), input[type=number]:not(.browser-default), input[type=search]:not(.browser-default), textarea.materialize-textarea {

@@ -47,7 +47,7 @@ function gencell_load_app() {
 	$result_user = $wpdb->get_row('SELECT * FROM '.$current_prefix.'users WHERE Email = "'.$current_user->user_email.'";');
 
 	$output = (file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'assets/templates/gencell-index.html', true ));
-	$output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'assets/templates/gencell-modal.html', true));
+	/*$output = $output.(file_get_contents(plugin_dir_path(GENCELL_PLUGIN_URL).'assets/templates/gencell-modal.html', true));*/
 	return $output;
 }
 
