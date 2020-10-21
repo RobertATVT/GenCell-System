@@ -77,3 +77,8 @@ function gccModalEnd(operation){
             $.modal.close();
     }
 }
+
+$("#custom-close").modal({
+	closeClass: 'icon-remove',
+	closeText: '!'
+});
